@@ -1,0 +1,116 @@
+"ID","Name","node.degree","node.betw","node.stress","node.evcent","Clustering.Coefficient","No.module","Zi","Pi","Phylum","Class","Order","Family","Genus","Species"
+1,"Zotu1",13,391.4800587,3922,0.246721453,0.346153846,4,1.267554559,0.390532544,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter",NA
+2,"Zotu100",3,7,7,2.39e-91,0,6,1.788854382,0,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured Caulobacterales bacterium"
+3,"Zotu102",3,42.5,671,0.002672302,0.666666667,2,0.866025404,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA
+4,"Zotu104",3,90.47768043,313,0.022621771,0.333333333,0,-0.713542856,0,"Cyanobacteria","Oxyphotobacteria","Chloroplast",NA,NA,NA
+5,"Zotu106",8,132.9921114,2999,0.082250161,0.464285714,0,1.458109314,0,"Planctomycetes","Phycisphaerae","Tepidisphaerales",NA,NA,NA
+6,"Zotu108",1,0,0,5.65e-92,0,6,-0.894427191,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3"
+7,"Zotu1116",4,495,4681,0.021485315,0.166666667,2,0.866025404,0.375,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA
+8,"Zotu113",6,89.48115887,1180,0.024478955,0.6,0,0.589448446,0,"Acidobacteria","Blastocatellia (Subgroup 4)","44889","uncultivated soil bacterium clone S111",NA,NA
+9,"Zotu1133",1,0,0,3.9e-128,0,10,0,0,"Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp."
+10,"Zotu119",2,1,2,0.002954705,0,0,-1.14787329,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+11,"Zotu120",1,0,0,3.9e-128,0,9,0,0,"Actinobacteria","Actinobacteria","Micrococcales","Microbacteriaceae","Leifsonia",NA
+12,"Zotu1210",4,186.546948,1246,0.056195129,0,5,0.816496581,0.5,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae",NA,NA
+13,"Zotu123",2,0,0,0.000288708,1,2,-1.154700538,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA
+14,"Zotu125",11,170.8613539,3446,0.195274893,0.545454545,1,0.469709093,0.512396694,"Cyanobacteria","Oxyphotobacteria","Nostocales",NA,NA,NA
+15,"Zotu127",8,297.3012543,1746,0.019665899,0.25,0,0.155118012,0.46875,"Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","JGI 0001001-H03","uncultured bacterium 164"
+16,"Zotu13",5,29.91025641,284,0.004985112,0.7,7,0.816496581,0.32,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3"
+17,"Zotu134",2,21.97768043,48,0.002978187,0,0,-1.14787329,0,"Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp."
+18,"Zotu135",6,50.99500855,1072,0.012949242,0.266666667,0,0.589448446,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA
+19,"Zotu14",1,0,0,3.9e-128,0,12,0,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+20,"Zotu141",1,0,0,3.9e-128,0,10,0,0,"Cyanobacteria","Oxyphotobacteria","Nostocales",NA,NA,NA
+21,"Zotu146",1,0,0,0.012054171,0,1,-1.91496784,0,"Proteobacteria","Gammaproteobacteria","Gammaproteobacteria Incertae Sedis","Unknown Family","Acidibacter","Punica granatum (pomegranate)"
+22,"Zotu148",3,12.5,17,1.01e-82,0,3,1.414213562,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+23,"Zotu150",4,2.511151576,30,0.044932703,0.666666667,1,-0.722629374,0,"Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Pseudoxanthomonas",NA
+24,"Zotu153",11,170.8613539,3446,0.195274893,0.545454545,1,0.469709093,0.512396694,"Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Pseudoxanthomonas",NA
+25,"Zotu156",3,0,0,0.044212699,1,4,-0.950665919,0.444444444,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Kitasatospora",NA
+26,"Zotu15827",5,29.91025641,284,0.004985112,0.7,7,0.816496581,0.32,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Acidobacteriales bacterium"
+27,"Zotu16",1,0,0,3.9e-128,0,11,0,0,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+28,"Zotu16362",2,32.64884301,189,0.006347163,0,5,0.816496581,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae",NA,NA
+29,"Zotu164",18,789.4840153,6800,0.261006704,0.183006536,4,1.822109679,0.5,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Enhydrobacter",NA
+30,"Zotu165",2,79.23929803,647,0.028591133,0,4,-0.950665919,0,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA
+31,"Zotu167",2,13.46700464,167,0.005055098,0,4,-0.950665919,0,"Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA
+32,"Zotu168",6,89.48115887,1180,0.024478955,0.6,0,0.589448446,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Blastocatella sp."
+33,"Zotu169",1,0,0,3.9e-128,0,13,0,0,"Actinobacteria","Actinobacteria","Pseudonocardiales","Pseudonocardiaceae","Amycolatopsis",NA
+34,"Zotu1703",1,0,0,0.004947572,0,0,-1.582203724,0,"Actinobacteria","Actinobacteria","Pseudonocardiales","Pseudonocardiaceae","Kibdelosporangium",NA
+35,"Zotu171",9,166.1249162,1900,0.113183008,0.333333333,1,0.867155248,0.197530864,"Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp."
+36,"Zotu172",7,21.73654327,626,0.118466602,0.761904762,1,0.469709093,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+37,"Zotu17692",8,132.9921114,2999,0.082250161,0.464285714,0,1.458109314,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+38,"Zotu18",10,625.5293515,6026,0.191141551,0.333333333,1,-1.120075529,0.54,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+39,"Zotu190",1,0,0,9.14e-92,0,6,-0.894427191,0,"Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA
+40,"Zotu191",3,170,1344,0.002383594,0.333333333,2,0.866025404,0,"Acidobacteria","Subgroup 6",NA,NA,NA,NA
+41,"Zotu2",8,45.50259121,1124,0.115077996,0.428571429,1,0.867155248,0,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA
+42,"Zotu20",3,1.416161616,26,0.031518338,0.333333333,1,-1.120075529,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+43,"Zotu202",1,0,0,1.44e-108,0,8,0,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+44,"Zotu205",1,0,0,0.017023352,0,1,-1.91496784,0,"Actinobacteria","Actinobacteria","Corynebacteriales","Nocardiaceae","Nocardia",NA
+45,"Zotu210",1,0,0,3.9e-128,0,11,0,0,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Escherichia-Shigella",NA
+46,"Zotu219",10,38.54542021,787,0.240329541,0.733333333,4,0.990276999,0.18,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+47,"Zotu222",12,599.8499529,6309,0.104016777,0.227272727,0,0.589448446,0.625,"Actinobacteria","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Cutibacterium",NA
+48,"Zotu224",4,42.7,1813,0.006708769,0.5,0,-0.279212422,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+49,"Zotu23",3,42.5,671,0.002672302,0.666666667,2,0.866025404,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium"
+50,"Zotu24",2,0,0,0.001449592,1,0,-1.14787329,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+51,"Zotu240",2,2.5,5,6.35e-83,0,3,0,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+52,"Zotu242",1,0,0,3.9e-128,0,13,0,0,"Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA
+53,"Zotu249",3,1.98506947,40,0.08728232,0.666666667,4,-0.67338836,0,"Proteobacteria","Gammaproteobacteria","Gammaproteobacteria Incertae Sedis","Unknown Family","Acidibacter","Punica granatum (pomegranate)"
+54,"Zotu263",5,31.4724295,308,0.033004783,0.3,0,0.155118012,0,"Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Kouleothrix","uncultured Chloroflexus sp."
+55,"Zotu27",3,128,1847,0.013754763,0,0,-0.713542856,0,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA
+56,"Zotu274",10,38.54542021,787,0.240329541,0.733333333,4,0.990276999,0.18,"Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia",NA
+57,"Zotu278",2,16.49004292,102,0.002554702,0,5,0.816496581,0,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA
+58,"Zotu279",11,170.8613539,3446,0.195274893,0.545454545,1,0.469709093,0.512396694,"Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Pseudoxanthomonas",NA
+59,"Zotu29",7,178.4166208,2236,0.04579511,0.047619048,0,1.02377888,0,"Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium"
+60,"Zotu2970",11,524.2468947,7789,0.122874429,0.163636364,0,0.589448446,0.561983471,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+61,"Zotu30",9,166.1249162,1900,0.113183008,0.333333333,1,0.867155248,0.197530864,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+62,"Zotu302",3,11,13,5.31e-83,0,3,1.414213562,0,"Actinobacteria","Actinobacteria","Corynebacteriales","Nocardiaceae","Rhodococcus",NA
+63,"Zotu322",2,2.5,5,6.35e-83,0,3,0,0,"Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA
+64,"Zotu329",4,42.7,1813,0.006708769,0.5,0,-0.279212422,0,"Cyanobacteria","Oxyphotobacteria","Nostocales","Phormidiaceae","Phormidium IAM M-71",NA
+65,"Zotu33",8,66.70832208,1039,0.09772264,0.535714286,1,0.072262937,0.40625,"Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Burkholderia-Caballeronia-Paraburkholderia",NA
+66,"Zotu332",6,89.48115887,1180,0.024478955,0.6,0,0.589448446,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA
+67,"Zotu335",10,38.54542021,787,0.240329541,0.733333333,4,0.990276999,0.18,"Acidobacteria","Subgroup 6",NA,NA,NA,NA
+68,"Zotu343",3,0,0,0.001615732,1,7,-1.224744871,0,"Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1",NA
+69,"Zotu349",2,42,922,0.013594218,0,0,-1.14787329,0,"Cyanobacteria","Oxyphotobacteria","Oxyphotobacteria Incertae Sedis","Unknown Family","Leptolyngbya ANT.L52.2",NA
+70,"Zotu368",1,0,0,1.44e-108,0,8,0,0,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter",NA
+71,"Zotu37",1,0,0,1.97e-83,0,3,-1.414213562,0,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA
+72,"Zotu38",11,170.8613539,3446,0.195274893,0.545454545,1,0.469709093,0.512396694,"Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp."
+73,"Zotu385",5,42.49615421,638,0.094230283,0.1,4,-0.11883324,0,"Actinobacteria","Thermoleophilia","Gaiellales","Gaiellaceae","Gaiella","actinobacterium WWH12"
+74,"Zotu394",1,0,0,3.9e-128,0,12,0,0,"Actinobacteria","Actinobacteria","Corynebacteriales","Mycobacteriaceae","Mycobacterium",NA
+75,"Zotu4",3,6.242736829,200,0.076436351,0.666666667,4,-0.950665919,0.444444444,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+76,"Zotu402",2,6,6,1.48e-91,0,6,0.447213595,0,"Acidobacteria","Subgroup 6",NA,NA,NA,NA
+77,"Zotu418",8,136.4056301,781,0.111574346,0.357142857,1,0.072262937,0.375,"Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter",NA
+78,"Zotu426",1,0,0,3.9e-128,0,9,0,0,"Actinobacteria","Actinobacteria","Micrococcales","Micrococcaceae","Paenarthrobacter",NA
+79,"Zotu428",2,12,15,5.73e-83,0,3,0,0,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter",NA
+80,"Zotu433",2,0.5,1,6.96e-83,0,3,0,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+81,"Zotu45",8,66.70832208,1039,0.09772264,0.535714286,1,0.072262937,0.40625,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+82,"Zotu451",6,228.891129,2118,0.067245491,0.066666667,0,0.155118012,0.277777778,"Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter",NA
+83,"Zotu455",10,38.54542021,787,0.240329541,0.733333333,4,0.990276999,0.18,"Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA
+84,"Zotu484",1,0,0,0.001486025,0,0,-1.582203724,0,"Proteobacteria","Gammaproteobacteria","Xanthomonadales","Rhodanobacteraceae",NA,NA
+85,"Zotu5",2,4,4,1.48e-91,0,6,0.447213595,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+86,"Zotu509",4,7.578787879,60,0.052323402,0.5,1,-0.722629374,0,"Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA
+87,"Zotu51",7,3.847245496,81,0.173122323,0.761904762,4,0.43572188,0,"Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA
+88,"Zotu518",5,29.91025641,284,0.004985112,0.7,7,0.816496581,0.32,"Cyanobacteria","Oxyphotobacteria","Nostocales","Coleofasciculaceae","Microcoleus Es-Yyy1400","Microcoleus paludosus Es_Yyy1400"
+89,"Zotu52",7,89.8472455,1413,0.148197006,0.476190476,4,0.43572188,0,"Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","planctomycete WWH14",NA
+90,"Zotu55",3,91.60794746,1228,0.043155337,0,4,-0.67338836,0,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA
+91,"Zotu562",15,564.7656769,7832,0.300163775,0.304761905,4,1.544832119,0.391111111,"Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae","Steroidobacter","bacterium MI-8"
+92,"Zotu57",8,40.93235629,548,0.18316747,0.535714286,4,0.15844432,0.375,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+93,"Zotu58",1,0,0,0.028198413,0,4,-1.227943479,0,"Cyanobacteria","Oxyphotobacteria","Chloroplast",NA,NA,NA
+94,"Zotu583",2,1,1,2.88e-108,0,8,0,0,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae",NA,NA
+95,"Zotu587",2,0,0,0.000288708,1,2,-1.154700538,0,"Cyanobacteria","Oxyphotobacteria","Oxyphotobacteria Incertae Sedis","Unknown Family","Leptolyngbya ANT.L52.2",NA
+96,"Zotu59",1,0,0,0.016010778,0,4,-1.227943479,0,"Proteobacteria","Alphaproteobacteria","Micropepsales","Micropepsaceae","uncultured",NA
+97,"Zotu6",1,0,0,0.00607116,0,5,-1.224744871,0,"Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA,NA
+98,"Zotu60",14,547.6291634,6348,0.15756947,0.186813187,1,2.45693987,0.255102041,"Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3"
+99,"Zotu63",4,78.29206238,585,0.042789034,0.333333333,1,-1.120075529,0.375,"Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA
+100,"Zotu663",4,90.11428571,408,0.014890731,0.5,7,-1.224744871,0.375,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Acinetobacter",NA
+101,"Zotu69",1,0,0,9.14e-92,0,6,-0.894427191,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+102,"Zotu7",2,0,0,0.000577416,1,2,-1.154700538,0,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA
+103,"Zotu76",9,249.601288,6762,0.040989284,0.194444444,0,1.892439748,0,"Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA
+104,"Zotu79",7,72.79344462,414,0.077882957,0.333333333,1,0.469709093,0,"Proteobacteria","Gammaproteobacteria",NA,NA,NA,NA
+105,"Zotu796",12,479.2285292,6597,0.160615574,0.166666667,0,0.589448446,0.611111111,NA,NA,NA,NA,NA,NA
+106,"Zotu8",8,66.70832208,1039,0.09772264,0.535714286,1,0.072262937,0.40625,"Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Burkholderia-Caballeronia-Paraburkholderia",NA
+107,"Zotu801",10,116.687735,3003,0.135312715,0.288888889,0,0.155118012,0.5,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae",NA,NA
+108,"Zotu81",2,68.00659581,681,0.017299355,0,5,-1.224744871,0.5,"Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Mesorhizobium",NA
+109,"Zotu830",3,0,0,0.044212699,1,4,-0.950665919,0.444444444,"Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","uncultured Rhodospirillales bacterium"
+110,"Zotu85",7,71.52439983,943,0.065370172,0.285714286,1,0.469709093,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+111,"Zotu887",1,0,0,1.97e-83,0,3,-1.414213562,0,"Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Gemmatimonas sp. WX54"
+112,"Zotu9",2,8.706302675,111,0.003635042,0,4,-0.950665919,0,"Bacteroidetes","Bacteroidia","Flavobacteriales","Weeksellaceae","Chryseobacterium",NA
+113,"Zotu96",8,132.9921114,2999,0.082250161,0.464285714,0,1.458109314,0,"Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA
+114,"Zotu971",2,15.60494943,35,0.004944559,0,0,-1.582203724,0.5,"Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas",NA
+115,"Zotu997",4,49.86925812,272,0.0263914,0.166666667,0,-0.713542856,0.375,"Proteobacteria","Gammaproteobacteria","Vibrionales","Vibrionaceae",NA,NA

@@ -1,0 +1,2339 @@
+"ID","Name","Phylum","Class","Order","Family","Genus","Species","com_name"
+1,"Com_1_neg",NA,NA,NA,NA,NA,NA,"??,??-Trehalose"
+2,"Com_100_neg",NA,NA,NA,NA,NA,NA,"4-Acetamidobutanoic acid"
+3,"Com_10015_pos",NA,NA,NA,NA,NA,NA,"Cyclopentyl fentanyl-d5"
+4,"Com_10032_pos",NA,NA,NA,NA,NA,NA,"2-[5-(2-hydroxypropyl)oxolan-2-yl]propanoic acid"
+5,"Com_10076_pos",NA,NA,NA,NA,NA,NA,"4-(3-Methyl-5-oxo-4,5-dihydro-1H-pyrazol-1-yl)benzoic acid"
+6,"Com_10094_pos",NA,NA,NA,NA,NA,NA,"Limonin"
+7,"Com_1010_neg",NA,NA,NA,NA,NA,NA,"MAG (18:4)"
+8,"Com_10103_pos",NA,NA,NA,NA,NA,NA,"Octadecanamine"
+9,"Com_1011_neg",NA,NA,NA,NA,NA,NA,"Guanosine-3',5'-cyclic monophosphate"
+10,"Com_10122_pos",NA,NA,NA,NA,NA,NA,"Otenzepad"
+11,"Com_1014_pos",NA,NA,NA,NA,NA,NA,"TNK"
+12,"Com_10146_pos",NA,NA,NA,NA,NA,NA,"Piperine"
+13,"Com_10159_pos",NA,NA,NA,NA,NA,NA,"1,7-bis(3,4-dihydroxyphenyl)heptan-3-one"
+14,"Com_10176_pos",NA,NA,NA,NA,NA,NA,"octadec-9-ynoic acid"
+15,"Com_1018_pos",NA,NA,NA,NA,NA,NA,"Cuminaldehyde"
+16,"Com_10184_pos",NA,NA,NA,NA,NA,NA,"Glycerophosphocholine"
+17,"Com_10198_pos",NA,NA,NA,NA,NA,NA,"LPC 21:0"
+18,"Com_102_neg",NA,NA,NA,NA,NA,NA,"(+/-)9-HpODE"
+19,"Com_10203_pos",NA,NA,NA,NA,NA,NA,"L-Palmitoylcarnitine"
+20,"Com_10207_pos",NA,NA,NA,NA,NA,NA,"4-fluoro-N-[4-(4-methylpiperazino)phenyl]benzenesulfonamide"
+21,"Com_10262_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/23:0)"
+22,"Com_10269_pos",NA,NA,NA,NA,NA,NA,"LDGTS 21:2"
+23,"Com_1027_neg",NA,NA,NA,NA,NA,NA,"Miquelianin"
+24,"Com_10287_pos",NA,NA,NA,NA,NA,NA,"NAT13-331713_POS"
+25,"Com_10296_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-asparagine"
+26,"Com_103_pos",NA,NA,NA,NA,NA,NA,"??-Eleostearic acid"
+27,"Com_10346_pos",NA,NA,NA,NA,NA,NA,"Propionylcarnitine"
+28,"Com_10372_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/16:0)"
+29,"Com_10399_pos",NA,NA,NA,NA,NA,NA,"6??-Hydroxyfluoxymesterone"
+30,"Com_1041_pos",NA,NA,NA,NA,NA,NA,"Estrone"
+31,"Com_1042_pos",NA,NA,NA,NA,NA,NA,"Jasmone"
+32,"Com_10438_pos",NA,NA,NA,NA,NA,NA,"Bifonazole"
+33,"Com_10448_pos",NA,NA,NA,NA,NA,NA,"N'-[6-(tert-butyl)thieno[3,2-d]pyrimidin-4-yl]-4-methylbenzohydrazide"
+34,"Com_10461_pos",NA,NA,NA,NA,NA,NA,"Ergosta-5,7,9(11),22-Tetraen-3-beta-Ol"
+35,"Com_1054_neg",NA,NA,NA,NA,NA,NA,"5-Sulfosalicylate"
+36,"Com_10561_pos",NA,NA,NA,NA,NA,NA,"1-Monostearin"
+37,"Com_10606_pos",NA,NA,NA,NA,NA,NA,"8-[(4-phenethyl-1,4-diazepan-1-yl)sulfonyl]quinoline"
+38,"Com_10619_neg",NA,NA,NA,NA,NA,NA,"ADBICA N-pentanoic acid metabolite"
+39,"Com_10651_pos",NA,NA,NA,NA,NA,NA,"Pirenperone"
+40,"Com_1066_neg",NA,NA,NA,NA,NA,NA,"(2??,3??,19??)-2,3,19-Trihydroxyolean-12-en-28-oic acid"
+41,"Com_1068_pos",NA,NA,NA,NA,NA,NA,"8-Isoprostaglandin F1??"
+42,"Com_10686_pos",NA,NA,NA,NA,NA,NA,"1-(2,4-diphenyl-2,3-dihydro-1H-1,5-benzodiazepin-1-yl)propan-1-one"
+43,"Com_10694_pos",NA,NA,NA,NA,NA,NA,"Bestatin"
+44,"Com_10707_neg",NA,NA,NA,NA,NA,NA,"(S)-beta-Aminoisobutyric Acid"
+45,"Com_1071_neg",NA,NA,NA,NA,NA,NA,"Glucoraphanin"
+46,"Com_1082_pos",NA,NA,NA,NA,NA,NA,"2-Methylbutyroylcarnitine"
+47,"Com_10826_pos",NA,NA,NA,NA,NA,NA,"(2E)-3-(3,4-dimethoxyphenyl)prop-2-enoic acid"
+48,"Com_1085_pos",NA,NA,NA,NA,NA,NA,"(5??,9??,16??)-17-Hydroxykauran-19-oic acid"
+49,"Com_10858_pos",NA,NA,NA,NA,NA,NA,"3-Phosphonopropionic acid"
+50,"Com_10861_pos",NA,NA,NA,NA,NA,NA,"N-{[(2R,4S,5R)-5-Ethyl-1-azabicyclo[2.2.2]oct-2-yl]methyl}-2-furamide"
+51,"Com_10866_pos",NA,NA,NA,NA,NA,NA,"Propionyl-L-carnitine"
+52,"Com_10872_neg",NA,NA,NA,NA,NA,NA,"(3R)-8-hydroxy-3-(4-methoxyphenyl)-3,4-dihydro-1H-2-benzopyran-1-one"
+53,"Com_1092_neg",NA,NA,NA,NA,NA,NA,"2'-Deoxyuridine"
+54,"Com_1092_pos",NA,NA,NA,NA,NA,NA,"2-Myristoylglycerol"
+55,"Com_10920_pos",NA,NA,NA,NA,NA,NA,"Arachidonyl dopamine"
+56,"Com_10921_pos",NA,NA,NA,NA,NA,NA,"SKK"
+57,"Com_10926_pos",NA,NA,NA,NA,NA,NA,"1,3-Diphenylacetone"
+58,"Com_10953_pos",NA,NA,NA,NA,NA,NA,"Brucine"
+59,"Com_10959_neg",NA,NA,NA,NA,NA,NA,"MGDG (16:1/16:2)"
+60,"Com_10962_pos",NA,NA,NA,NA,NA,NA,"6-Hydroxymelatonin"
+61,"Com_11_neg",NA,NA,NA,NA,NA,NA,"(??)9(10)-DiHOME"
+62,"Com_110_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin H1"
+63,"Com_11001_neg",NA,NA,NA,NA,NA,NA,"lipoamide"
+64,"Com_11003_pos",NA,NA,NA,NA,NA,NA,"3-(allylsulfanyl)-4-[4-(benzyloxy)phenyl]-5-methyl-4H-1,2,4-triazole"
+65,"Com_11007_neg",NA,NA,NA,NA,NA,NA,"Deoxycorticosterone 21-glucoside"
+66,"Com_11008_pos",NA,NA,NA,NA,NA,NA,"acenaphtho[1,2-b]quinoxaline"
+67,"Com_11011_pos",NA,NA,NA,NA,NA,NA,"4-hydroxy-3-(3-methylbut-2-en-1-yl)benzoic acid"
+68,"Com_11021_neg",NA,NA,NA,NA,NA,NA,"Glycerophospho-N-palmitoyl ethanolamine"
+69,"Com_11029_pos",NA,NA,NA,NA,NA,NA,"6-(3-hydroxybutan-2-yl)-5-(hydroxymethyl)-4-methoxy-2H-pyran-2-one"
+70,"Com_1103_neg",NA,NA,NA,NA,NA,NA,"(+/-)9(10)-EpOME"
+71,"Com_1103_pos",NA,NA,NA,NA,NA,NA,"(-)-Erythromycin"
+72,"Com_11033_pos",NA,NA,NA,NA,NA,NA,"15(R)-15-Methyl prostaglandin A2"
+73,"Com_11058_neg",NA,NA,NA,NA,NA,NA,"Phe-Phe"
+74,"Com_11062_neg",NA,NA,NA,NA,NA,NA,"Spiculisporic Acid"
+75,"Com_11078_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-glutamine"
+76,"Com_1108_neg",NA,NA,NA,NA,NA,NA,"DGMG (18:2)"
+77,"Com_11089_pos",NA,NA,NA,NA,NA,NA,"HPH"
+78,"Com_11091_pos",NA,NA,NA,NA,NA,NA,"Fluprostenol"
+79,"Com_1112_neg",NA,NA,NA,NA,NA,NA,"4-oxo-4,5,6,7-tetrahydrobenzo[b]furan-3-carboxylic acid"
+80,"Com_11129_pos",NA,NA,NA,NA,NA,NA,"JNJ-1661010"
+81,"Com_11135_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/16:3)"
+82,"Com_1115_pos",NA,NA,NA,NA,NA,NA,"gamma-Glutamyltyrosine"
+83,"Com_11168_pos",NA,NA,NA,NA,NA,NA,"Sodium cholate"
+84,"Com_11176_neg",NA,NA,NA,NA,NA,NA,"PA (14:0/19:1)"
+85,"Com_11184_pos",NA,NA,NA,NA,NA,NA,"BMP (3:0/8:0)"
+86,"Com_1119_pos",NA,NA,NA,NA,NA,NA,"4-Phenylbutyric acid"
+87,"Com_11204_pos",NA,NA,NA,NA,NA,NA,"QQH"
+88,"Com_11248_pos",NA,NA,NA,NA,NA,NA,"Acetylvardenafil"
+89,"Com_1126_pos",NA,NA,NA,NA,NA,NA,"5,8-dihydroxy-10-methyl-5,8,9,10-tetrahydro-2H-oxecin-2-one"
+90,"Com_11301_neg",NA,NA,NA,NA,NA,NA,"Guanosine-5'-monophosphate"
+91,"Com_11365_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-2-(3-nitro-4-piperidinobenzyl)propanenitrile"
+92,"Com_1138_neg",NA,NA,NA,NA,NA,NA,"13(S)-HOTrE"
+93,"Com_11401_pos",NA,NA,NA,NA,NA,NA,"Morphine"
+94,"Com_11404_pos",NA,NA,NA,NA,NA,NA,"Pyridoxal"
+95,"Com_1142_pos",NA,NA,NA,NA,NA,NA,"Isotretinoin"
+96,"Com_11447_neg",NA,NA,NA,NA,NA,NA,"3b,7b-Dihydroxy-5-androsten-17-one"
+97,"Com_11460_pos",NA,NA,NA,NA,NA,NA,"LDGTS 19:2"
+98,"Com_11490_pos",NA,NA,NA,NA,NA,NA,"3,3-dimethyl-2-morpholino-2,3-dihydrobenzo[b]furan-5-ol"
+99,"Com_1150_pos",NA,NA,NA,NA,NA,NA,"Arachidonoyl ethanolamide phosphate"
+100,"Com_11509_pos",NA,NA,NA,NA,NA,NA,"2-[(7-methyl-2,3-dihydro-1H-inden-4-yl)oxy]pyridin-3-amine"
+101,"Com_11521_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/25:0)"
+102,"Com_11533_pos",NA,NA,NA,NA,NA,NA,"Cer-NDS (d20:0/16:0)"
+103,"Com_11545_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxy-2-methylbutanoic acid"
+104,"Com_11546_pos",NA,NA,NA,NA,NA,NA,"Glycohyocholic acid Sodium salt"
+105,"Com_11558_pos",NA,NA,NA,NA,NA,NA,"PC (17:1/17:1)"
+106,"Com_11575_pos",NA,NA,NA,NA,NA,NA,"EKK"
+107,"Com_11581_neg",NA,NA,NA,NA,NA,NA,"Thr-Leu"
+108,"Com_11586_pos",NA,NA,NA,NA,NA,NA,"Galanthamine"
+109,"Com_11588_pos",NA,NA,NA,NA,NA,NA,"4-oxo-4-[(1-phenylethyl)amino]but-2-enoic acid"
+110,"Com_11608_neg",NA,NA,NA,NA,NA,NA,"N-Acetylmethionine"
+111,"Com_1161_pos",NA,NA,NA,NA,NA,NA,"(2E,4E)-N-(2-methylpropyl)dodeca-2,4-dienamide"
+112,"Com_11615_neg",NA,NA,NA,NA,NA,NA,"N-benzyl-N-isopropyl-N'-[4-(trifluoromethoxy)phenyl]urea"
+113,"Com_1162_pos",NA,NA,NA,NA,NA,NA,"Apocynin"
+114,"Com_11625_neg",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-aspartic acid"
+115,"Com_11660_pos",NA,NA,NA,NA,NA,NA,"D-Proline"
+116,"Com_11667_pos",NA,NA,NA,NA,NA,NA,"Cinanserin"
+117,"Com_11698_pos",NA,NA,NA,NA,NA,NA,"N-(1-benzylpiperidin-4-yl)-5-methoxy-1H-indole-2-carboxamide"
+118,"Com_11726_pos",NA,NA,NA,NA,NA,NA,"1-methyl-1H-benzimidazole-2-sulfonic acid"
+119,"Com_11731_neg",NA,NA,NA,NA,NA,NA,"Ergothioneine"
+120,"Com_11773_pos",NA,NA,NA,NA,NA,NA,"Pitavastatin"
+121,"Com_11776_pos",NA,NA,NA,NA,NA,NA,"Neopterin"
+122,"Com_11777_pos",NA,NA,NA,NA,NA,NA,"Perospirone"
+123,"Com_11788_pos",NA,NA,NA,NA,NA,NA,"1-(4-hydroxyphenyl)propane-1,2-diol"
+124,"Com_11795_pos",NA,NA,NA,NA,NA,NA,"Cyclobutyl fentanyl-d5"
+125,"Com_118_pos",NA,NA,NA,NA,NA,NA,"Methoxyacetyl fentanyl-d5"
+126,"Com_1182_neg",NA,NA,NA,NA,NA,NA,"N-Acetyl-DL-alanine"
+127,"Com_11843_pos",NA,NA,NA,NA,NA,NA,"WNK"
+128,"Com_11861_pos",NA,NA,NA,NA,NA,NA,"(1R,2R)-trans-N-Boc-1,2-cyclohexanediamine"
+129,"Com_11865_neg",NA,NA,NA,NA,NA,NA,"MGDG (4:0/18:2)"
+130,"Com_11883_pos",NA,NA,NA,NA,NA,NA,"4-Methyl-2-pentanone"
+131,"Com_11895_pos",NA,NA,NA,NA,NA,NA,"Hydroxyprogesterone caproate"
+132,"Com_11900_neg",NA,NA,NA,NA,NA,NA,"alpha-Benzylsuccinic acid"
+133,"Com_1191_pos",NA,NA,NA,NA,NA,NA,"Nicotinuric acid"
+134,"Com_11918_neg",NA,NA,NA,NA,NA,NA,"Dibenzoyl Thiamine"
+135,"Com_11919_pos",NA,NA,NA,NA,NA,NA,"Meperidine-d5"
+136,"Com_11923_neg",NA,NA,NA,NA,NA,NA,"Delta-Tridecalactone"
+137,"Com_11962_pos",NA,NA,NA,NA,NA,NA,"trans-2-Methyl-2-pentenoic Acid"
+138,"Com_11981_pos",NA,NA,NA,NA,NA,NA,"S-(Methyl)Glutathione"
+139,"Com_11985_neg",NA,NA,NA,NA,NA,NA,"4-Methylhippuric acid"
+140,"Com_12000_neg",NA,NA,NA,NA,NA,NA,"Thymidine 3,5-cyclic monophosphate"
+141,"Com_12005_neg",NA,NA,NA,NA,NA,NA,"MGDG (14:1/20:5)"
+142,"Com_12007_pos",NA,NA,NA,NA,NA,NA,"2-Phenylpropionic acid"
+143,"Com_1201_pos",NA,NA,NA,NA,NA,NA,"N2-neopentyl-5-methyl-1,3,4-thiadiazol-2-amine"
+144,"Com_12024_pos",NA,NA,NA,NA,NA,NA,"RLH"
+145,"Com_12026_pos",NA,NA,NA,NA,NA,NA,"GPK"
+146,"Com_12046_pos",NA,NA,NA,NA,NA,NA,"TQH"
+147,"Com_12048_pos",NA,NA,NA,NA,NA,NA,"4-(2,3-dihydro-1,4-benzodioxin-6-yl)butanoic acid"
+148,"Com_12075_pos",NA,NA,NA,NA,NA,NA,"3,4-dihydro-2H,6H-[1,3]thiazino[2,3-b]quinazolin-6-one"
+149,"Com_1208_pos",NA,NA,NA,NA,NA,NA,"(9cis)-Retinal"
+150,"Com_12100_pos",NA,NA,NA,NA,NA,NA,"SB 205607"
+151,"Com_12112_pos",NA,NA,NA,NA,NA,NA,"LDGTS 16:0"
+152,"Com_12113_pos",NA,NA,NA,NA,NA,NA,"DGTS (6:0/16:4)"
+153,"Com_12121_pos",NA,NA,NA,NA,NA,NA,"3-Acetyl-11-keto-??-boswellic acid"
+154,"Com_1214_neg",NA,NA,NA,NA,NA,NA,"L-Threonic acid"
+155,"Com_1214_pos",NA,NA,NA,NA,NA,NA,"6-Hydroxynicotinic acid"
+156,"Com_12141_pos",NA,NA,NA,NA,NA,NA,"Atropine"
+157,"Com_12173_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/4:0)"
+158,"Com_12179_pos",NA,NA,NA,NA,NA,NA,"Traumatic acid"
+159,"Com_1218_neg",NA,NA,NA,NA,NA,NA,"15-Deoxy-??12,14-prostaglandin D2"
+160,"Com_12195_pos",NA,NA,NA,NA,NA,NA,"TKK"
+161,"Com_12204_pos",NA,NA,NA,NA,NA,NA,"Mevastatin"
+162,"Com_1224_pos",NA,NA,NA,NA,NA,NA,"8-(1,2-dihydroxy-3-methylbut-3-en-1-yl)-7-methoxy-2H-chromen-2-one"
+163,"Com_1225_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxy-1-(4-methoxyphenyl)propyl hexopyranoside"
+164,"Com_12263_pos",NA,NA,NA,NA,NA,NA,"Pazufloxacin"
+165,"Com_12265_pos",NA,NA,NA,NA,NA,NA,"dG-C8-IQ"
+166,"Com_12298_pos",NA,NA,NA,NA,NA,NA,"2-[(3S)-1-Cyclobutyl-3-pyrrolidinyl]-5-fluoro-1H-benzimidazole"
+167,"Com_12315_pos",NA,NA,NA,NA,NA,NA,"2'-O-Methyladenosine"
+168,"Com_12329_pos",NA,NA,NA,NA,NA,NA,"4-(beta-D-Glucopyranosyloxy)-2-methylenebutanoic acid"
+169,"Com_1234_neg",NA,NA,NA,NA,NA,NA,"N-(2,5-diethoxy-4-morpholinophenyl)-4-methoxybenzenesulfonamide"
+170,"Com_12356_neg",NA,NA,NA,NA,NA,NA,"N-Acetyl-D-tryptophan"
+171,"Com_12360_pos",NA,NA,NA,NA,NA,NA,"Isophorone"
+172,"Com_12361_pos",NA,NA,NA,NA,NA,NA,"Pentazocine"
+173,"Com_12377_pos",NA,NA,NA,NA,NA,NA,"LPE 17:0"
+174,"Com_12399_pos",NA,NA,NA,NA,NA,NA,"PEtOH (18:1-18:4)"
+175,"Com_12458_pos",NA,NA,NA,NA,NA,NA,"1-(1-methyl-4-nitro-1H-imidazol-5-yl)-4-piperidinecarboxamide"
+176,"Com_1247_neg",NA,NA,NA,NA,NA,NA,"MGMG (18:2)"
+177,"Com_12495_pos",NA,NA,NA,NA,NA,NA,"Xanthopterin"
+178,"Com_125_neg",NA,NA,NA,NA,NA,NA,"cis-5,8,11,14,17-Eicosapentaenoic acid"
+179,"Com_12500_pos",NA,NA,NA,NA,NA,NA,"4-Ethylbenzaldehyde"
+180,"Com_12537_pos",NA,NA,NA,NA,NA,NA,"(6E)-7-(2H-1,3-benzodioxol-5-yl)-1-(piperidin-1-yl)hept-6-en-1-one"
+181,"Com_1254_neg",NA,NA,NA,NA,NA,NA,"2,3-Dinor-8-epi-prostaglandin F2??"
+182,"Com_12573_neg",NA,NA,NA,NA,NA,NA,"2,2-Dimethylsuccinic acid"
+183,"Com_1258_neg",NA,NA,NA,NA,NA,NA,"4-((5-(4-Nitrophenyl)oxazol-2-yl)amino)benzonitrile"
+184,"Com_12588_neg",NA,NA,NA,NA,NA,NA,"LPG 17:1"
+185,"Com_12590_pos",NA,NA,NA,NA,NA,NA,"2,3-Dideoxycytidine"
+186,"Com_12607_pos",NA,NA,NA,NA,NA,NA,"(2??,3??,9??,17??,22R)-2,3,14,20,22-Pentahydroxyergost-7-en-6-one"
+187,"Com_12620_neg",NA,NA,NA,NA,NA,NA,"Gly-Phe"
+188,"Com_12623_neg",NA,NA,NA,NA,NA,NA,"dADP"
+189,"Com_12636_pos",NA,NA,NA,NA,NA,NA,"PC (14:0e/3:0)"
+190,"Com_12637_neg",NA,NA,NA,NA,NA,NA,"Oxoadipic Acid"
+191,"Com_12640_pos",NA,NA,NA,NA,NA,NA,"Picrotoxinin"
+192,"Com_12687_pos",NA,NA,NA,NA,NA,NA,"Heptadecanoic Acid"
+193,"Com_12730_pos",NA,NA,NA,NA,NA,NA,"S-Adenosyl-homocysteine"
+194,"Com_12734_pos",NA,NA,NA,NA,NA,NA,"isobutyl 1-cyclohexyl-4-oxo-1,4-dihydroquinoline-3-carboxylate"
+195,"Com_12776_pos",NA,NA,NA,NA,NA,NA,"Jervine"
+196,"Com_12840_neg",NA,NA,NA,NA,NA,NA,"1-Caffeoylquinic Acid"
+197,"Com_12847_pos",NA,NA,NA,NA,NA,NA,"C-12 NBD-dihydro-ceramide"
+198,"Com_12859_pos",NA,NA,NA,NA,NA,NA,"Choline bitartrate"
+199,"Com_12867_pos",NA,NA,NA,NA,NA,NA,"5-[(2-chloro-6-phenoxybenzyl)amino]-3,3-dimethyl-5-oxopentanoic acid"
+200,"Com_12881_pos",NA,NA,NA,NA,NA,NA,"Glycerol 3-phosphate"
+201,"Com_1290_neg",NA,NA,NA,NA,NA,NA,"Glucosamine 6-sulfate"
+202,"Com_12910_neg",NA,NA,NA,NA,NA,NA,"1-Methylguanosine"
+203,"Com_12928_pos",NA,NA,NA,NA,NA,NA,"12,13-EODE"
+204,"Com_1293_neg",NA,NA,NA,NA,NA,NA,"Nigericin"
+205,"Com_12936_pos",NA,NA,NA,NA,NA,NA,"Kaempferol-3-Galactoside-6''-Rhamnoside-3'''-Rhamnoside"
+206,"Com_12944_pos",NA,NA,NA,NA,NA,NA,"(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-phenoxyoxane-3,4,5-triol"
+207,"Com_12960_neg",NA,NA,NA,NA,NA,NA,"Pyrophosphate"
+208,"Com_12962_neg",NA,NA,NA,NA,NA,NA,"Acetyl-N-formyl-5-methoxykynurenamine"
+209,"Com_12970_pos",NA,NA,NA,NA,NA,NA,"N-lactoyl-phenylalanine"
+210,"Com_12971_pos",NA,NA,NA,NA,NA,NA,"L-Normetanephrine"
+211,"Com_130_neg",NA,NA,NA,NA,NA,NA,"p-Mentha-1,3,8-triene"
+212,"Com_1301_pos",NA,NA,NA,NA,NA,NA,"4-(3,4-dimethylphenyl)-1-thia-4-azaspiro[4.5]decan-3-one"
+213,"Com_13029_pos",NA,NA,NA,NA,NA,NA,"Desmethylclozapine"
+214,"Com_13049_pos",NA,NA,NA,NA,NA,NA,"Hydroquinone"
+215,"Com_13067_neg",NA,NA,NA,NA,NA,NA,"LPC 17:0"
+216,"Com_1307_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/22:2)"
+217,"Com_13074_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
+218,"Com_13093_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-tyrosine"
+219,"Com_13108_neg",NA,NA,NA,NA,NA,NA,"FAHFA (16:3/3:0)"
+220,"Com_13112_pos",NA,NA,NA,NA,NA,NA,"2-Methylpentanedioic acid"
+221,"Com_13127_neg",NA,NA,NA,NA,NA,NA,"3-amino-3-(4-chlorophenyl)propanoic acid"
+222,"Com_13135_pos",NA,NA,NA,NA,NA,NA,"5-amino-2-(dimethylamino)benzoic acid"
+223,"Com_1314_neg",NA,NA,NA,NA,NA,NA,"Corticosterone"
+224,"Com_13199_pos",NA,NA,NA,NA,NA,NA,"PEtOH (16:0-22:3)"
+225,"Com_1323_pos",NA,NA,NA,NA,NA,NA,"Trolox"
+226,"Com_13240_pos",NA,NA,NA,NA,NA,NA,"Formononetin"
+227,"Com_13267_neg",NA,NA,NA,NA,NA,NA,"5-(2-pyridinyl)-N-[2-(trifluoromethyl)phenyl]-2-thiophenesulfonamide"
+228,"Com_13315_pos",NA,NA,NA,NA,NA,NA,"7,8-Dihydrobiopterin"
+229,"Com_13316_neg",NA,NA,NA,NA,NA,NA,"Acetylcysteine"
+230,"Com_13321_pos",NA,NA,NA,NA,NA,NA,"4-(2,3-dihydro-1H-indol-1-yl)-1-phenyl-1H-pyrazolo[3,4-d]pyrimidine"
+231,"Com_13338_pos",NA,NA,NA,NA,NA,NA,"3-{[(4-chlorophenyl)sulfonyl]methyl}-N'-hydroxybenzenecarboximidamide"
+232,"Com_13370_neg",NA,NA,NA,NA,NA,NA,"Orsellinic acid ethyl ester"
+233,"Com_13433_pos",NA,NA,NA,NA,NA,NA,"VLK"
+234,"Com_13446_pos",NA,NA,NA,NA,NA,NA,"4-ethoxy-N-[(4-methoxyphenyl)methylene]aniline"
+235,"Com_1345_pos",NA,NA,NA,NA,NA,NA,"1-benzyl-3-(2-methylphenyl)-3,7-dihydro-1H-purine-2,6-dione"
+236,"Com_13453_pos",NA,NA,NA,NA,NA,NA,"Cer-NDS (d18:0/16:0)"
+237,"Com_1350_neg",NA,NA,NA,NA,NA,NA,"MGDG (18:3/18:5)"
+238,"Com_13506_pos",NA,NA,NA,NA,NA,NA,"Glycoursodeoxycholic acid"
+239,"Com_13507_pos",NA,NA,NA,NA,NA,NA,"Guanosine 3',5'-cyclic monophosphate"
+240,"Com_13517_pos",NA,NA,NA,NA,NA,NA,"Leukotriene D4"
+241,"Com_13530_pos",NA,NA,NA,NA,NA,NA,"4-methyl-3-(methylthio)-5-undecyl-4H-1,2,4-triazole"
+242,"Com_13536_pos",NA,NA,NA,NA,NA,NA,"Sodium Dehydrocholate"
+243,"Com_1355_pos",NA,NA,NA,NA,NA,NA,"2-(2-hydroxy-3-methylbutanamido)-4-methylpentanoic acid"
+244,"Com_13550_pos",NA,NA,NA,NA,NA,NA,"N~5~-(1,3,5-trimethyl-1H-pyrazol-4-yl)-1H-1,2,4-triazole-3,5-diamine"
+245,"Com_13560_pos",NA,NA,NA,NA,NA,NA,"??-Ergocryptine"
+246,"Com_13584_neg",NA,NA,NA,NA,NA,NA,"Capsaicin"
+247,"Com_13588_neg",NA,NA,NA,NA,NA,NA,"FAHFA (9:0/13:1)"
+248,"Com_13593_neg",NA,NA,NA,NA,NA,NA,"Pseudouridine"
+249,"Com_13599_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/16:4)"
+250,"Com_136_neg",NA,NA,NA,NA,NA,NA,"Docosahexanoic acid"
+251,"Com_1362_neg",NA,NA,NA,NA,NA,NA,"Tetracycline"
+252,"Com_1365_neg",NA,NA,NA,NA,NA,NA,"PS (2:0/2:0)"
+253,"Com_13651_pos",NA,NA,NA,NA,NA,NA,"Normorphine"
+254,"Com_1366_pos",NA,NA,NA,NA,NA,NA,"UR-144 N-Heptyl analog"
+255,"Com_13686_pos",NA,NA,NA,NA,NA,NA,"Adipamide"
+256,"Com_13694_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/7:0)"
+257,"Com_13711_pos",NA,NA,NA,NA,NA,NA,"Lysopa 18:0"
+258,"Com_1372_pos",NA,NA,NA,NA,NA,NA,"4-acetyl-4-(ethoxycarbonyl)heptanedioic acid"
+259,"Com_13727_neg",NA,NA,NA,NA,NA,NA,"Rifapentine"
+260,"Com_13728_pos",NA,NA,NA,NA,NA,NA,"Mag (18:1)"
+261,"Com_1380_pos",NA,NA,NA,NA,NA,NA,"Artesunate"
+262,"Com_13809_pos",NA,NA,NA,NA,NA,NA,"Scopolamine"
+263,"Com_13813_pos",NA,NA,NA,NA,NA,NA,"Val-Ser"
+264,"Com_1384_neg",NA,NA,NA,NA,NA,NA,"Valproic acid"
+265,"Com_13879_pos",NA,NA,NA,NA,NA,NA,"3-(5-phenyl-1,3-oxazol-2-yl)-4-(trifluoromethyl)pyridine"
+266,"Com_13899_pos",NA,NA,NA,NA,NA,NA,"5-oxo-3-phenyl-5-(2-quinolinylamino)pentanoic acid"
+267,"Com_1390_pos",NA,NA,NA,NA,NA,NA,"Methyl dihydrojasmonate"
+268,"Com_1392_pos",NA,NA,NA,NA,NA,NA,"6-methoxy-2,3,4,9-tetrahydro-1H-beta-carbolin-1-one"
+269,"Com_13924_pos",NA,NA,NA,NA,NA,NA,"8-{[(3S)-3-(1H-Benzimidazol-2-yl)-1-pyrrolidinyl]sulfonyl}quinoline"
+270,"Com_1393_pos",NA,NA,NA,NA,NA,NA,"6 ??-Hydroxycortisol"
+271,"Com_13965_neg",NA,NA,NA,NA,NA,NA,"2-[(5-anilino-4-phenyl-4H-1,2,4-triazol-3-yl)thio]acetic acid"
+272,"Com_13970_pos",NA,NA,NA,NA,NA,NA,"PE (15:0/15:0)"
+273,"Com_14_pos",NA,NA,NA,NA,NA,NA,"Oleoyl ethylamide"
+274,"Com_1400_neg",NA,NA,NA,NA,NA,NA,"20-Hydroxy-(5Z,8Z,11Z,14Z)-eicosatetraenoic acid"
+275,"Com_14011_neg",NA,NA,NA,NA,NA,NA,"Lauric acid ethyl ester"
+276,"Com_14017_neg",NA,NA,NA,NA,NA,NA,"SM (d14:1/13:0)"
+277,"Com_14037_pos",NA,NA,NA,NA,NA,NA,"Linolelaidic Acid (C18:2N6T)"
+278,"Com_1404_pos",NA,NA,NA,NA,NA,NA,"16??-Hydroxyestrone"
+279,"Com_14086_pos",NA,NA,NA,NA,NA,NA,"6??-Naltrexol"
+280,"Com_14106_pos",NA,NA,NA,NA,NA,NA,"Purpurin"
+281,"Com_14115_pos",NA,NA,NA,NA,NA,NA,"ERH"
+282,"Com_14131_pos",NA,NA,NA,NA,NA,NA,"Viramune"
+283,"Com_14139_pos",NA,NA,NA,NA,NA,NA,"Cyclo(Leu-Pro)"
+284,"Com_1414_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-aspartic acid"
+285,"Com_14140_pos",NA,NA,NA,NA,NA,NA,"pentane-1,2,3,4,5-pentol"
+286,"Com_1415_pos",NA,NA,NA,NA,NA,NA,"Methionine sulfoxide"
+287,"Com_14151_pos",NA,NA,NA,NA,NA,NA,"Cortisone"
+288,"Com_14181_neg",NA,NA,NA,NA,NA,NA,"Lauric Acid"
+289,"Com_14203_pos",NA,NA,NA,NA,NA,NA,"Desloratadine"
+290,"Com_1421_pos",NA,NA,NA,NA,NA,NA,"15-Deoxy-??12,14-prostaglandin A1"
+291,"Com_14211_pos",NA,NA,NA,NA,NA,NA,"1-(2-pyridin-2-yldiazenyl)-2-naphthol"
+292,"Com_14226_pos",NA,NA,NA,NA,NA,NA,"N-(1-benzyl-4-piperidinyl)-4-(1H-pyrazol-1-yl)benzamide"
+293,"Com_14239_pos",NA,NA,NA,NA,NA,NA,"2-(3,5-dimethyl-1H-pyrazol-4-yl)-5-methoxybenzoic acid"
+294,"Com_1424_neg",NA,NA,NA,NA,NA,NA,"2-Methoxyestradiol"
+295,"Com_1428_neg",NA,NA,NA,NA,NA,NA,"8(R)-Hydroxy-(5Z,9E,11Z,14Z)-eicosatetraenoic acid"
+296,"Com_14285_pos",NA,NA,NA,NA,NA,NA,"Veratrole"
+297,"Com_14294_pos",NA,NA,NA,NA,NA,NA,"4-(cyclohexylmethyl)-6-(2-thienyl)-2,3-dihydropyridazin-3-one hydrate"
+298,"Com_1431_neg",NA,NA,NA,NA,NA,NA,"5,6-dimethyl-3-[5-(trifluoromethyl)pyridin-2-yl]-1,2,4-triazine"
+299,"Com_14313_neg",NA,NA,NA,NA,NA,NA,"ethyl 1-cyclohexyl-4,5-dioxopyrrolidine-3-carboxylate"
+300,"Com_14322_neg",NA,NA,NA,NA,NA,NA,"5-S-cysteinyldopa"
+301,"Com_14326_pos",NA,NA,NA,NA,NA,NA,"6-Methoxy-2-naphthoic acid"
+302,"Com_1434_neg",NA,NA,NA,NA,NA,NA,"Xanthine"
+303,"Com_1434_pos",NA,NA,NA,NA,NA,NA,"Hexamethylene?0?2bisacetamide"
+304,"Com_14348_pos",NA,NA,NA,NA,NA,NA,"2-((Dimethylamino)methyl)phenol"
+305,"Com_1435_neg",NA,NA,NA,NA,NA,NA,"LPG 18:1"
+306,"Com_14356_pos",NA,NA,NA,NA,NA,NA,"FKK"
+307,"Com_1436_pos",NA,NA,NA,NA,NA,NA,"16,16-Dimethyl prostaglandin A1"
+308,"Com_14388_pos",NA,NA,NA,NA,NA,NA,"PC (18:3e/19:2)"
+309,"Com_14390_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/8:0)"
+310,"Com_14390_pos",NA,NA,NA,NA,NA,NA,"N-Desmethyl sildenafil"
+311,"Com_1440_pos",NA,NA,NA,NA,NA,NA,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(propan-2-yloxy)oxane-3,4,5-triol"
+312,"Com_14445_pos",NA,NA,NA,NA,NA,NA,"2-(methylthio)-6-phenylpyrimidin-4-yl N,N-dimethylcarbamate"
+313,"Com_14449_neg",NA,NA,NA,NA,NA,NA,"LPS 18:2"
+314,"Com_14474_pos",NA,NA,NA,NA,NA,NA,"Etiocholanolone"
+315,"Com_14479_neg",NA,NA,NA,NA,NA,NA,"Eicosenoic acid"
+316,"Com_1449_pos",NA,NA,NA,NA,NA,NA,"??-Linolenic acid ethyl ester"
+317,"Com_14496_pos",NA,NA,NA,NA,NA,NA,"1,4-dihydroxy-1,4-dimethyl-7-(propan-2-ylidene)-decahydroazulen-6-one"
+318,"Com_1452_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin J2"
+319,"Com_14533_pos",NA,NA,NA,NA,NA,NA,"1,4-Cyclohexanedione"
+320,"Com_14547_pos",NA,NA,NA,NA,NA,NA,"Phenmetrazine"
+321,"Com_14549_pos",NA,NA,NA,NA,NA,NA,"N~5~-(pyridin-2-ylmethyl)-1H-1,2,4-triazole-3,5-diamine"
+322,"Com_14557_pos",NA,NA,NA,NA,NA,NA,"Sphingosine (d18:1)"
+323,"Com_14579_pos",NA,NA,NA,NA,NA,NA,"LDGTS 18:2"
+324,"Com_1458_pos",NA,NA,NA,NA,NA,NA,"Caffeic acid"
+325,"Com_14596_neg",NA,NA,NA,NA,NA,NA,"DGDG (16:0/16:1)"
+326,"Com_146_pos",NA,NA,NA,NA,NA,NA,"13,14-Dihydro prostaglandin E1"
+327,"Com_1460_pos",NA,NA,NA,NA,NA,NA,"5??-Dihydrotestosterone"
+328,"Com_14604_pos",NA,NA,NA,NA,NA,NA,"DAG (5:0/14:1)"
+329,"Com_14618_neg",NA,NA,NA,NA,NA,NA,"LPA 14:0"
+330,"Com_14643_pos",NA,NA,NA,NA,NA,NA,"5-fluoro AB-PINACA N-(4-hydroxypentyl) metabolite"
+331,"Com_1468_neg",NA,NA,NA,NA,NA,NA,"2-(1-benzothiophen-3-ylmethylene)-3,4-dihydronaphthalen-1(2H)-one"
+332,"Com_14690_pos",NA,NA,NA,NA,NA,NA,"DGTS (2:0/16:2)"
+333,"Com_147_pos",NA,NA,NA,NA,NA,NA,"Adenosine"
+334,"Com_14709_pos",NA,NA,NA,NA,NA,NA,"N6-Me-Adenosine"
+335,"Com_14732_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/24:4)"
+336,"Com_14734_pos",NA,NA,NA,NA,NA,NA,"Hydrocortisone acetate"
+337,"Com_14736_neg",NA,NA,NA,NA,NA,NA,"methyl 5-{[2-(ethoxycarbonyl)-3-oxohex-1-enyl]amino}-2-furoate"
+338,"Com_14739_pos",NA,NA,NA,NA,NA,NA,"3-Nitro-L-Tyrosine"
+339,"Com_14742_pos",NA,NA,NA,NA,NA,NA,"2,6-Diethylaniline"
+340,"Com_14803_pos",NA,NA,NA,NA,NA,NA,"Pantetheine"
+341,"Com_14807_pos",NA,NA,NA,NA,NA,NA,"5,5-dimethyl-3-morpholinocyclohex-2-en-1-one"
+342,"Com_1481_neg",NA,NA,NA,NA,NA,NA,"[4-phenyl-5-(trifluoromethyl)-2-thienyl]methyl N-phenylcarbamate"
+343,"Com_14827_pos",NA,NA,NA,NA,NA,NA,"Biochanin A"
+344,"Com_14840_pos",NA,NA,NA,NA,NA,NA,"N-({5-[(4-methylpiperazino)sulfonyl]-2-thienyl}methyl)benzamide"
+345,"Com_14850_pos",NA,NA,NA,NA,NA,NA,"Gly-Tyr"
+346,"Com_1486_pos",NA,NA,NA,NA,NA,NA,"N-Methylparoxetine"
+347,"Com_1490_neg",NA,NA,NA,NA,NA,NA,"19(R)-Hydroxy prostaglandin F2??"
+348,"Com_1491_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/16:2)"
+349,"Com_14920_pos",NA,NA,NA,NA,NA,NA,"3-(3,4,5-trimethoxyphenyl)propanoic acid"
+350,"Com_1493_neg",NA,NA,NA,NA,NA,NA,"15(R),19(R)-Hydroxy prostaglandin F2??"
+351,"Com_1493_pos",NA,NA,NA,NA,NA,NA,"11??-Hydroxyandrosterone"
+352,"Com_14938_pos",NA,NA,NA,NA,NA,NA,"Oxaceprol"
+353,"Com_14949_neg",NA,NA,NA,NA,NA,NA,"Oleoyl-L-??-lysophosphatidic acid"
+354,"Com_14954_pos",NA,NA,NA,NA,NA,NA,"5-Hydroxymethylcytidine"
+355,"Com_14961_pos",NA,NA,NA,NA,NA,NA,"3-Aminotyrosine"
+356,"Com_1497_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/16:2)"
+357,"Com_150_neg",NA,NA,NA,NA,NA,NA,"9-HpOTrE"
+358,"Com_150_pos",NA,NA,NA,NA,NA,NA,"17(S)-HETE"
+359,"Com_15005_pos",NA,NA,NA,NA,NA,NA,"7-methylpyrimido[4,5-d]pyrimidin-4-amine"
+360,"Com_1502_pos",NA,NA,NA,NA,NA,NA,"Asp-Phe"
+361,"Com_1504_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/22:2)"
+362,"Com_15078_pos",NA,NA,NA,NA,NA,NA,"Oxymatrine"
+363,"Com_15103_pos",NA,NA,NA,NA,NA,NA,"3',4'-Tetramethylene-??-pyrrolidinovalerophenone"
+364,"Com_15121_pos",NA,NA,NA,NA,NA,NA,"Ouabain"
+365,"Com_15136_neg",NA,NA,NA,NA,NA,NA,"Glucoiberin"
+366,"Com_15159_pos",NA,NA,NA,NA,NA,NA,"2-(1H-indol-3-yl)acetic acid"
+367,"Com_1518_neg",NA,NA,NA,NA,NA,NA,"2,3-Dinor-TXB2"
+368,"Com_15204_neg",NA,NA,NA,NA,NA,NA,"MGDG (14:0/20:5)"
+369,"Com_15215_pos",NA,NA,NA,NA,NA,NA,"PC (18:5e/20:4)"
+370,"Com_15220_neg",NA,NA,NA,NA,NA,NA,"Calcium D-Panthotenate"
+371,"Com_15237_pos",NA,NA,NA,NA,NA,NA,"N-Acetylglycine"
+372,"Com_15244_pos",NA,NA,NA,NA,NA,NA,"N1-[4-(trifluoromethyl)phenyl]-2-phenylbutanamide"
+373,"Com_1529_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/15:1)"
+374,"Com_15298_pos",NA,NA,NA,NA,NA,NA,"Phytosphingosine"
+375,"Com_15315_pos",NA,NA,NA,NA,NA,NA,"4-(pentyloxy)benzene-1-carbohydrazide"
+376,"Com_15334_pos",NA,NA,NA,NA,NA,NA,"2-[3-methyl-2-(methylimino)-4-oxo-1,3-thiazolan-5-yl]acetic acid"
+377,"Com_1534_neg",NA,NA,NA,NA,NA,NA,"N-(6-chloro-1,3-benzothiazol-2-yl)-4-(trifluoromethyl)benzamide"
+378,"Com_1535_neg",NA,NA,NA,NA,NA,NA,"17(S)-HpDHA"
+379,"Com_15367_neg",NA,NA,NA,NA,NA,NA,"8,15-Dihete"
+380,"Com_15391_pos",NA,NA,NA,NA,NA,NA,"Benzyl 6-O-beta-D-glucopyranosyl-beta-D-glucopyranoside"
+381,"Com_154_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxyestradiol"
+382,"Com_15403_pos",NA,NA,NA,NA,NA,NA,"15-deoxy-??12,14-Prostaglandin J2-biotin"
+383,"Com_15404_neg",NA,NA,NA,NA,NA,NA,"4-Methoxycinnamic Acid"
+384,"Com_15421_pos",NA,NA,NA,NA,NA,NA,"3-Methoxytyramine"
+385,"Com_15462_pos",NA,NA,NA,NA,NA,NA,"trans,trans-2,4-Heptadienal"
+386,"Com_15470_pos",NA,NA,NA,NA,NA,NA,"Lysopc 14:0"
+387,"Com_15475_pos",NA,NA,NA,NA,NA,NA,"Chalcone"
+388,"Com_15477_pos",NA,NA,NA,NA,NA,NA,"MGDG (21:0/18:4)"
+389,"Com_15589_neg",NA,NA,NA,NA,NA,NA,"11(Z)-Eicosenoic acid"
+390,"Com_15591_neg",NA,NA,NA,NA,NA,NA,"PI (16:2/21:2)"
+391,"Com_15600_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/22:3)"
+392,"Com_15614_neg",NA,NA,NA,NA,NA,NA,"Paeoniflorin"
+393,"Com_1562_pos",NA,NA,NA,NA,NA,NA,"19-Nortestosterone"
+394,"Com_1563_pos",NA,NA,NA,NA,NA,NA,"Cytidine"
+395,"Com_15643_pos",NA,NA,NA,NA,NA,NA,"Thromoboxane B1"
+396,"Com_1566_pos",NA,NA,NA,NA,NA,NA,"3-Methoxy prostaglandin F1??"
+397,"Com_15663_pos",NA,NA,NA,NA,NA,NA,"DAG (17:2/18:5)"
+398,"Com_15691_pos",NA,NA,NA,NA,NA,NA,"1,3-bis(4-methoxybenzyl)-2-(6-methyl-2-pyridinyl)hexahydropyrimidine"
+399,"Com_15696_pos",NA,NA,NA,NA,NA,NA,"4-Hydroxyisoleucine"
+400,"Com_15701_pos",NA,NA,NA,NA,NA,NA,"Dextrorphan"
+401,"Com_15705_pos",NA,NA,NA,NA,NA,NA,"1-benzyl-3-butyl-4-hydroxy-6-phenylpyridin-2(1H)-one"
+402,"Com_15712_pos",NA,NA,NA,NA,NA,NA,"Oleoyl-L-alpha-lysophosphatidic acid"
+403,"Com_15725_pos",NA,NA,NA,NA,NA,NA,"7-hydroxy-6-nitro-2,3-dihydro-1H,5H-pyrido[3,2,1-ij]quinolin-5-one"
+404,"Com_15754_pos",NA,NA,NA,NA,NA,NA,"2-{[methyl(2,3,4,5,6-pentahydroxyhexyl)amino]methylidene}malononitrile"
+405,"Com_15757_neg",NA,NA,NA,NA,NA,NA,"Tris(2-carboxyethyl)phosphine"
+406,"Com_1576_pos",NA,NA,NA,NA,NA,NA,"N-Tetradecanamide"
+407,"Com_15760_pos",NA,NA,NA,NA,NA,NA,"O3-(4-chlorobenzoyl)-6-(4-chlorophenoxy)pyridine-3-carbohydroximamide"
+408,"Com_15769_neg",NA,NA,NA,NA,NA,NA,"1,7-Dimethylxanthine"
+409,"Com_15769_pos",NA,NA,NA,NA,NA,NA,"PE (6:0/22:1)"
+410,"Com_158_pos",NA,NA,NA,NA,NA,NA,"Lysine Butyrate"
+411,"Com_15854_pos",NA,NA,NA,NA,NA,NA,"UR-144 N-(5-Bromopentyl) analog"
+412,"Com_15882_pos",NA,NA,NA,NA,NA,NA,"4-Hexyloxyaniline"
+413,"Com_15885_pos",NA,NA,NA,NA,NA,NA,"Gambogic acid"
+414,"Com_15896_pos",NA,NA,NA,NA,NA,NA,"PE (14:1e/18:1)"
+415,"Com_159_pos",NA,NA,NA,NA,NA,NA,"4-Pyridoxic acid"
+416,"Com_15918_neg",NA,NA,NA,NA,NA,NA,"Octadeca-11E,13E,15Z-trienoic acid"
+417,"Com_15921_pos",NA,NA,NA,NA,NA,NA,"N1-(1H-indol-4-yl)cyclohexane-1-carboxamide"
+418,"Com_16009_pos",NA,NA,NA,NA,NA,NA,"PB-22 N-(4-Hydroxypentyl)-3-carboxyindole metabolite"
+419,"Com_16023_pos",NA,NA,NA,NA,NA,NA,"2,6-Dimethyl-??-pyrone"
+420,"Com_16054_pos",NA,NA,NA,NA,NA,NA,"11-Oxoetiocholanolone"
+421,"Com_16145_pos",NA,NA,NA,NA,NA,NA,"Pyridoxine O-Glucoside"
+422,"Com_16146_neg",NA,NA,NA,NA,NA,NA,"MGDG (3:0/16:3)"
+423,"Com_1615_pos",NA,NA,NA,NA,NA,NA,"N-acetyl-D-glucosamine"
+424,"Com_16174_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/22:4)"
+425,"Com_1618_neg",NA,NA,NA,NA,NA,NA,"Melibiose"
+426,"Com_16186_pos",NA,NA,NA,NA,NA,NA,"Vincristine"
+427,"Com_1621_pos",NA,NA,NA,NA,NA,NA,"2-Amino-1,3,4-octadecanetriol"
+428,"Com_16227_pos",NA,NA,NA,NA,NA,NA,"dATP"
+429,"Com_16309_pos",NA,NA,NA,NA,NA,NA,"2-morpholinophenyl 2-thiophenecarboxylate"
+430,"Com_1633_pos",NA,NA,NA,NA,NA,NA,"Acetyl-L-carnitine"
+431,"Com_16383_pos",NA,NA,NA,NA,NA,NA,"Zafirlukast"
+432,"Com_1640_pos",NA,NA,NA,NA,NA,NA,"1-Palmitoylglycerol"
+433,"Com_16423_pos",NA,NA,NA,NA,NA,NA,"Sulfamethazine"
+434,"Com_16427_pos",NA,NA,NA,NA,NA,NA,"5-Methyl-2-thiouridine"
+435,"Com_16457_pos",NA,NA,NA,NA,NA,NA,"2-(tert-butyl)-6,7-dimethoxy-4H-3,1-benzoxazin-4-one"
+436,"Com_1646_pos",NA,NA,NA,NA,NA,NA,"tetranor-12(R)-HETE"
+437,"Com_16494_pos",NA,NA,NA,NA,NA,NA,"3-beta-Cholest-5-en-3-yl [2-(dimethylamino)ethyl]carbamate"
+438,"Com_165_pos",NA,NA,NA,NA,NA,NA,"1-(3-ethyl-2,4-dihydroxy-6-methoxyphenyl)butan-1-one"
+439,"Com_16505_pos",NA,NA,NA,NA,NA,NA,"VNK"
+440,"Com_1651_pos",NA,NA,NA,NA,NA,NA,"N6-Isopentenyladenosine"
+441,"Com_16512_pos",NA,NA,NA,NA,NA,NA,"3-Methyladenine"
+442,"Com_1652_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/20:3)"
+443,"Com_16527_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/18:4)"
+444,"Com_16537_pos",NA,NA,NA,NA,NA,NA,"Equol"
+445,"Com_1654_pos",NA,NA,NA,NA,NA,NA,"Reserpine"
+446,"Com_16558_pos",NA,NA,NA,NA,NA,NA,"LPE 16:2"
+447,"Com_16565_pos",NA,NA,NA,NA,NA,NA,"3-O-??-D-Glucopyranosylandrographolide"
+448,"Com_16570_neg",NA,NA,NA,NA,NA,NA,"4-Hydroxyretinoic Acid"
+449,"Com_16579_pos",NA,NA,NA,NA,NA,NA,"Pleuromutilin"
+450,"Com_16588_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/22:3)"
+451,"Com_16603_pos",NA,NA,NA,NA,NA,NA,"Taurocholic acid"
+452,"Com_16608_pos",NA,NA,NA,NA,NA,NA,"MGDG (14:0/16:3)"
+453,"Com_16627_neg",NA,NA,NA,NA,NA,NA,"LPG 17:0"
+454,"Com_16637_pos",NA,NA,NA,NA,NA,NA,"3-methyl-5-oxo-5-(4-toluidino)pentanoic acid"
+455,"Com_16640_neg",NA,NA,NA,NA,NA,NA,"5-(tert-butyl)-2-methyl-N-(5-methyl-3-isoxazolyl)-3-furamide"
+456,"Com_16646_neg",NA,NA,NA,NA,NA,NA,"PC (4:0/16:3)"
+457,"Com_16661_neg",NA,NA,NA,NA,NA,NA,"Cer-AP (t30:0/22:2)"
+458,"Com_16676_pos",NA,NA,NA,NA,NA,NA,"PC (14:1e/3:0)"
+459,"Com_16685_pos",NA,NA,NA,NA,NA,NA,"Agmatine"
+460,"Com_16688_pos",NA,NA,NA,NA,NA,NA,"Indirubin"
+461,"Com_16712_neg",NA,NA,NA,NA,NA,NA,"benzyl N-(2-{[(benzyloxy)carbonyl]amino}cyclopropyl)carbamate"
+462,"Com_16713_pos",NA,NA,NA,NA,NA,NA,"2-Isopropylmalate"
+463,"Com_16717_neg",NA,NA,NA,NA,NA,NA,"LPE 20:4"
+464,"Com_16728_pos",NA,NA,NA,NA,NA,NA,"7-(3,4-dihydroxyphenyl)-5-hydroxy-1-(4-hydroxyphenyl)heptan-3-one"
+465,"Com_1673_pos",NA,NA,NA,NA,NA,NA,"(3??,5??,9??)-3,6,19-Trihydroxyurs-12-en-28-oic acid"
+466,"Com_1674_pos",NA,NA,NA,NA,NA,NA,"methyl 1-isopropyl-1H-1,2,3-benzotriazole-5-carboxylate"
+467,"Com_16742_neg",NA,NA,NA,NA,NA,NA,"LPC 17:1"
+468,"Com_16748_pos",NA,NA,NA,NA,NA,NA,"23-Norcholic acid"
+469,"Com_1675_pos",NA,NA,NA,NA,NA,NA,"SM (d14:0/12:1)"
+470,"Com_1676_pos",NA,NA,NA,NA,NA,NA,"Artemisinin"
+471,"Com_16778_pos",NA,NA,NA,NA,NA,NA,"(3R)-4,4-Dimethyl-2-oxotetrahydro-3-furanyl beta-D-glucopyranoside"
+472,"Com_1679_neg",NA,NA,NA,NA,NA,NA,"Leucylproline"
+473,"Com_168_pos",NA,NA,NA,NA,NA,NA,"11-??-Hydroxy-17-methyltestosterone"
+474,"Com_16801_pos",NA,NA,NA,NA,NA,NA,"PC (18:2e/15:0)"
+475,"Com_16818_neg",NA,NA,NA,NA,NA,NA,"2'-Deoxyadenosine 5'-monophosphate (dAMP)"
+476,"Com_16841_neg",NA,NA,NA,NA,NA,NA,"Cer-AP (t15:1/16:0)"
+477,"Com_1688_pos",NA,NA,NA,NA,NA,NA,"DAG (6:0/11:0)"
+478,"Com_1689_neg",NA,NA,NA,NA,NA,NA,"D(+)-Phenyllactic acid"
+479,"Com_169_pos",NA,NA,NA,NA,NA,NA,"Cafestol"
+480,"Com_16941_pos",NA,NA,NA,NA,NA,NA,"Nodularin"
+481,"Com_170_neg",NA,NA,NA,NA,NA,NA,"Azelaic acid"
+482,"Com_17002_pos",NA,NA,NA,NA,NA,NA,"N2-(2,4-dimethylphenyl)-1,3-benzothiazol-2-amine"
+483,"Com_17024_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/26:4)"
+484,"Com_1704_pos",NA,NA,NA,NA,NA,NA,"ANH"
+485,"Com_1705_pos",NA,NA,NA,NA,NA,NA,"N-(4-butyl-2-methylphenyl)-N'-[4-(4-methylpiperazino)phenyl]urea"
+486,"Com_17050_neg",NA,NA,NA,NA,NA,NA,"Arbutin"
+487,"Com_17073_pos",NA,NA,NA,NA,NA,NA,"O-7460"
+488,"Com_1709_neg",NA,NA,NA,NA,NA,NA,"19(R)-Hydroxy-prostaglandin E2"
+489,"Com_1710_pos",NA,NA,NA,NA,NA,NA,"LPC 6:0"
+490,"Com_17148_pos",NA,NA,NA,NA,NA,NA,"Methyl 3-indolyacetate"
+491,"Com_17192_pos",NA,NA,NA,NA,NA,NA,"LysoPC 12:1"
+492,"Com_172_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/7:0)"
+493,"Com_17257_neg",NA,NA,NA,NA,NA,NA,"Nonadecanoic acid"
+494,"Com_17278_neg",NA,NA,NA,NA,NA,NA,"Sedoheptulose 1,7-bisphosphate"
+495,"Com_173_neg",NA,NA,NA,NA,NA,NA,"D-(-)-Mannitol"
+496,"Com_1731_pos",NA,NA,NA,NA,NA,NA,"Docosapentaenoic acid"
+497,"Com_17366_pos",NA,NA,NA,NA,NA,NA,"LPC 14:0"
+498,"Com_17371_pos",NA,NA,NA,NA,NA,NA,"TAG (17:3-20:5-21:5)"
+499,"Com_1740_pos",NA,NA,NA,NA,NA,NA,"Inosine"
+500,"Com_17428_neg",NA,NA,NA,NA,NA,NA,"N-Acetylcytidine"
+501,"Com_17429_pos",NA,NA,NA,NA,NA,NA,"1,3,7-trimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione"
+502,"Com_17503_neg",NA,NA,NA,NA,NA,NA,"Hesperidin"
+503,"Com_17509_pos",NA,NA,NA,NA,NA,NA,"5-Hydroxytryptophan"
+504,"Com_17531_pos",NA,NA,NA,NA,NA,NA,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-(2-phenylethoxy)oxane-3,4,5-triol"
+505,"Com_17577_pos",NA,NA,NA,NA,NA,NA,"Syringic acid"
+506,"Com_17586_neg",NA,NA,NA,NA,NA,NA,"DGDG (8:0/20:2)"
+507,"Com_176_neg",NA,NA,NA,NA,NA,NA,"13,14-Dihydro-19(R)-hydroxy prostaglandin E1"
+508,"Com_17617_pos",NA,NA,NA,NA,NA,NA,"3-(3,4-dimethylphenyl)-3,4-dihydro-1,2,3-benzotriazin-4-one"
+509,"Com_17636_pos",NA,NA,NA,NA,NA,NA,"4-oxo-4-(5,6,7,8-tetrahydronaphthalen-1-ylamino)but-2-enoic acid"
+510,"Com_17667_pos",NA,NA,NA,NA,NA,NA,"3-Hydroxyproline"
+511,"Com_177_neg",NA,NA,NA,NA,NA,NA,"11??-13,14-dihydro-15-keto Prostaglandin F2??"
+512,"Com_17701_neg",NA,NA,NA,NA,NA,NA,"PC (9:0/12:0)"
+513,"Com_17702_pos",NA,NA,NA,NA,NA,NA,"Xanthinol"
+514,"Com_17717_pos",NA,NA,NA,NA,NA,NA,"LDGTS 17:0"
+515,"Com_17774_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/4:0)"
+516,"Com_17802_pos",NA,NA,NA,NA,NA,NA,"Papaverine"
+517,"Com_17803_neg",NA,NA,NA,NA,NA,NA,"Trehalose 6-phosphate"
+518,"Com_17900_pos",NA,NA,NA,NA,NA,NA,"Nafadotride"
+519,"Com_17939_pos",NA,NA,NA,NA,NA,NA,"2-(3,4-dimethoxyphenyl)quinoline"
+520,"Com_17950_neg",NA,NA,NA,NA,NA,NA,"N1-(4-cyclohexylphenyl)-2-[(4-methylphenyl)thio]acetamide"
+521,"Com_180_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/16:2)"
+522,"Com_18020_neg",NA,NA,NA,NA,NA,NA,"Uric Acid"
+523,"Com_18026_pos",NA,NA,NA,NA,NA,NA,"4-[1-(dimethylamino)ethylidene]-2-phenyl-1,3-oxazol-5(4H)-one"
+524,"Com_1803_neg",NA,NA,NA,NA,NA,NA,"N-(2,5-dichlorobenzyl)-5-ethyl-1H-indole-2-carboxamide"
+525,"Com_18031_pos",NA,NA,NA,NA,NA,NA,"2-morpholinophenyl 1-methyl-1H-imidazole-4-sulfonate"
+526,"Com_18039_neg",NA,NA,NA,NA,NA,NA,"FAHFA (9:0/22:4)"
+527,"Com_18043_pos",NA,NA,NA,NA,NA,NA,"20??-Dihydroprednisone"
+528,"Com_18047_neg",NA,NA,NA,NA,NA,NA,"4-Hydroxyglucobrassicin"
+529,"Com_18060_pos",NA,NA,NA,NA,NA,NA,"2-Methoxyestradiol (2-MeOE2)"
+530,"Com_1807_neg",NA,NA,NA,NA,NA,NA,"11-Deoxy prostaglandin F2??"
+531,"Com_18072_pos",NA,NA,NA,NA,NA,NA,"Estradiol"
+532,"Com_1808_neg",NA,NA,NA,NA,NA,NA,"D-(+)-Arabitol"
+533,"Com_18086_pos",NA,NA,NA,NA,NA,NA,"Lysope 14:0"
+534,"Com_18091_pos",NA,NA,NA,NA,NA,NA,"farensyl diphosphate"
+535,"Com_18096_neg",NA,NA,NA,NA,NA,NA,"gamma-Nonanolactone"
+536,"Com_181_pos",NA,NA,NA,NA,NA,NA,"(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid"
+537,"Com_18120_neg",NA,NA,NA,NA,NA,NA,"Ala-trp"
+538,"Com_18127_neg",NA,NA,NA,NA,NA,NA,"PG (8:0/16:2)"
+539,"Com_1815_pos",NA,NA,NA,NA,NA,NA,"N-Benzylformamide"
+540,"Com_18181_neg",NA,NA,NA,NA,NA,NA,"PS (7:0/16:3)"
+541,"Com_18196_pos",NA,NA,NA,NA,NA,NA,"7-Methoxyflavone"
+542,"Com_18197_pos",NA,NA,NA,NA,NA,NA,"Octanedioic acid"
+543,"Com_18228_pos",NA,NA,NA,NA,NA,NA,"5-Hydroxyindole-3-acetic acid"
+544,"Com_18230_neg",NA,NA,NA,NA,NA,NA,"DGDG (16:2/22:5)"
+545,"Com_1826_neg",NA,NA,NA,NA,NA,NA,"3-Hydroxybutyric acid"
+546,"Com_18266_pos",NA,NA,NA,NA,NA,NA,"4-[(4-phenethyl-1,4-diazepan-1-yl)sulfonyl]-2,1,3-benzoxadiazole"
+547,"Com_18287_pos",NA,NA,NA,NA,NA,NA,"AMH"
+548,"Com_18295_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin B2"
+549,"Com_183_neg",NA,NA,NA,NA,NA,NA,"L-(+)-Arabinose"
+550,"Com_18300_pos",NA,NA,NA,NA,NA,NA,"(5S)-5-hydroxy-1,7-diphenylheptan-3-one"
+551,"Com_18301_pos",NA,NA,NA,NA,NA,NA,"Methyl palmitate"
+552,"Com_1831_neg",NA,NA,NA,NA,NA,NA,"Mevalonic acid"
+553,"Com_18370_neg",NA,NA,NA,NA,NA,NA,"Epigallocatechin gallate"
+554,"Com_18389_neg",NA,NA,NA,NA,NA,NA,"Riboflavin-5-phosphate"
+555,"Com_18438_neg",NA,NA,NA,NA,NA,NA,"DGDG (16:1/18:3)"
+556,"Com_1845_pos",NA,NA,NA,NA,NA,NA,"N2-Acetyl-L-ornithine"
+557,"Com_18452_pos",NA,NA,NA,NA,NA,NA,"4-decyl-3-hydroxy-5-oxooxolane-2,3-dicarboxylic acid"
+558,"Com_1846_pos",NA,NA,NA,NA,NA,NA,"4-Phenyl-3-buten-2-one"
+559,"Com_18479_pos",NA,NA,NA,NA,NA,NA,"Dithranol"
+560,"Com_18483_pos",NA,NA,NA,NA,NA,NA,"Melatonin"
+561,"Com_18549_pos",NA,NA,NA,NA,NA,NA,"CGS 12066B"
+562,"Com_18580_pos",NA,NA,NA,NA,NA,NA,"WMH"
+563,"Com_187_neg",NA,NA,NA,NA,NA,NA,"Gluconic acid"
+564,"Com_1870_neg",NA,NA,NA,NA,NA,NA,"MGDG (4:0/13:1)"
+565,"Com_18707_neg",NA,NA,NA,NA,NA,NA,"FAHFA (9:0/20:4)"
+566,"Com_18727_neg",NA,NA,NA,NA,NA,NA,"13,14-dihydro Prostaglandin F1??"
+567,"Com_1876_neg",NA,NA,NA,NA,NA,NA,"trans-Petroselinic acid"
+568,"Com_18774_neg",NA,NA,NA,NA,NA,NA,"7Z, 10Z, 13Z, 16Z, 19Z-docosapentaenoic acid"
+569,"Com_18792_pos",NA,NA,NA,NA,NA,NA,"GlcADG (16:2-22:6)"
+570,"Com_18796_neg",NA,NA,NA,NA,NA,NA,"Anandamide (AEA)"
+571,"Com_1880_neg",NA,NA,NA,NA,NA,NA,"Orotidine 5'-monophosphate"
+572,"Com_18826_pos",NA,NA,NA,NA,NA,NA,"2'-fluoro-N-[3-(trifluoromethyl)phenyl][1,1'-biphenyl]-4-carboxamide"
+573,"Com_18848_neg",NA,NA,NA,NA,NA,NA,"PI (7:0/7:0)"
+574,"Com_18897_pos",NA,NA,NA,NA,NA,NA,"6-[(4-methylphenyl)sulfonyl]-6-azabicyclo[3.2.1]octane"
+575,"Com_1892_pos",NA,NA,NA,NA,NA,NA,"haloperidol-d4"
+576,"Com_1893_neg",NA,NA,NA,NA,NA,NA,"(2S)-4-Oxo-2-phenyl-3,4-dihydro-2H-chromen-7-yl beta-D-glucopyranoside"
+577,"Com_18936_pos",NA,NA,NA,NA,NA,NA,"GlcADG (16:0-20:1)"
+578,"Com_1895_neg",NA,NA,NA,NA,NA,NA,"13,14-Dihydro-15-keto prostaglandin F2??"
+579,"Com_1895_pos",NA,NA,NA,NA,NA,NA,"D-(+)-Proline"
+580,"Com_1897_pos",NA,NA,NA,NA,NA,NA,"Shikonin"
+581,"Com_19_pos",NA,NA,NA,NA,NA,NA,"L-(+)-Citrulline"
+582,"Com_1900_pos",NA,NA,NA,NA,NA,NA,"4-oxododecanedioic acid"
+583,"Com_19021_neg",NA,NA,NA,NA,NA,NA,"PI (9:0/9:0)"
+584,"Com_19034_pos",NA,NA,NA,NA,NA,NA,"Linopirdine"
+585,"Com_1904_neg",NA,NA,NA,NA,NA,NA,"Gibberellin A4"
+586,"Com_19052_pos",NA,NA,NA,NA,NA,NA,"5-(benzyloxy)-2-(methylsulfanyl)-4-pyrimidinol"
+587,"Com_19059_pos",NA,NA,NA,NA,NA,NA,"LDGTS 20:1"
+588,"Com_19079_pos",NA,NA,NA,NA,NA,NA,"N-{4-[(nitromethyl)sulfonyl]phenyl}acetamide"
+589,"Com_19123_pos",NA,NA,NA,NA,NA,NA,"Gabexate"
+590,"Com_19138_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-2-octylpentanedioic acid"
+591,"Com_19158_neg",NA,NA,NA,NA,NA,NA,"Deoxyadenosine"
+592,"Com_1916_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/20:2)"
+593,"Com_1919_pos",NA,NA,NA,NA,NA,NA,"7-(2-hydroxypropan-2-yl)-1,4a-dimethyl-decahydronaphthalen-1-ol"
+594,"Com_19210_pos",NA,NA,NA,NA,NA,NA,"Sunitinib"
+595,"Com_19265_pos",NA,NA,NA,NA,NA,NA,"(3-Methoxy-4-hydroxyphenyl)ethylene glycol sulfate"
+596,"Com_19275_neg",NA,NA,NA,NA,NA,NA,"1-Methyladenosine"
+597,"Com_19276_pos",NA,NA,NA,NA,NA,NA,"PC (19:1/19:2)"
+598,"Com_1929_pos",NA,NA,NA,NA,NA,NA,"9,10-Dihome"
+599,"Com_19295_pos",NA,NA,NA,NA,NA,NA,"Pyridoxine"
+600,"Com_1930_pos",NA,NA,NA,NA,NA,NA,"Adenosine 3'5'-cyclic monophosphate"
+601,"Com_19365_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/2:0)"
+602,"Com_19405_pos",NA,NA,NA,NA,NA,NA,"Argininosuccinic acid"
+603,"Com_19406_pos",NA,NA,NA,NA,NA,NA,"6??-Naltrexol"
+604,"Com_19490_pos",NA,NA,NA,NA,NA,NA,"PEtOH (24:2-18:5)"
+605,"Com_19518_pos",NA,NA,NA,NA,NA,NA,"PC (18:0e/17:2)"
+606,"Com_19536_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin E2-1-glyceryl ester"
+607,"Com_19544_pos",NA,NA,NA,NA,NA,NA,"Acetaminophen glucuronide"
+608,"Com_19578_pos",NA,NA,NA,NA,NA,NA,"8-Aminooctanoic acid"
+609,"Com_19585_pos",NA,NA,NA,NA,NA,NA,"Gedunin"
+610,"Com_19594_neg",NA,NA,NA,NA,NA,NA,"5-Hydroxymethyluridine"
+611,"Com_19658_pos",NA,NA,NA,NA,NA,NA,"Colchicine"
+612,"Com_1969_neg",NA,NA,NA,NA,NA,NA,"Glucobrassicin"
+613,"Com_1970_neg",NA,NA,NA,NA,NA,NA,"PA (15:0/20:4)"
+614,"Com_19721_pos",NA,NA,NA,NA,NA,NA,"N-Formylkynurenine"
+615,"Com_19722_pos",NA,NA,NA,NA,NA,NA,"Orlistat"
+616,"Com_19732_pos",NA,NA,NA,NA,NA,NA,"2-Hydroxydesipramine"
+617,"Com_19767_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/6:0)"
+618,"Com_19812_pos",NA,NA,NA,NA,NA,NA,"Histamine-trifluoromethyltoluide"
+619,"Com_1987_pos",NA,NA,NA,NA,NA,NA,"Ethyl chrysanthemumate"
+620,"Com_19879_neg",NA,NA,NA,NA,NA,NA,"11(Z),14(Z)-Eicosadienoic Acid"
+621,"Com_19951_pos",NA,NA,NA,NA,NA,NA,"Ergosterol"
+622,"Com_19966_pos",NA,NA,NA,NA,NA,NA,"Biotin"
+623,"Com_2_neg",NA,NA,NA,NA,NA,NA,"??-Lactose"
+624,"Com_2000_neg",NA,NA,NA,NA,NA,NA,"2-Aminoadipic acid"
+625,"Com_20005_neg",NA,NA,NA,NA,NA,NA,"LPC 20:5"
+626,"Com_20010_pos",NA,NA,NA,NA,NA,NA,"Tyr-Tyr"
+627,"Com_20042_pos",NA,NA,NA,NA,NA,NA,"Glycocholic acid hydrate"
+628,"Com_20050_pos",NA,NA,NA,NA,NA,NA,"??-Piperidinobutiophenone"
+629,"Com_20103_neg",NA,NA,NA,NA,NA,NA,"Gamma-Glu-Leu"
+630,"Com_20107_pos",NA,NA,NA,NA,NA,NA,"23-Nordeoxycholic acid"
+631,"Com_2011_neg",NA,NA,NA,NA,NA,NA,"Gluconolactone"
+632,"Com_20158_pos",NA,NA,NA,NA,NA,NA,"H-Pro-Hyp-OH"
+633,"Com_2019_neg",NA,NA,NA,NA,NA,NA,"Suberic acid"
+634,"Com_20237_pos",NA,NA,NA,NA,NA,NA,"N,N-Dimethyldecylamine N-oxide"
+635,"Com_20246_pos",NA,NA,NA,NA,NA,NA,"PC (6:0/13:1)"
+636,"Com_20249_pos",NA,NA,NA,NA,NA,NA,"Lagochilin"
+637,"Com_2025_neg",NA,NA,NA,NA,NA,NA,"Undecanedioic acid"
+638,"Com_20250_pos",NA,NA,NA,NA,NA,NA,"6,7,8-trimethoxy-2-(2-phenoxy-3-pyridyl)-4H-3,1-benzoxazin-4-one"
+639,"Com_20263_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/12:0)"
+640,"Com_2028_pos",NA,NA,NA,NA,NA,NA,"Epitestosterone"
+641,"Com_20286_neg",NA,NA,NA,NA,NA,NA,"PC (5:0/18:2)"
+642,"Com_20295_pos",NA,NA,NA,NA,NA,NA,"RMH"
+643,"Com_20375_pos",NA,NA,NA,NA,NA,NA,"1-(4-pentylphenyl)ethylamine hydrochloride"
+644,"Com_20399_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/13:1)"
+645,"Com_2040_pos",NA,NA,NA,NA,NA,NA,"Dehydroepiandrosterone (DHEA)"
+646,"Com_20402_pos",NA,NA,NA,NA,NA,NA,"5-[(2-hydroxybenzylidene)amino]-2-(2-methoxyethoxy)benzoic acid"
+647,"Com_20444_pos",NA,NA,NA,NA,NA,NA,"Methyl EudesMate"
+648,"Com_2048_neg",NA,NA,NA,NA,NA,NA,"Kaempferitrin"
+649,"Com_20495_pos",NA,NA,NA,NA,NA,NA,"LPC 22:6"
+650,"Com_20503_pos",NA,NA,NA,NA,NA,NA,"1,7-bis(4-hydroxyphenyl)heptan-3-one"
+651,"Com_20513_pos",NA,NA,NA,NA,NA,NA,"Coenzyme Q2"
+652,"Com_20521_neg",NA,NA,NA,NA,NA,NA,"MGDG (7:0/16:4)"
+653,"Com_20618_pos",NA,NA,NA,NA,NA,NA,"Biliverdin"
+654,"Com_20627_pos",NA,NA,NA,NA,NA,NA,"4-Pregnen-17alpha,20alpha-Diol-3-One"
+655,"Com_20656_pos",NA,NA,NA,NA,NA,NA,"PC (17:0/17:1)"
+656,"Com_2066_neg",NA,NA,NA,NA,NA,NA,"Taurine"
+657,"Com_2068_pos",NA,NA,NA,NA,NA,NA,"Coniferin"
+658,"Com_2069_pos",NA,NA,NA,NA,NA,NA,"Roxane"
+659,"Com_20699_pos",NA,NA,NA,NA,NA,NA,"2-Methylbutyl beta-D-glucopyranoside"
+660,"Com_2071_pos",NA,NA,NA,NA,NA,NA,"1-(2,4-dihydroxyphenyl)-2-(3,5-dimethoxyphenyl)propan-1-one"
+661,"Com_2078_neg",NA,NA,NA,NA,NA,NA,"Genipin"
+662,"Com_20791_pos",NA,NA,NA,NA,NA,NA,"6,7-dihydro-5H-dibenzo[d,f][1,3]diazepin-6-one"
+663,"Com_208_neg",NA,NA,NA,NA,NA,NA,"(+/-)11(12)-EET"
+664,"Com_2081_pos",NA,NA,NA,NA,NA,NA,"Nicotinate ribonucleoside"
+665,"Com_20821_pos",NA,NA,NA,NA,NA,NA,"Mezlocillin"
+666,"Com_20848_neg",NA,NA,NA,NA,NA,NA,"N-[4-chloro-2-(2-chlorobenzoyl)phenyl]-2-(4-methylpiperidino)acetamide"
+667,"Com_20854_pos",NA,NA,NA,NA,NA,NA,"diethyl 1-(2,3,4,5,6-pentamethylphenyl)hydrazine-1,2-dicarboxylate"
+668,"Com_2088_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/18:3)"
+669,"Com_20926_pos",NA,NA,NA,NA,NA,NA,"PC (20:5e/16:3)"
+670,"Com_20930_pos",NA,NA,NA,NA,NA,NA,"LysoPE 18:0"
+671,"Com_21014_neg",NA,NA,NA,NA,NA,NA,"Lysopc 16:1"
+672,"Com_2102_neg",NA,NA,NA,NA,NA,NA,"N-Acetyl-D-alloisoleucine"
+673,"Com_21022_pos",NA,NA,NA,NA,NA,NA,"Glutathione"
+674,"Com_2103_pos",NA,NA,NA,NA,NA,NA,"N-Oleoyl Glycine"
+675,"Com_21036_pos",NA,NA,NA,NA,NA,NA,"Tanespimycin"
+676,"Com_21044_pos",NA,NA,NA,NA,NA,NA,"Gly-Tyr-Ala"
+677,"Com_21069_pos",NA,NA,NA,NA,NA,NA,"1-allyl-4,5-diphenyl-2-(2-thienyl)-1H-imidazole"
+678,"Com_21086_pos",NA,NA,NA,NA,NA,NA,"Nicotinoylglycine"
+679,"Com_21091_pos",NA,NA,NA,NA,NA,NA,"N1,N1-diethyl-4-[2-(4-bromophenyl)diaz-1-enyl]aniline"
+680,"Com_2110_pos",NA,NA,NA,NA,NA,NA,"trans-Cinnamaldehyde"
+681,"Com_2115_neg",NA,NA,NA,NA,NA,NA,"Ursolic acid"
+682,"Com_21196_pos",NA,NA,NA,NA,NA,NA,"Milbemycin A4 oxime"
+683,"Com_212_neg",NA,NA,NA,NA,NA,NA,"Corchorifatty acid F"
+684,"Com_21211_pos",NA,NA,NA,NA,NA,NA,"PC (22:6e/16:4)"
+685,"Com_2130_pos",NA,NA,NA,NA,NA,NA,"Neosaxitoxin"
+686,"Com_21360_pos",NA,NA,NA,NA,NA,NA,"Benzoylecgonine"
+687,"Com_21385_pos",NA,NA,NA,NA,NA,NA,"2-cyano-3-(4-hydroxyphenyl)acrylamide"
+688,"Com_21407_pos",NA,NA,NA,NA,NA,NA,"PLH"
+689,"Com_21415_pos",NA,NA,NA,NA,NA,NA,"2-{[(4,5-dimethoxy-2-nitrophenethyl)imino]methyl}phenol"
+690,"Com_21430_neg",NA,NA,NA,NA,NA,NA,"Trehalose"
+691,"Com_21469_pos",NA,NA,NA,NA,NA,NA,"Trenbolone acetate"
+692,"Com_21501_pos",NA,NA,NA,NA,NA,NA,"Arachidonoyl serinol"
+693,"Com_21504_pos",NA,NA,NA,NA,NA,NA,"Docosatrienoic acid"
+694,"Com_21511_pos",NA,NA,NA,NA,NA,NA,"Diphenoxylate"
+695,"Com_2157_pos",NA,NA,NA,NA,NA,NA,"4-Guanidinobutyric acid"
+696,"Com_21571_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/12:0)"
+697,"Com_2159_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/16:3)"
+698,"Com_21598_pos",NA,NA,NA,NA,NA,NA,"Phylloquinone"
+699,"Com_216_pos",NA,NA,NA,NA,NA,NA,"4-Fluoro-??-pyrrolidinobutiophenone"
+700,"Com_2162_neg",NA,NA,NA,NA,NA,NA,"N-Acetylneuraminic acid"
+701,"Com_21692_pos",NA,NA,NA,NA,NA,NA,"4-(1-adamantyl)-2-methyl-1,3-thiazole"
+702,"Com_21746_pos",NA,NA,NA,NA,NA,NA,"Liquiritigenin"
+703,"Com_21780_pos",NA,NA,NA,NA,NA,NA,"Androstenedione"
+704,"Com_21786_pos",NA,NA,NA,NA,NA,NA,"Ezetimibe"
+705,"Com_21884_neg",NA,NA,NA,NA,NA,NA,"Piperazine-1,4-bis (2-ethanesulfonic acid)"
+706,"Com_21897_pos",NA,NA,NA,NA,NA,NA,"3-(3-pyridinyl)propanoic acid"
+707,"Com_219_neg",NA,NA,NA,NA,NA,NA,"3,5-dimethyl-N'-[4-(trifluoromethyl)benzoyl]isoxazole-4-carbohydrazide"
+708,"Com_21919_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/22:1)"
+709,"Com_21922_neg",NA,NA,NA,NA,NA,NA,"4-Hydroxy-3-methylbenzoic acid"
+710,"Com_21952_pos",NA,NA,NA,NA,NA,NA,"2-Isopropylaniline"
+711,"Com_21958_pos",NA,NA,NA,NA,NA,NA,"glutathione disulfide"
+712,"Com_21987_pos",NA,NA,NA,NA,NA,NA,"Arecoline"
+713,"Com_21989_neg",NA,NA,NA,NA,NA,NA,"Glutaric Acid"
+714,"Com_2199_pos",NA,NA,NA,NA,NA,NA,"Mecillinam"
+715,"Com_2203_pos",NA,NA,NA,NA,NA,NA,"2-Arachidonoyl glycerol"
+716,"Com_2205_pos",NA,NA,NA,NA,NA,NA,"Norbutorphanol"
+717,"Com_22052_neg",NA,NA,NA,NA,NA,NA,"P-Coumaroyl Agmatine"
+718,"Com_2206_neg",NA,NA,NA,NA,NA,NA,"L-Threonine"
+719,"Com_2207_neg",NA,NA,NA,NA,NA,NA,"LPA 19:1"
+720,"Com_22087_neg",NA,NA,NA,NA,NA,NA,"NG,NG-Dimethyl-L-arginine"
+721,"Com_2212_neg",NA,NA,NA,NA,NA,NA,"Dehydrocholic acid"
+722,"Com_22149_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/24:4)"
+723,"Com_22246_pos",NA,NA,NA,NA,NA,NA,"AKK"
+724,"Com_2233_neg",NA,NA,NA,NA,NA,NA,"5-[(Benzoyloxy)methyl]-4,5,6-trihydroxy-2-cyclohexen-1-yl benzoate"
+725,"Com_22354_pos",NA,NA,NA,NA,NA,NA,"PC (3:0/16:3)"
+726,"Com_22402_pos",NA,NA,NA,NA,NA,NA,"1-O-(3,4,5-Trimethoxybenzoyl)-beta-L-galactopyranose"
+727,"Com_22413_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/2:0)"
+728,"Com_2243_neg",NA,NA,NA,NA,NA,NA,"Dodecanedioic acid"
+729,"Com_22446_pos",NA,NA,NA,NA,NA,NA,"2-Furoic acid"
+730,"Com_2246_pos",NA,NA,NA,NA,NA,NA,"N-Desmethyltramadol"
+731,"Com_22466_neg",NA,NA,NA,NA,NA,NA,"Kynurenic acid O-hexside"
+732,"Com_2251_neg",NA,NA,NA,NA,NA,NA,"L-Tyrosine"
+733,"Com_22562_pos",NA,NA,NA,NA,NA,NA,"3-(dimethylamino)-1-[4-(phenylsulfonyl)phenyl]prop-2-en-1-one"
+734,"Com_2257_neg",NA,NA,NA,NA,NA,NA,"Geranic acid"
+735,"Com_226_neg",NA,NA,NA,NA,NA,NA,"methadone-d9"
+736,"Com_2265_pos",NA,NA,NA,NA,NA,NA,"DRH"
+737,"Com_2269_neg",NA,NA,NA,NA,NA,NA,"Naringin"
+738,"Com_22780_pos",NA,NA,NA,NA,NA,NA,"o-Cresol"
+739,"Com_2294_pos",NA,NA,NA,NA,NA,NA,"N-Lauroylsarcosine"
+740,"Com_22940_pos",NA,NA,NA,NA,NA,NA,"ethyl 1-(4-acetyl-2-aminophenyl)piperidine-4-carboxylate"
+741,"Com_22958_pos",NA,NA,NA,NA,NA,NA,"Palmitoylcarnitine cation"
+742,"Com_22980_pos",NA,NA,NA,NA,NA,NA,"2-Deoxyuridine"
+743,"Com_23_pos",NA,NA,NA,NA,NA,NA,"Hexadecanamide"
+744,"Com_2305_pos",NA,NA,NA,NA,NA,NA,"4-({[2-(2-oxo-1-imidazolidinyl)ethyl]imino}methyl)benzonitrile"
+745,"Com_2312_pos",NA,NA,NA,NA,NA,NA,"DAG (6:0/12:0)"
+746,"Com_2314_pos",NA,NA,NA,NA,NA,NA,"7??-Hydroxytestosterone"
+747,"Com_23188_pos",NA,NA,NA,NA,NA,NA,"DL-2-(acetylamino)-3-phenylpropanoic acid"
+748,"Com_232_pos",NA,NA,NA,NA,NA,NA,"2-[(3S)-1-(2-Chlorobenzyl)-3-pyrrolidinyl]-5-methyl-1,3,4-oxadiazole"
+749,"Com_23252_pos",NA,NA,NA,NA,NA,NA,"PE (3:0/4:0)"
+750,"Com_233_neg",NA,NA,NA,NA,NA,NA,"gamma-Glutamylleucine"
+751,"Com_2336_pos",NA,NA,NA,NA,NA,NA,"Maltopentaose"
+752,"Com_23391_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-DL-phenylalanine"
+753,"Com_2349_pos",NA,NA,NA,NA,NA,NA,"Carvone"
+754,"Com_23499_pos",NA,NA,NA,NA,NA,NA,"2-aminoquinoline-3-carbonitrile"
+755,"Com_23516_pos",NA,NA,NA,NA,NA,NA,"Galactitol"
+756,"Com_23534_pos",NA,NA,NA,NA,NA,NA,"4,5,7-Trihydroxyisoflavone"
+757,"Com_2360_pos",NA,NA,NA,NA,NA,NA,"10-Camphorsulfonic acid"
+758,"Com_2363_neg",NA,NA,NA,NA,NA,NA,"S-Adenosyl-methionine"
+759,"Com_237_neg",NA,NA,NA,NA,NA,NA,"10-Undecenoic acid"
+760,"Com_2375_pos",NA,NA,NA,NA,NA,NA,"4-oxo-5-phenylpentanoic acid"
+761,"Com_23754_pos",NA,NA,NA,NA,NA,NA,"Binospirone"
+762,"Com_23762_pos",NA,NA,NA,NA,NA,NA,"BMP (16:0/19:0)"
+763,"Com_2378_pos",NA,NA,NA,NA,NA,NA,"Racecadotril"
+764,"Com_23789_pos",NA,NA,NA,NA,NA,NA,"5-Nonyloxytryptamine"
+765,"Com_23806_pos",NA,NA,NA,NA,NA,NA,"2-Phenylethylamine"
+766,"Com_23854_pos",NA,NA,NA,NA,NA,NA,"ethyl 4-({[(3-morpholinopropyl)amino]carbothioyl}amino)benzoate"
+767,"Com_2389_neg",NA,NA,NA,NA,NA,NA,"N1-isopropyl-2-(1H-2-pyrrolylcarbonyl)-1-hydrazinecarboxamide"
+768,"Com_239_pos",NA,NA,NA,NA,NA,NA,"Terazosin"
+769,"Com_23938_pos",NA,NA,NA,NA,NA,NA,"Narasin"
+770,"Com_23976_pos",NA,NA,NA,NA,NA,NA,"Cinchophen"
+771,"Com_23987_pos",NA,NA,NA,NA,NA,NA,"N'-[4-(tert-butyl)phenyl]-N-cyclohexyl-N-methylurea"
+772,"Com_24002_pos",NA,NA,NA,NA,NA,NA,"Argatroban"
+773,"Com_24046_pos",NA,NA,NA,NA,NA,NA,"Erucic acid"
+774,"Com_2407_pos",NA,NA,NA,NA,NA,NA,"DGTS (6:0/8:0)"
+775,"Com_2411_neg",NA,NA,NA,NA,NA,NA,"trans-2-Butene-1,4-dicarboxylic Acid"
+776,"Com_24247_pos",NA,NA,NA,NA,NA,NA,"SQDG (16:1/20:3)"
+777,"Com_243_neg",NA,NA,NA,NA,NA,NA,"1a,1b-Dihomo prostaglandin E1"
+778,"Com_24465_pos",NA,NA,NA,NA,NA,NA,"Glycochenodeoxycholic acid sodium salt"
+779,"Com_2456_pos",NA,NA,NA,NA,NA,NA,"(??)8(9)-EET"
+780,"Com_246_pos",NA,NA,NA,NA,NA,NA,"Hypoxanthine"
+781,"Com_24606_pos",NA,NA,NA,NA,NA,NA,"Phenylpropiolic acid"
+782,"Com_2469_neg",NA,NA,NA,NA,NA,NA,"2-Deoxyribose 5-phosphate"
+783,"Com_24741_pos",NA,NA,NA,NA,NA,NA,"PC (2:0/16:2)"
+784,"Com_2476_pos",NA,NA,NA,NA,NA,NA,"1-Pyrenol"
+785,"Com_2485_pos",NA,NA,NA,NA,NA,NA,"(2E)-6-hydroxy-2-methyl-6-(4-methylphenyl)hept-2-enoic acid"
+786,"Com_2491_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/24:4)"
+787,"Com_24926_pos",NA,NA,NA,NA,NA,NA,"Aloesin"
+788,"Com_24969_pos",NA,NA,NA,NA,NA,NA,"2'-O-Methyl-5-methyluridine"
+789,"Com_25_pos",NA,NA,NA,NA,NA,NA,"DL-Stachydrine"
+790,"Com_25089_pos",NA,NA,NA,NA,NA,NA,"2'-O-Methyluridine"
+791,"Com_251_pos",NA,NA,NA,NA,NA,NA,"L-Ascorbate"
+792,"Com_25104_pos",NA,NA,NA,NA,NA,NA,"5-(tert-butyl)-2-methyl-N-(4-nitrophenyl)-3-furamide"
+793,"Com_2515_pos",NA,NA,NA,NA,NA,NA,"LDGTS 8:0"
+794,"Com_25193_pos",NA,NA,NA,NA,NA,NA,"2-benzyl-6-hydroxy-2-azabicyclo[2.2.2]octan-3-one"
+795,"Com_2523_pos",NA,NA,NA,NA,NA,NA,"L-Pipecolate"
+796,"Com_2527_pos",NA,NA,NA,NA,NA,NA,"XLR11 N-(2-fluoropentyl) isomer"
+797,"Com_2528_neg",NA,NA,NA,NA,NA,NA,"Lactitol"
+798,"Com_253_neg",NA,NA,NA,NA,NA,NA,"3-[2-(??-D-Glucopyranosyloxy)-4-methoxyphenyl]propanoic acid"
+799,"Com_25313_pos",NA,NA,NA,NA,NA,NA,"Indole-3-acetamide"
+800,"Com_25379_pos",NA,NA,NA,NA,NA,NA,"RMK"
+801,"Com_25388_pos",NA,NA,NA,NA,NA,NA,"Dl-Lanthionine"
+802,"Com_2542_pos",NA,NA,NA,NA,NA,NA,"??-Hydroxyalprazolam"
+803,"Com_25429_pos",NA,NA,NA,NA,NA,NA,"RNK"
+804,"Com_25519_pos",NA,NA,NA,NA,NA,NA,"Ergocalciferol"
+805,"Com_2552_neg",NA,NA,NA,NA,NA,NA,"PC (5:0/13:1)"
+806,"Com_25574_pos",NA,NA,NA,NA,NA,NA,"N-Methyloctan-1-amine"
+807,"Com_2569_pos",NA,NA,NA,NA,NA,NA,"5-(6-hydroxy-6-methyloctyl)-2,5-dihydrofuran-2-one"
+808,"Com_25691_pos",NA,NA,NA,NA,NA,NA,"Taurochenodeoxycholic acid"
+809,"Com_2577_pos",NA,NA,NA,NA,NA,NA,"5'-S-Methyl-5'-thioadenosine"
+810,"Com_2578_neg",NA,NA,NA,NA,NA,NA,"3-Methyl-2-oxobutanoic acid"
+811,"Com_25783_pos",NA,NA,NA,NA,NA,NA,"5-[(10Z)-14-(3,5-dihydroxyphenyl)tetradec-10-en-1-yl]benzene-1,3-diol"
+812,"Com_2579_neg",NA,NA,NA,NA,NA,NA,"LPE 15:0"
+813,"Com_25824_pos",NA,NA,NA,NA,NA,NA,"2,4-dichloro-N-{2-[(2-furylmethyl)amino]-1-methyl-2-oxoethyl}benzamide"
+814,"Com_2583_pos",NA,NA,NA,NA,NA,NA,"17??-Ethynylestradiol"
+815,"Com_2584_pos",NA,NA,NA,NA,NA,NA,"T-2 Toxin"
+816,"Com_2588_pos",NA,NA,NA,NA,NA,NA,"5-(2,5-dihydroxyhexyl)oxolan-2-one"
+817,"Com_25905_pos",NA,NA,NA,NA,NA,NA,"Tyrosine"
+818,"Com_25912_pos",NA,NA,NA,NA,NA,NA,"Fenoldopam"
+819,"Com_25915_pos",NA,NA,NA,NA,NA,NA,"dihydrotachysterol"
+820,"Com_25936_pos",NA,NA,NA,NA,NA,NA,"Testosterone"
+821,"Com_2609_pos",NA,NA,NA,NA,NA,NA,"YNH"
+822,"Com_26097_pos",NA,NA,NA,NA,NA,NA,"N-Stearoyl taurine"
+823,"Com_26101_pos",NA,NA,NA,NA,NA,NA,"5-[5-(ethylsulfonyl)-2-hydroxyanilino]-5-oxopentanoic acid"
+824,"Com_26195_pos",NA,NA,NA,NA,NA,NA,"HexCer-NDS (d26:0/14:0)"
+825,"Com_2624_neg",NA,NA,NA,NA,NA,NA,"4-Allyl-2-(??-D-glucopyranosyloxy)phenyl ??-D-glucopyranoside"
+826,"Com_26258_pos",NA,NA,NA,NA,NA,NA,"Tauroursodeoxycholic acid Dihydrate"
+827,"Com_26260_pos",NA,NA,NA,NA,NA,NA,"LysoPC 10:0"
+828,"Com_2633_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/21:1)"
+829,"Com_2633_pos",NA,NA,NA,NA,NA,NA,"Rizatriptan"
+830,"Com_26358_pos",NA,NA,NA,NA,NA,NA,"SQDG (26:0/22:3)"
+831,"Com_26435_pos",NA,NA,NA,NA,NA,NA,"2-Arachidonyl Glycerol ether"
+832,"Com_265_pos",NA,NA,NA,NA,NA,NA,"Eicosapentaenoic acid"
+833,"Com_26596_pos",NA,NA,NA,NA,NA,NA,"Lysopa 16:0"
+834,"Com_26605_pos",NA,NA,NA,NA,NA,NA,"1,3-dimethyl 2,4-bis(4-hydroxyphenyl)cyclobutane-1,3-dicarboxylate"
+835,"Com_267_pos",NA,NA,NA,NA,NA,NA,"T-2 Triol"
+836,"Com_26701_pos",NA,NA,NA,NA,NA,NA,"Nelfinavir"
+837,"Com_2672_pos",NA,NA,NA,NA,NA,NA,"Sinapinic acid"
+838,"Com_2674_pos",NA,NA,NA,NA,NA,NA,"Methicillin"
+839,"Com_26823_pos",NA,NA,NA,NA,NA,NA,"Andrographolide"
+840,"Com_26938_pos",NA,NA,NA,NA,NA,NA,"Trileptal"
+841,"Com_2698_pos",NA,NA,NA,NA,NA,NA,"Hyoscyamine"
+842,"Com_27_pos",NA,NA,NA,NA,NA,NA,"9-Oxo-10(E),12(E)-octadecadienoic acid"
+843,"Com_27058_pos",NA,NA,NA,NA,NA,NA,"DL-Norvaline"
+844,"Com_2709_pos",NA,NA,NA,NA,NA,NA,"Apigenin"
+845,"Com_27111_pos",NA,NA,NA,NA,NA,NA,"Methacycline"
+846,"Com_2712_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin F2alpha"
+847,"Com_2714_pos",NA,NA,NA,NA,NA,NA,"20-Dihydro 6??-methylprednisone"
+848,"Com_2716_neg",NA,NA,NA,NA,NA,NA,"3'-Adenosine monophosphate (3'-AMP)"
+849,"Com_272_neg",NA,NA,NA,NA,NA,NA,"Picrotin"
+850,"Com_27219_pos",NA,NA,NA,NA,NA,NA,"6-phospho-D-glucono-1,5-lactone"
+851,"Com_2722_neg",NA,NA,NA,NA,NA,NA,"6-Keto-prostaglandin f1alpha"
+852,"Com_27227_pos",NA,NA,NA,NA,NA,NA,"N-(5-acetamidopentyl)acetamide"
+853,"Com_27258_pos",NA,NA,NA,NA,NA,NA,"AL 8810"
+854,"Com_2727_neg",NA,NA,NA,NA,NA,NA,"Ureidoisobutyric Acid"
+855,"Com_27433_pos",NA,NA,NA,NA,NA,NA,"N'2-(2-furylcarbonyl)-3-chloro-4-methylthiophene-2-carbohydrazide"
+856,"Com_2744_pos",NA,NA,NA,NA,NA,NA,"2,5-bis(4-hydroxy-3-methoxyphenyl)-3,4-dimethyloxolan-3-ol"
+857,"Com_27440_pos",NA,NA,NA,NA,NA,NA,"5-(hydroxymethyl)-4-methoxy-2,5-dihydrofuran-2-one"
+858,"Com_27448_pos",NA,NA,NA,NA,NA,NA,"Estropipate"
+859,"Com_275_pos",NA,NA,NA,NA,NA,NA,"5-hydroxy-4-methoxy-5,6-dihydro-2H-pyran-2-one"
+860,"Com_27520_pos",NA,NA,NA,NA,NA,NA,"Abscisic acid"
+861,"Com_2753_pos",NA,NA,NA,NA,NA,NA,"1,2-dihydroxyheptadec-16-yn-4-yl acetate"
+862,"Com_2761_neg",NA,NA,NA,NA,NA,NA,"19(R)-hydroxy Prostaglandin A2"
+863,"Com_27635_pos",NA,NA,NA,NA,NA,NA,"[4-(2-methoxyphenyl)piperazino](4-methylphenyl)methanone"
+864,"Com_27670_pos",NA,NA,NA,NA,NA,NA,"3-Phosphoglyceric acid"
+865,"Com_27675_pos",NA,NA,NA,NA,NA,NA,"S-Lactoyglutathione"
+866,"Com_2768_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/3:0)"
+867,"Com_2770_pos",NA,NA,NA,NA,NA,NA,"??-Cyclodextrin"
+868,"Com_2775_neg",NA,NA,NA,NA,NA,NA,"gamma-Glutamylmethionine"
+869,"Com_2797_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-DL-glutamic acid"
+870,"Com_2798_pos",NA,NA,NA,NA,NA,NA,"DGTS (5:0/13:1)"
+871,"Com_28_pos",NA,NA,NA,NA,NA,NA,"5-OxoETE"
+872,"Com_280_neg",NA,NA,NA,NA,NA,NA,"2-Ketohexanoic acid"
+873,"Com_2802_pos",NA,NA,NA,NA,NA,NA,"9-KODE"
+874,"Com_28025_pos",NA,NA,NA,NA,NA,NA,"gamma-Glutamylglutamic acid"
+875,"Com_28054_pos",NA,NA,NA,NA,NA,NA,"Sinapyl aldehyde"
+876,"Com_28084_pos",NA,NA,NA,NA,NA,NA,"Anastrozole"
+877,"Com_281_neg",NA,NA,NA,NA,NA,NA,"Trehalose-6-phosphate"
+878,"Com_28128_pos",NA,NA,NA,NA,NA,NA,"Phlorobenzophenone"
+879,"Com_2814_pos",NA,NA,NA,NA,NA,NA,"Sedanolide"
+880,"Com_28140_pos",NA,NA,NA,NA,NA,NA,"3-Chloro-L-tyrosine"
+881,"Com_28186_pos",NA,NA,NA,NA,NA,NA,"7-Hydroxy-3,4-dihydrocarbostyril"
+882,"Com_28240_pos",NA,NA,NA,NA,NA,NA,"Guggulsterone"
+883,"Com_283_pos",NA,NA,NA,NA,NA,NA,"Pregnenolone"
+884,"Com_2835_pos",NA,NA,NA,NA,NA,NA,"4-Methoxybenzaldehyde"
+885,"Com_2838_pos",NA,NA,NA,NA,NA,NA,"Oleoyl ethanolamide"
+886,"Com_2840_pos",NA,NA,NA,NA,NA,NA,"7-(2-aminophenyl)heptanoic acid"
+887,"Com_28506_pos",NA,NA,NA,NA,NA,NA,"2-(Dimethylamino)Guanosine"
+888,"Com_28510_pos",NA,NA,NA,NA,NA,NA,"Nervonic acid"
+889,"Com_2858_pos",NA,NA,NA,NA,NA,NA,"2-(4-aminophenoxy)isophthalonitrile"
+890,"Com_28636_pos",NA,NA,NA,NA,NA,NA,"Benactyzine"
+891,"Com_28642_pos",NA,NA,NA,NA,NA,NA,"Lysope 16:0"
+892,"Com_287_neg",NA,NA,NA,NA,NA,NA,"4-(4-cyclohexylphenyl)-4-oxobut-2-enoic acid"
+893,"Com_2881_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-3-methylpentanedioic acid"
+894,"Com_2886_pos",NA,NA,NA,NA,NA,NA,"1-[4-hydroxy-3-(3-methylbut-2-en-1-yl)phenyl]ethan-1-one"
+895,"Com_2888_neg",NA,NA,NA,NA,NA,NA,"Monobutyl phthalate"
+896,"Com_289_pos",NA,NA,NA,NA,NA,NA,"4-Oxoretinol"
+897,"Com_28920_pos",NA,NA,NA,NA,NA,NA,"UR-144 N-(2-hydroxypentyl) metabolite"
+898,"Com_2894_pos",NA,NA,NA,NA,NA,NA,"??-Cortolone"
+899,"Com_2906_pos",NA,NA,NA,NA,NA,NA,"N-Acetylserotonin"
+900,"Com_2916_pos",NA,NA,NA,NA,NA,NA,"SNK"
+901,"Com_2921_pos",NA,NA,NA,NA,NA,NA,"Zolmitriptan"
+902,"Com_2927_pos",NA,NA,NA,NA,NA,NA,"N1-(3,4-dimethoxyphenethyl)-4-methylbenzene-1-sulfonamide"
+903,"Com_2931_pos",NA,NA,NA,NA,NA,NA,"1-hydroxy-1-(4-methoxyphenyl)propan-2-yl 4-methoxybenzoate"
+904,"Com_29336_pos",NA,NA,NA,NA,NA,NA,"LPC 9:0"
+905,"Com_29393_pos",NA,NA,NA,NA,NA,NA,"Pantethine"
+906,"Com_29398_pos",NA,NA,NA,NA,NA,NA,"Betaine aldehyde"
+907,"Com_2940_neg",NA,NA,NA,NA,NA,NA,"Xanthosine"
+908,"Com_2947_pos",NA,NA,NA,NA,NA,NA,"6-Pentyl-2H-pyran-2-one"
+909,"Com_2951_pos",NA,NA,NA,NA,NA,NA,"1-methyl-3,5-di(1-naphthylmethylidene)piperidin-4-one"
+910,"Com_2954_neg",NA,NA,NA,NA,NA,NA,"N-{[2-(2-thienyl)-1,3-thiazol-4-yl]methyl}benzamide"
+911,"Com_2959_pos",NA,NA,NA,NA,NA,NA,"D-2-Aminoadipic acid"
+912,"Com_2960_pos",NA,NA,NA,NA,NA,NA,"10-Nitrolinoleate"
+913,"Com_2966_pos",NA,NA,NA,NA,NA,NA,"Kanosamine"
+914,"Com_2967_pos",NA,NA,NA,NA,NA,NA,"(??)5(6)-EET"
+915,"Com_297_neg",NA,NA,NA,NA,NA,NA,"Acetylenedicarboxylic acid"
+916,"Com_2970_pos",NA,NA,NA,NA,NA,NA,"2,6-Diaminopimelic acid"
+917,"Com_2971_neg",NA,NA,NA,NA,NA,NA,"Ribitol"
+918,"Com_2980_pos",NA,NA,NA,NA,NA,NA,"Irinotecan"
+919,"Com_2983_pos",NA,NA,NA,NA,NA,NA,"Lenalidomide"
+920,"Com_2993_pos",NA,NA,NA,NA,NA,NA,"2-[amino(3-chloroanilino)methylene]malononitrile"
+921,"Com_3023_pos",NA,NA,NA,NA,NA,NA,"Glycyl-L-leucine"
+922,"Com_3030_pos",NA,NA,NA,NA,NA,NA,"Leukotriene E4"
+923,"Com_3065_pos",NA,NA,NA,NA,NA,NA,"Naftopidil"
+924,"Com_307_pos",NA,NA,NA,NA,NA,NA,"4-methyl-6-phenyl-5,6-dihydro-2H-pyran-2-one"
+925,"Com_3073_pos",NA,NA,NA,NA,NA,NA,"ELK"
+926,"Com_3082_neg",NA,NA,NA,NA,NA,NA,"5-(2,4-dichlorobenzyl)-2-mercapto-4,6-dimethylnicotinonitrile"
+927,"Com_309_neg",NA,NA,NA,NA,NA,NA,"2,3-Dinor prostaglandin E1"
+928,"Com_309_pos",NA,NA,NA,NA,NA,NA,"Melezitose"
+929,"Com_3094_neg",NA,NA,NA,NA,NA,NA,"Estriol 17-sulfate"
+930,"Com_3095_pos",NA,NA,NA,NA,NA,NA,"Ecgonine methyl ester"
+931,"Com_3097_pos",NA,NA,NA,NA,NA,NA,"Thromboxane B2"
+932,"Com_31_pos",NA,NA,NA,NA,NA,NA,"Estriol"
+933,"Com_3101_pos",NA,NA,NA,NA,NA,NA,"(+/-)11(12)-DiHET"
+934,"Com_3107_neg",NA,NA,NA,NA,NA,NA,"L-Tryptophan"
+935,"Com_311_neg",NA,NA,NA,NA,NA,NA,"Psilocybin"
+936,"Com_3118_neg",NA,NA,NA,NA,NA,NA,"2-(2-chlorophenyl)-1H-indole"
+937,"Com_3118_pos",NA,NA,NA,NA,NA,NA,"N-(4-fluorophenyl)-N'-(2-piperidinophenyl)urea"
+938,"Com_3121_pos",NA,NA,NA,NA,NA,NA,"18-??-Glycyrrhetinic acid"
+939,"Com_3124_pos",NA,NA,NA,NA,NA,NA,"1-(4-methoxyphenyl)propane-1,2-diol"
+940,"Com_3132_pos",NA,NA,NA,NA,NA,NA,"Ranolazine"
+941,"Com_3143_neg",NA,NA,NA,NA,NA,NA,"5(S),15(S)-DiHETE"
+942,"Com_3162_neg",NA,NA,NA,NA,NA,NA,"Pentadecanoic acid"
+943,"Com_3169_neg",NA,NA,NA,NA,NA,NA,"LPA 20:0"
+944,"Com_3177_neg",NA,NA,NA,NA,NA,NA,"GlcADG (18:2-20:5)"
+945,"Com_3184_neg",NA,NA,NA,NA,NA,NA,"3-[3-(beta-D-Glucopyranosyloxy)-2-hydroxyphenyl]propanoic acid"
+946,"Com_3188_pos",NA,NA,NA,NA,NA,NA,"11-Deoxy prostaglandin F1??"
+947,"Com_3208_pos",NA,NA,NA,NA,NA,NA,"Trigonelline"
+948,"Com_3226_neg",NA,NA,NA,NA,NA,NA,"3-Hydroxysebacic acid"
+949,"Com_3303_neg",NA,NA,NA,NA,NA,NA,"Ip7G"
+950,"Com_3308_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin E3"
+951,"Com_3314_pos",NA,NA,NA,NA,NA,NA,"N-Carbobenzyloxyleucine"
+952,"Com_3324_pos",NA,NA,NA,NA,NA,NA,"11-Deoxy prostaglandin F1??"
+953,"Com_3351_pos",NA,NA,NA,NA,NA,NA,"1-(3,4-dimethylphenyl)-3-piperidinopyrrolidine-2,5-dione"
+954,"Com_3366_pos",NA,NA,NA,NA,NA,NA,"2-Linoleoyl glycerol"
+955,"Com_338_neg",NA,NA,NA,NA,NA,NA,"Thymidine"
+956,"Com_3415_neg",NA,NA,NA,NA,NA,NA,"N7-Methylguanosine"
+957,"Com_3415_pos",NA,NA,NA,NA,NA,NA,"Methyltestosterone"
+958,"Com_3416_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/22:5)"
+959,"Com_343_pos",NA,NA,NA,NA,NA,NA,"Nicotinic acid"
+960,"Com_3430_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/13:1)"
+961,"Com_3430_pos",NA,NA,NA,NA,NA,NA,"Vitexin"
+962,"Com_3451_pos",NA,NA,NA,NA,NA,NA,"5-Aminolevulinic acid"
+963,"Com_3452_pos",NA,NA,NA,NA,NA,NA,"S-Adenosyl-L-methionine"
+964,"Com_3466_pos",NA,NA,NA,NA,NA,NA,"Vatalanib dihydrochloride"
+965,"Com_3475_pos",NA,NA,NA,NA,NA,NA,"Cycloheximide"
+966,"Com_348_pos",NA,NA,NA,NA,NA,NA,"2,4-Dimethylbenzaldehyde"
+967,"Com_3487_pos",NA,NA,NA,NA,NA,NA,"Tetrahydrocortisone"
+968,"Com_3491_pos",NA,NA,NA,NA,NA,NA,"Porphobilinogen"
+969,"Com_3500_pos",NA,NA,NA,NA,NA,NA,"N6-Methyladenine"
+970,"Com_3503_pos",NA,NA,NA,NA,NA,NA,"Idebenone"
+971,"Com_3508_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-D-lactosamine"
+972,"Com_351_neg",NA,NA,NA,NA,NA,NA,"D-(-)-Quinic acid"
+973,"Com_3516_neg",NA,NA,NA,NA,NA,NA,"LPI 8:0"
+974,"Com_3518_pos",NA,NA,NA,NA,NA,NA,"6-[(2-hydroxyethyl)(methyl)amino]nicotinonitrile"
+975,"Com_3520_neg",NA,NA,NA,NA,NA,NA,"Bisphenol A"
+976,"Com_3528_pos",NA,NA,NA,NA,NA,NA,"Ala-Leu"
+977,"Com_3530_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/20:1)"
+978,"Com_3539_pos",NA,NA,NA,NA,NA,NA,"4-{3-[(3,4-dihydroxyphenyl)methyl]-2-methylbutyl}benzene-1,2-diol"
+979,"Com_354_pos",NA,NA,NA,NA,NA,NA,"(6E,10E)-3,7,11,15-tetramethylhexadeca-1,6,10,14-tetraene-3,5,9-triol"
+980,"Com_3541_neg",NA,NA,NA,NA,NA,NA,"Isorhamnetin"
+981,"Com_3555_pos",NA,NA,NA,NA,NA,NA,"2,3-Dinor-11??-prostaglandin F2??"
+982,"Com_3559_neg",NA,NA,NA,NA,NA,NA,"Uridine 5'-diphosphogalactose"
+983,"Com_3573_neg",NA,NA,NA,NA,NA,NA,"D-Turanose"
+984,"Com_3573_pos",NA,NA,NA,NA,NA,NA,"LDGTS 9:0"
+985,"Com_358_pos",NA,NA,NA,NA,NA,NA,"Pyrogallol"
+986,"Com_3589_pos",NA,NA,NA,NA,NA,NA,"Linoleoyl ethanolamide"
+987,"Com_3591_neg",NA,NA,NA,NA,NA,NA,"N1-{3-[2-(2-pyridyl)ethyl]phenyl}-4-chlorobenzene-1-sulfonamide"
+988,"Com_3591_pos",NA,NA,NA,NA,NA,NA,"DGTS (6:0/16:3)"
+989,"Com_3601_pos",NA,NA,NA,NA,NA,NA,"N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnonanamide"
+990,"Com_3609_pos",NA,NA,NA,NA,NA,NA,"(3??,5??,9??)-3,23-Dihydroxy-1-oxoolean-12-en-28-oic acid"
+991,"Com_3616_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/20:1)"
+992,"Com_3640_neg",NA,NA,NA,NA,NA,NA,"Jasmonic acid"
+993,"Com_3657_pos",NA,NA,NA,NA,NA,NA,"1,2,10-Trimethoxy-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinolin-9-ol"
+994,"Com_3682_pos",NA,NA,NA,NA,NA,NA,"Diflorasone"
+995,"Com_3683_pos",NA,NA,NA,NA,NA,NA,"17??-Hydroxy-androstano[3,2-c]isoxazole"
+996,"Com_37_neg",NA,NA,NA,NA,NA,NA,"4-Oxoproline"
+997,"Com_3702_pos",NA,NA,NA,NA,NA,NA,"4-(4-nitrophenylazo)aniline"
+998,"Com_3703_pos",NA,NA,NA,NA,NA,NA,"LSD-d3"
+999,"Com_371_pos",NA,NA,NA,NA,NA,NA,"Cytosine"
+1000,"Com_3720_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin F2??-1-glyceryl ester"
+1001,"Com_3722_neg",NA,NA,NA,NA,NA,NA,"N-Propionylglycine"
+1002,"Com_374_neg",NA,NA,NA,NA,NA,NA,"6-methyl-2-oxo-4,6-diphenyl-1,2,5,6-tetrahydropyridine-3-carbonitrile"
+1003,"Com_3745_neg",NA,NA,NA,NA,NA,NA,"Dihydrofolic acid"
+1004,"Com_3748_pos",NA,NA,NA,NA,NA,NA,"Isorhapontigenin"
+1005,"Com_3755_neg",NA,NA,NA,NA,NA,NA,"Sulfoacetic acid"
+1006,"Com_3757_pos",NA,NA,NA,NA,NA,NA,"17??-Methyl-androstan-3-hydroxyimine-17??-ol"
+1007,"Com_3766_pos",NA,NA,NA,NA,NA,NA,"Desoxycortone"
+1008,"Com_3767_neg",NA,NA,NA,NA,NA,NA,"N1-(2-methyl-4-nitrophenyl)acetamide"
+1009,"Com_3775_pos",NA,NA,NA,NA,NA,NA,"Avocadyne 1-acetate"
+1010,"Com_378_pos",NA,NA,NA,NA,NA,NA,"Palmitic Acid"
+1011,"Com_3787_pos",NA,NA,NA,NA,NA,NA,"(-)-Caryophyllene oxide"
+1012,"Com_3791_pos",NA,NA,NA,NA,NA,NA,"DAG (6:0/9:0)"
+1013,"Com_3795_pos",NA,NA,NA,NA,NA,NA,"3-(5,7-dimethoxy-4-oxo-4H-chromen-2-yl)propanoic acid"
+1014,"Com_3815_pos",NA,NA,NA,NA,NA,NA,"Furanyl fentanyl 3-furancarboxamide isomer-d5"
+1015,"Com_3849_neg",NA,NA,NA,NA,NA,NA,"(S)-2-Hydroxybutanoicacid"
+1016,"Com_3853_pos",NA,NA,NA,NA,NA,NA,"N-(2-Furoyl)glycine"
+1017,"Com_3872_pos",NA,NA,NA,NA,NA,NA,"1-(4-bromophenyl)-2-phenylethan-1-one"
+1018,"Com_3876_pos",NA,NA,NA,NA,NA,NA,"L-Cystathionine"
+1019,"Com_3877_pos",NA,NA,NA,NA,NA,NA,"N(6)-OH-Me-Adenosine"
+1020,"Com_3881_neg",NA,NA,NA,NA,NA,NA,"Adipic acid"
+1021,"Com_3881_pos",NA,NA,NA,NA,NA,NA,"Mupirocin"
+1022,"Com_3895_neg",NA,NA,NA,NA,NA,NA,"Tetradecanedioic acid"
+1023,"Com_3900_pos",NA,NA,NA,NA,NA,NA,"4-methoxy-6-[2-(4-methoxyphenyl)ethyl]-2H-pyran-2-one"
+1024,"Com_3932_pos",NA,NA,NA,NA,NA,NA,"para-methoxy-Butyryl fentanyl-d7"
+1025,"Com_3935_pos",NA,NA,NA,NA,NA,NA,"Wampetin"
+1026,"Com_3965_pos",NA,NA,NA,NA,NA,NA,"Oleanolic acid"
+1027,"Com_3970_pos",NA,NA,NA,NA,NA,NA,"??-Linolenoyl ethanolamide"
+1028,"Com_3981_neg",NA,NA,NA,NA,NA,NA,"2-(1-{2-[(3-furylmethyl)amino]-2-oxoethyl}cyclohexyl)acetic acid"
+1029,"Com_3983_pos",NA,NA,NA,NA,NA,NA,"L-Alanyl-L-proline"
+1030,"Com_3989_neg",NA,NA,NA,NA,NA,NA,"Uridine monophosphate (UMP)"
+1031,"Com_3990_pos",NA,NA,NA,NA,NA,NA,"N1-cyclooctyl-4-hydroxy-1-piperidinecarbothioamide"
+1032,"Com_3992_pos",NA,NA,NA,NA,NA,NA,"5-hydroxy-6,7-dimethoxy-2-phenyl-4H-chromen-4-one"
+1033,"Com_4_neg",NA,NA,NA,NA,NA,NA,"(+/-)12(13)-DiHOME"
+1034,"Com_4000_neg",NA,NA,NA,NA,NA,NA,"2-Isopropylmalic acid"
+1035,"Com_4006_neg",NA,NA,NA,NA,NA,NA,"N-(2-methoxyphenyl)-4-(2-thienylcarbonyl)-1,4-diazepane-1-carboxamide"
+1036,"Com_4013_neg",NA,NA,NA,NA,NA,NA,"DL-methionine sulfoxide"
+1037,"Com_4017_neg",NA,NA,NA,NA,NA,NA,"O1-(4-chlorobenzoyl)-4-nitrobenzene-1-carbohydroximamide"
+1038,"Com_4018_neg",NA,NA,NA,NA,NA,NA,"Phenylpyruvic acid"
+1039,"Com_4062_pos",NA,NA,NA,NA,NA,NA,"LDGTS 18:1"
+1040,"Com_4078_neg",NA,NA,NA,NA,NA,NA,"Adenosine 5'-Diphosphate"
+1041,"Com_408_pos",NA,NA,NA,NA,NA,NA,"13,14-dihydro-15-keto-tetranor Prostaglandin E2"
+1042,"Com_4081_neg",NA,NA,NA,NA,NA,NA,"Royal jelly acid"
+1043,"Com_4081_pos",NA,NA,NA,NA,NA,NA,"1,4-dihydroxyheptadec-16-en-2-yl acetate"
+1044,"Com_4087_pos",NA,NA,NA,NA,NA,NA,"Valerophenone"
+1045,"Com_4089_pos",NA,NA,NA,NA,NA,NA,"cyclohexyl{4-[4-nitro-2-(1H-pyrrol-1-yl)phenyl]piperazino}methanone"
+1046,"Com_4096_pos",NA,NA,NA,NA,NA,NA,"alpha-Farnesene"
+1047,"Com_41_pos",NA,NA,NA,NA,NA,NA,"L-Pyroglutamic acid"
+1048,"Com_4105_pos",NA,NA,NA,NA,NA,NA,"Dinophysistoxin-2"
+1049,"Com_4119_neg",NA,NA,NA,NA,NA,NA,"FAHFA (18:3/3:0)"
+1050,"Com_4137_pos",NA,NA,NA,NA,NA,NA,"4-methyl-5-oxo-2-pentyl-2,5-dihydrofuran-3-carboxylic acid"
+1051,"Com_4139_neg",NA,NA,NA,NA,NA,NA,"D-Ala-D-Ala"
+1052,"Com_4139_pos",NA,NA,NA,NA,NA,NA,"16??-Hydroxydehydroepiandrosterone"
+1053,"Com_4155_pos",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-leucine"
+1054,"Com_4171_neg",NA,NA,NA,NA,NA,NA,"DGDG (8:0/8:0)"
+1055,"Com_4185_pos",NA,NA,NA,NA,NA,NA,"SM (d14:0/12:0)"
+1056,"Com_4186_neg",NA,NA,NA,NA,NA,NA,"3-[4-methyl-1-(2-methylpropanoyl)-3-oxocyclohexyl]butanoic acid"
+1057,"Com_419_neg",NA,NA,NA,NA,NA,NA,"ethyl 3-cyano-2-hydroxy-6-phenylisonicotinate"
+1058,"Com_4208_neg",NA,NA,NA,NA,NA,NA,"(+/-)10(11)-EpDPA"
+1059,"Com_4210_neg",NA,NA,NA,NA,NA,NA,"O-Acetyl-L-carnitine"
+1060,"Com_4211_pos",NA,NA,NA,NA,NA,NA,"DAG (6:0/10:0)"
+1061,"Com_4212_pos",NA,NA,NA,NA,NA,NA,"SMK"
+1062,"Com_422_neg",NA,NA,NA,NA,NA,NA,"N-[3-(aminosulfonyl)phenyl]-2,3-dihydro-1,4-benzodioxine-2-carboxamide"
+1063,"Com_4224_pos",NA,NA,NA,NA,NA,NA,"Lysope 18:1"
+1064,"Com_425_pos",NA,NA,NA,NA,NA,NA,"N-Palmitoyl taurine"
+1065,"Com_4250_neg",NA,NA,NA,NA,NA,NA,"OxPI (16:0-18:3+1O)"
+1066,"Com_4256_pos",NA,NA,NA,NA,NA,NA,"Styrene"
+1067,"Com_4266_neg",NA,NA,NA,NA,NA,NA,"LPS 15:0"
+1068,"Com_4271_pos",NA,NA,NA,NA,NA,NA,"2-Methoxyestrone"
+1069,"Com_428_neg",NA,NA,NA,NA,NA,NA,"3,8,9-trihydroxy-10-propyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one"
+1070,"Com_4284_neg",NA,NA,NA,NA,NA,NA,"DGDG (16:2/20:5)"
+1071,"Com_43_neg",NA,NA,NA,NA,NA,NA,"Verbascose"
+1072,"Com_43_pos",NA,NA,NA,NA,NA,NA,"Stearamide"
+1073,"Com_4317_pos",NA,NA,NA,NA,NA,NA,"Sulfamerazine"
+1074,"Com_4340_pos",NA,NA,NA,NA,NA,NA,"(2,6-dimethylpiperidino)(3,4,5-trimethoxyphenyl)methanone"
+1075,"Com_4342_neg",NA,NA,NA,NA,NA,NA,"[1,1'-biphenyl]-2,2'-dicarboxylic acid"
+1076,"Com_4342_pos",NA,NA,NA,NA,NA,NA,"2,4-dihydroxyheptadec-16-en-1-yl acetate"
+1077,"Com_4349_pos",NA,NA,NA,NA,NA,NA,"L-Fucose"
+1078,"Com_4362_neg",NA,NA,NA,NA,NA,NA,"??-Estradiol 3,17-disulfate"
+1079,"Com_4369_neg",NA,NA,NA,NA,NA,NA,"FAHFA (16:4/3:0)"
+1080,"Com_437_pos",NA,NA,NA,NA,NA,NA,"L-Ergothioneine"
+1081,"Com_4371_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/8:0)"
+1082,"Com_4371_pos",NA,NA,NA,NA,NA,NA,"Torasemide"
+1083,"Com_4397_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-1,5-diphenylpentan-1-one"
+1084,"Com_4405_pos",NA,NA,NA,NA,NA,NA,"1,4-Cyclohexanedicarboxylic acid"
+1085,"Com_441_pos",NA,NA,NA,NA,NA,NA,"Tetranor-PGDM"
+1086,"Com_4414_pos",NA,NA,NA,NA,NA,NA,"MAG (18:2)"
+1087,"Com_4424_neg",NA,NA,NA,NA,NA,NA,"2-(2-carboxy-2-methylpropyl)-4,6-dimethylbenzoic acid"
+1088,"Com_4425_pos",NA,NA,NA,NA,NA,NA,"N-(1,3-benzodioxol-5-yl)-2-methyl-5-(piperidinosulfonyl)-3-furamide"
+1089,"Com_4430_pos",NA,NA,NA,NA,NA,NA,"3-amino-2-phenyl-2H-pyrazolo[4,3-c]pyridine-4,6-diol"
+1090,"Com_4431_pos",NA,NA,NA,NA,NA,NA,"5,6-dimethyl-4-oxo-4H-pyran-2-carboxylic acid"
+1091,"Com_4451_pos",NA,NA,NA,NA,NA,NA,"N2-Acetyl- L-lysine"
+1092,"Com_4457_neg",NA,NA,NA,NA,NA,NA,"Phenyl-beta-glucopyranoside"
+1093,"Com_4458_pos",NA,NA,NA,NA,NA,NA,"RKK"
+1094,"Com_4470_pos",NA,NA,NA,NA,NA,NA,"Ingenol-3-angelate"
+1095,"Com_4474_pos",NA,NA,NA,NA,NA,NA,"Sodium [dodecanoyl(methyl)amino]acetate"
+1096,"Com_4478_neg",NA,NA,NA,NA,NA,NA,"Hippuric acid"
+1097,"Com_4497_pos",NA,NA,NA,NA,NA,NA,"2-[(3S)-1-Benzyl-3-pyrrolidinyl]-1,3-benzothiazole"
+1098,"Com_45_pos",NA,NA,NA,NA,NA,NA,"9-Oxo-ODE"
+1099,"Com_4502_pos",NA,NA,NA,NA,NA,NA,"YLK"
+1100,"Com_4510_pos",NA,NA,NA,NA,NA,NA,"Arachidonic acid methyl ester"
+1101,"Com_4511_pos",NA,NA,NA,NA,NA,NA,"Methylimidazoleacetic acid"
+1102,"Com_4522_pos",NA,NA,NA,NA,NA,NA,"Isoproterenol"
+1103,"Com_453_neg",NA,NA,NA,NA,NA,NA,"tetranor-PGFM"
+1104,"Com_4535_pos",NA,NA,NA,NA,NA,NA,"Tegaserod"
+1105,"Com_4538_pos",NA,NA,NA,NA,NA,NA,"Nobiletin"
+1106,"Com_4543_pos",NA,NA,NA,NA,NA,NA,"1-(4-benzylpiperazino)-2-(pyridin-2-ylamino)propan-1-one"
+1107,"Com_4554_pos",NA,NA,NA,NA,NA,NA,"Prolylleucine"
+1108,"Com_4557_pos",NA,NA,NA,NA,NA,NA,"N alpha-Acetyl-L-Arginine"
+1109,"Com_4560_pos",NA,NA,NA,NA,NA,NA,"Mesterolone"
+1110,"Com_4569_neg",NA,NA,NA,NA,NA,NA,"Tomelukast"
+1111,"Com_4576_pos",NA,NA,NA,NA,NA,NA,"O-Succinyl-L-homoserine"
+1112,"Com_46_neg",NA,NA,NA,NA,NA,NA,"12-Oxo phytodienoic acid"
+1113,"Com_4602_pos",NA,NA,NA,NA,NA,NA,"Fucoxanthin"
+1114,"Com_4609_pos",NA,NA,NA,NA,NA,NA,"Folic acid"
+1115,"Com_4623_pos",NA,NA,NA,NA,NA,NA,"2,6-Di-tert-butyl-1,4-benzoquinone"
+1116,"Com_4626_pos",NA,NA,NA,NA,NA,NA,"1,3-Dihydro-1,3,3-trimethyl-2H-indol-2-ylidene acetaldehyde"
+1117,"Com_463_neg",NA,NA,NA,NA,NA,NA,"11-keto Testosterone (CRM)"
+1118,"Com_4639_pos",NA,NA,NA,NA,NA,NA,"1-Naphthol"
+1119,"Com_4640_pos",NA,NA,NA,NA,NA,NA,"Biopterin"
+1120,"Com_4641_neg",NA,NA,NA,NA,NA,NA,"7-Methylxanthine"
+1121,"Com_4642_pos",NA,NA,NA,NA,NA,NA,"2-(2-amino-3-methylbutanamido)-3-phenylpropanoic acid"
+1122,"Com_4645_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/5:0)"
+1123,"Com_4661_pos",NA,NA,NA,NA,NA,NA,"MAG (18:3)"
+1124,"Com_4667_neg",NA,NA,NA,NA,NA,NA,"cis-2-Decenoic acid"
+1125,"Com_4668_neg",NA,NA,NA,NA,NA,NA,"acetoacetate"
+1126,"Com_467_neg",NA,NA,NA,NA,NA,NA,"4-Acetyl-3-hydroxy-5-methylphenyl ??-D-glucopyranoside"
+1127,"Com_4676_neg",NA,NA,NA,NA,NA,NA,"Adrenosterone"
+1128,"Com_4678_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxy-2-methyl-3-buten-1-yl beta-D-glucopyranoside"
+1129,"Com_4687_pos",NA,NA,NA,NA,NA,NA,"3-hydroxy-N-(1-hydroxy-4-methylpentan-2-yl)-5-oxo-6-phenylhexanamide"
+1130,"Com_47_neg",NA,NA,NA,NA,NA,NA,"D-(-)-Fructose"
+1131,"Com_470_pos",NA,NA,NA,NA,NA,NA,"Diacetoxyscirpenol"
+1132,"Com_4705_pos",NA,NA,NA,NA,NA,NA,"Triethanolamine"
+1133,"Com_4709_neg",NA,NA,NA,NA,NA,NA,"DGDG (16:1/16:2)"
+1134,"Com_4721_pos",NA,NA,NA,NA,NA,NA,"HKK"
+1135,"Com_4724_pos",NA,NA,NA,NA,NA,NA,"D-(+)-Camphor"
+1136,"Com_4728_pos",NA,NA,NA,NA,NA,NA,"Valine"
+1137,"Com_4734_pos",NA,NA,NA,NA,NA,NA,"2-(2-oxo-2-{[2-(2-oxo-1-imidazolidinyl)ethyl]amino}ethoxy)acetic acid"
+1138,"Com_474_neg",NA,NA,NA,NA,NA,NA,"Arachidonic acid"
+1139,"Com_4748_neg",NA,NA,NA,NA,NA,NA,"Cer-ADS (d28:0/32:1)"
+1140,"Com_4752_neg",NA,NA,NA,NA,NA,NA,"Anacardic acid"
+1141,"Com_4761_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxycaproic acid"
+1142,"Com_477_pos",NA,NA,NA,NA,NA,NA,"Thymine"
+1143,"Com_4771_pos",NA,NA,NA,NA,NA,NA,"Eicosapentaenoic acid ethyl ester"
+1144,"Com_4781_neg",NA,NA,NA,NA,NA,NA,"4-Nitrophenol"
+1145,"Com_4782_pos",NA,NA,NA,NA,NA,NA,"4-methoxy-6-(prop-2-en-1-yl)-2H-1,3-benzodioxole"
+1146,"Com_4784_neg",NA,NA,NA,NA,NA,NA,"N1-(1,3-diphenyl-1H-pyrazol-5-yl)-2-chlorobenzamide"
+1147,"Com_4786_pos",NA,NA,NA,NA,NA,NA,"2-(14,15-Epoxyeicosatrienoyl) glycerol"
+1148,"Com_4789_pos",NA,NA,NA,NA,NA,NA,"2-(acetyloxy)-3-amino-1-[1,2-di(acetyloxy)ethyl]-3-oxopropyl acetate"
+1149,"Com_48_pos",NA,NA,NA,NA,NA,NA,"15(R)-Prostaglandin D2"
+1150,"Com_481_neg",NA,NA,NA,NA,NA,NA,"4-Acetamidobutyric Acid"
+1151,"Com_4823_pos",NA,NA,NA,NA,NA,NA,"AL 8810 Methyl ester"
+1152,"Com_4824_pos",NA,NA,NA,NA,NA,NA,"Glu-Gln"
+1153,"Com_4832_neg",NA,NA,NA,NA,NA,NA,"Meclocycline"
+1154,"Com_4838_pos",NA,NA,NA,NA,NA,NA,"N1-(4-methylidene-3-thia-1-azaspiro[4.5]dec-2-yliden)-2-chloroaniline"
+1155,"Com_485_neg",NA,NA,NA,NA,NA,NA,"2'-Deoxyinosine"
+1156,"Com_4850_neg",NA,NA,NA,NA,NA,NA,"Oxytetracycline"
+1157,"Com_4852_pos",NA,NA,NA,NA,NA,NA,"Cannabidiolic acid"
+1158,"Com_4863_pos",NA,NA,NA,NA,NA,NA,"Octyl hydrogen phthalate"
+1159,"Com_4866_pos",NA,NA,NA,NA,NA,NA,"2-(benzylthio)-1-phenethyl-5-(trifluoromethyl)-1H-benzo[d]imidazole"
+1160,"Com_4870_pos",NA,NA,NA,NA,NA,NA,"Desoximetasone"
+1161,"Com_4871_pos",NA,NA,NA,NA,NA,NA,"Celestolide"
+1162,"Com_4872_pos",NA,NA,NA,NA,NA,NA,"Perillartine"
+1163,"Com_490_neg",NA,NA,NA,NA,NA,NA,"(5??,9??)-17-Hydroxykaur-15-en-19-oic acid"
+1164,"Com_4916_pos",NA,NA,NA,NA,NA,NA,"5-Phenylvaleric Acid"
+1165,"Com_492_neg",NA,NA,NA,NA,NA,NA,"Salicylic acid"
+1166,"Com_4921_pos",NA,NA,NA,NA,NA,NA,"2-(3,4-dihydroxyphenyl)acetamide"
+1167,"Com_494_pos",NA,NA,NA,NA,NA,NA,"Cortisol"
+1168,"Com_4957_pos",NA,NA,NA,NA,NA,NA,"2-Thio-acetyl MAGE"
+1169,"Com_4962_neg",NA,NA,NA,NA,NA,NA,"8,8'-dicarboxy-1,1'-binaphthalene"
+1170,"Com_4966_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/16:4)"
+1171,"Com_4968_pos",NA,NA,NA,NA,NA,NA,"Isovanillic acid"
+1172,"Com_4969_pos",NA,NA,NA,NA,NA,NA,"Proline-hydroxyproline"
+1173,"Com_497_neg",NA,NA,NA,NA,NA,NA,"8(S),15(S)-DiHETE"
+1174,"Com_4980_pos",NA,NA,NA,NA,NA,NA,"N-Methylglutamic acid"
+1175,"Com_4982_neg",NA,NA,NA,NA,NA,NA,"Glycerol 2-phosphate"
+1176,"Com_4999_pos",NA,NA,NA,NA,NA,NA,"LDGTS 22:4"
+1177,"Com_50_pos",NA,NA,NA,NA,NA,NA,"D-Lactose monohydrate"
+1178,"Com_5002_pos",NA,NA,NA,NA,NA,NA,"Ergosterol peroxide"
+1179,"Com_5017_neg",NA,NA,NA,NA,NA,NA,"Rotenone"
+1180,"Com_5018_pos",NA,NA,NA,NA,NA,NA,"4-Methoxycinnamaldehyde"
+1181,"Com_5059_neg",NA,NA,NA,NA,NA,NA,"2-[6-(1H-benzo[d]imidazol-2-yl)-2-pyridyl]-1H-benzo[d]imidazole"
+1182,"Com_506_pos",NA,NA,NA,NA,NA,NA,"Maltotetraose"
+1183,"Com_508_pos",NA,NA,NA,NA,NA,NA,"tert-Butyl N-[1-(aminocarbonyl)-3-methylbutyl]carbamate"
+1184,"Com_5081_neg",NA,NA,NA,NA,NA,NA,"2-[2-(3,4-dichloro-2-cyanophenyl)hydrazono]malononitrile"
+1185,"Com_5086_neg",NA,NA,NA,NA,NA,NA,"N-Acetylvaline"
+1186,"Com_5100_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/12:0)"
+1187,"Com_5100_pos",NA,NA,NA,NA,NA,NA,"Lithocholic acid"
+1188,"Com_5106_pos",NA,NA,NA,NA,NA,NA,"Nor-9-carboxy-??9-THC"
+1189,"Com_5116_pos",NA,NA,NA,NA,NA,NA,"5-Hydroxy-L-lysine"
+1190,"Com_5134_pos",NA,NA,NA,NA,NA,NA,"Irganox 259"
+1191,"Com_5141_neg",NA,NA,NA,NA,NA,NA,"(R)-3-Hydroxy myristic acid"
+1192,"Com_5149_pos",NA,NA,NA,NA,NA,NA,"5-Methylcytosine"
+1193,"Com_516_pos",NA,NA,NA,NA,NA,NA,"Kahweol"
+1194,"Com_5160_neg",NA,NA,NA,NA,NA,NA,"1,5-Anhydro-D-glucitol"
+1195,"Com_5167_pos",NA,NA,NA,NA,NA,NA,"(+/-)5(6)-EET Ethanolamide"
+1196,"Com_5172_pos",NA,NA,NA,NA,NA,NA,"4-(2,4-difluorophenoxy)-N'-hydroxy-3-nitrobenzenecarboximidamide"
+1197,"Com_5173_pos",NA,NA,NA,NA,NA,NA,"(2R)-2-(??-D-Glucopyranosyloxy)-2-phenylacetamide"
+1198,"Com_518_pos",NA,NA,NA,NA,NA,NA,"Caprolactam"
+1199,"Com_52_neg",NA,NA,NA,NA,NA,NA,"2-C-methyl D-erythritol 4-phosphate"
+1200,"Com_520_neg",NA,NA,NA,NA,NA,NA,"N1-[4-(2-thienylthio)phenyl]-4-chlorobenzamide"
+1201,"Com_5203_neg",NA,NA,NA,NA,NA,NA,"Ferulic acid"
+1202,"Com_5216_pos",NA,NA,NA,NA,NA,NA,"Urocanic acid"
+1203,"Com_5219_pos",NA,NA,NA,NA,NA,NA,"2-methyl-1,2-dihydrophthalazin-1-one"
+1204,"Com_522_neg",NA,NA,NA,NA,NA,NA,"N-(4-chlorophenyl)-N'-cyclohexylthiourea"
+1205,"Com_5240_pos",NA,NA,NA,NA,NA,NA,"3-Nitrotyrosine"
+1206,"Com_5258_pos",NA,NA,NA,NA,NA,NA,"Troxipide"
+1207,"Com_526_pos",NA,NA,NA,NA,NA,NA,"Xanthurenic acid"
+1208,"Com_5264_pos",NA,NA,NA,NA,NA,NA,"Bicyclo Prostaglandin E2"
+1209,"Com_5274_neg",NA,NA,NA,NA,NA,NA,"(-)-Epicatechin gallate"
+1210,"Com_5299_neg",NA,NA,NA,NA,NA,NA,"1-methyl-N-(4-piperidinophenyl)-1H-imidazole-4-sulfonamide"
+1211,"Com_53_pos",NA,NA,NA,NA,NA,NA,"Inositol"
+1212,"Com_532_neg",NA,NA,NA,NA,NA,NA,"Uridine"
+1213,"Com_5355_pos",NA,NA,NA,NA,NA,NA,"Allantoin"
+1214,"Com_5362_neg",NA,NA,NA,NA,NA,NA,"LPC 2:0"
+1215,"Com_5368_pos",NA,NA,NA,NA,NA,NA,"Isoquinoline"
+1216,"Com_5370_pos",NA,NA,NA,NA,NA,NA,"Serotonin"
+1217,"Com_538_pos",NA,NA,NA,NA,NA,NA,"2-Pyridylacetic acid"
+1218,"Com_5398_neg",NA,NA,NA,NA,NA,NA,"Laricitrin"
+1219,"Com_54_neg",NA,NA,NA,NA,NA,NA,"Stachyose"
+1220,"Com_5401_pos",NA,NA,NA,NA,NA,NA,"Ala-Ile"
+1221,"Com_542_neg",NA,NA,NA,NA,NA,NA,"2-{2-oxo-2-[(2-oxo-3-azepanyl)amino]ethoxy}acetic acid"
+1222,"Com_5424_neg",NA,NA,NA,NA,NA,NA,"2-[(3S)-1-(Cyclohexylmethyl)-3-pyrrolidinyl]-5-fluoro-1H-benzimidazole"
+1223,"Com_5433_pos",NA,NA,NA,NA,NA,NA,"7-hydroxy-5-methoxy-2-phenyl-3,4-dihydro-2H-1-benzopyran-4-one"
+1224,"Com_5434_neg",NA,NA,NA,NA,NA,NA,"Phellamurin"
+1225,"Com_5440_pos",NA,NA,NA,NA,NA,NA,"Oxohongdenafil"
+1226,"Com_5441_pos",NA,NA,NA,NA,NA,NA,"Tolterodine"
+1227,"Com_5447_pos",NA,NA,NA,NA,NA,NA,"16,16-Dimethyl prostaglandin A2"
+1228,"Com_5448_pos",NA,NA,NA,NA,NA,NA,"LDGTS 20:3"
+1229,"Com_5460_pos",NA,NA,NA,NA,NA,NA,"PD 0200347"
+1230,"Com_547_neg",NA,NA,NA,NA,NA,NA,"6-styryl-3-phenyl-2,5-dihydro-1,2,4-triazin-5-one"
+1231,"Com_5478_pos",NA,NA,NA,NA,NA,NA,"N-(4-piperidinophenyl)-2-thiophenecarboxamide"
+1232,"Com_5487_pos",NA,NA,NA,NA,NA,NA,"Cocaethylene"
+1233,"Com_5524_pos",NA,NA,NA,NA,NA,NA,"Oxymorphone"
+1234,"Com_5538_neg",NA,NA,NA,NA,NA,NA,"Rutin"
+1235,"Com_554_pos",NA,NA,NA,NA,NA,NA,"Deoxynivalenol"
+1236,"Com_5544_pos",NA,NA,NA,NA,NA,NA,"N'-(4-methoxy-1,3-benzothiazol-2-yl)-N,N-dimethyliminoformamide"
+1237,"Com_5589_neg",NA,NA,NA,NA,NA,NA,"5-oxoproline"
+1238,"Com_5601_pos",NA,NA,NA,NA,NA,NA,"Cmp_257"
+1239,"Com_5603_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/14:0)"
+1240,"Com_5612_pos",NA,NA,NA,NA,NA,NA,"Stiripentol"
+1241,"Com_562_pos",NA,NA,NA,NA,NA,NA,"Adenine"
+1242,"Com_5654_pos",NA,NA,NA,NA,NA,NA,"Roseoflavin"
+1243,"Com_5660_pos",NA,NA,NA,NA,NA,NA,"Pyrrole-2-carboxylic acid"
+1244,"Com_5684_neg",NA,NA,NA,NA,NA,NA,"LPA 21:2"
+1245,"Com_5704_pos",NA,NA,NA,NA,NA,NA,"Indole"
+1246,"Com_5706_pos",NA,NA,NA,NA,NA,NA,"Coumarin"
+1247,"Com_571_neg",NA,NA,NA,NA,NA,NA,"D-(-)-Salicin"
+1248,"Com_5713_neg",NA,NA,NA,NA,NA,NA,"LL-2,6-Diaminopimelate"
+1249,"Com_5718_pos",NA,NA,NA,NA,NA,NA,"Glycolithocholic acid"
+1250,"Com_5728_neg",NA,NA,NA,NA,NA,NA,"PG (3:0/7:0)"
+1251,"Com_5732_pos",NA,NA,NA,NA,NA,NA,"Vitamin A"
+1252,"Com_5737_pos",NA,NA,NA,NA,NA,NA,"7-Ketocholesterol"
+1253,"Com_5753_pos",NA,NA,NA,NA,NA,NA,"Noroxycodone-d3"
+1254,"Com_5754_neg",NA,NA,NA,NA,NA,NA,"Adrenic acid"
+1255,"Com_5763_neg",NA,NA,NA,NA,NA,NA,"3-methyl-2-[(phenylsulfonyl)amino]butanoic acid"
+1256,"Com_5763_pos",NA,NA,NA,NA,NA,NA,"Acetophenone"
+1257,"Com_577_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/5:0)"
+1258,"Com_578_pos",NA,NA,NA,NA,NA,NA,"2-hydroxy-6-[(8Z,11Z)-pentadeca-8,11,14-trien-1-yl]benzoic acid"
+1259,"Com_5785_pos",NA,NA,NA,NA,NA,NA,"LPE 16:1"
+1260,"Com_579_pos",NA,NA,NA,NA,NA,NA,"Tetranor-12(S)-HETE"
+1261,"Com_5796_pos",NA,NA,NA,NA,NA,NA,"S-(5-Adenosy)-L-Homocysteine"
+1262,"Com_58_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin E1"
+1263,"Com_5817_pos",NA,NA,NA,NA,NA,NA,"8-{[4-(1H-pyrrol-1-yl)piperidino]sulfonyl}quinoline"
+1264,"Com_5825_pos",NA,NA,NA,NA,NA,NA,"(-)-Epigallocatechin"
+1265,"Com_5838_pos",NA,NA,NA,NA,NA,NA,"SPK"
+1266,"Com_5854_neg",NA,NA,NA,NA,NA,NA,"Quercetin"
+1267,"Com_586_neg",NA,NA,NA,NA,NA,NA,"Tretinoin"
+1268,"Com_5867_pos",NA,NA,NA,NA,NA,NA,"Docosahexaenoic acid"
+1269,"Com_5869_pos",NA,NA,NA,NA,NA,NA,"N-tert-Butyldimethylsilyl-N-methyltrifluoroacetamide"
+1270,"Com_587_pos",NA,NA,NA,NA,NA,NA,"2'-Deoxyadenosine"
+1271,"Com_5885_pos",NA,NA,NA,NA,NA,NA,"RNH"
+1272,"Com_5889_pos",NA,NA,NA,NA,NA,NA,"2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrole-3-carboxamide"
+1273,"Com_5936_neg",NA,NA,NA,NA,NA,NA,"Riboflavin"
+1274,"Com_5947_neg",NA,NA,NA,NA,NA,NA,"Valylproline"
+1275,"Com_5958_pos",NA,NA,NA,NA,NA,NA,"Maslinic acid"
+1276,"Com_598_neg",NA,NA,NA,NA,NA,NA,"4-Hydroxybenzaldehyde"
+1277,"Com_6_pos",NA,NA,NA,NA,NA,NA,"Betaine"
+1278,"Com_60_neg",NA,NA,NA,NA,NA,NA,"D-Raffinose"
+1279,"Com_60_pos",NA,NA,NA,NA,NA,NA,"Oleamide"
+1280,"Com_6003_neg",NA,NA,NA,NA,NA,NA,"L-Phenylalanine"
+1281,"Com_6007_pos",NA,NA,NA,NA,NA,NA,"20-Carboxy-Leukotriene B4"
+1282,"Com_601_neg",NA,NA,NA,NA,NA,NA,"3-(3,5-dimethyl-1H-pyrrol-2-yl)-2-(2-thienylcarbonyl)acrylonitrile"
+1283,"Com_602_neg",NA,NA,NA,NA,NA,NA,"3-Hydroxy-3-methylglutaric acid"
+1284,"Com_6039_pos",NA,NA,NA,NA,NA,NA,"(+)-ar-Turmerone"
+1285,"Com_604_neg",NA,NA,NA,NA,NA,NA,"L-Aspartic acid"
+1286,"Com_6040_neg",NA,NA,NA,NA,NA,NA,"Glutaconic acid"
+1287,"Com_6044_pos",NA,NA,NA,NA,NA,NA,"Terbutaline"
+1288,"Com_605_pos",NA,NA,NA,NA,NA,NA,"all-cis-4,7,10,13,16-Docosapentaenoic acid"
+1289,"Com_6056_neg",NA,NA,NA,NA,NA,NA,"PC (25:0/26:4)"
+1290,"Com_6057_pos",NA,NA,NA,NA,NA,NA,"2,3-dihydroxypropyl 12-methyltridecanoate"
+1291,"Com_6058_pos",NA,NA,NA,NA,NA,NA,"Hesperetin"
+1292,"Com_6061_pos",NA,NA,NA,NA,NA,NA,"17??-Hydroxyprogesterone"
+1293,"Com_6062_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/15:0)"
+1294,"Com_6074_neg",NA,NA,NA,NA,NA,NA,"(3??,9??)-3,14-Dihydroxycarda-5,20(22)-dienolide"
+1295,"Com_609_neg",NA,NA,NA,NA,NA,NA,"L-Glutamic acid"
+1296,"Com_6096_neg",NA,NA,NA,NA,NA,NA,"4-Hexylresorcinol"
+1297,"Com_6096_pos",NA,NA,NA,NA,NA,NA,"3,14-dihydro-15-keto-tetranor Prostaglandin E2"
+1298,"Com_6108_pos",NA,NA,NA,NA,NA,NA,"MAG 18:4"
+1299,"Com_6120_pos",NA,NA,NA,NA,NA,NA,"N6,N6,N6-Trimethyl-L-lysine"
+1300,"Com_613_neg",NA,NA,NA,NA,NA,NA,"Hexadecanedioic acid"
+1301,"Com_615_pos",NA,NA,NA,NA,NA,NA,"10b-methyl-1,5,6,10b-tetrahydroimidazo[2,1-a]isoquinolin-2(3H)-one"
+1302,"Com_6159_pos",NA,NA,NA,NA,NA,NA,"Ecgonine"
+1303,"Com_6165_pos",NA,NA,NA,NA,NA,NA,"methyl 2-[(2-acetyl-3-oxo-1-butenyl)amino]acetate"
+1304,"Com_6173_pos",NA,NA,NA,NA,NA,NA,"3,4-MDEA-d5"
+1305,"Com_6183_pos",NA,NA,NA,NA,NA,NA,"L-Adrenaline"
+1306,"Com_6190_neg",NA,NA,NA,NA,NA,NA,"Ethyl-??-D-glucuronide"
+1307,"Com_6192_neg",NA,NA,NA,NA,NA,NA,"L-(+)-Tartaric acid"
+1308,"Com_6194_pos",NA,NA,NA,NA,NA,NA,"N-cyclooctylurea"
+1309,"Com_6204_pos",NA,NA,NA,NA,NA,NA,"Monolaurin"
+1310,"Com_6233_neg",NA,NA,NA,NA,NA,NA,"MGDG (4:0/18:1)"
+1311,"Com_6237_neg",NA,NA,NA,NA,NA,NA,"Theanine"
+1312,"Com_6252_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin A1 ethyl ester"
+1313,"Com_6270_neg",NA,NA,NA,NA,NA,NA,"Sinalbin"
+1314,"Com_6278_neg",NA,NA,NA,NA,NA,NA,"D-ribose 5-phosphate"
+1315,"Com_6282_neg",NA,NA,NA,NA,NA,NA,"O1-[4-(tert-butyl)benzoyl]-2-(tert-butylsulfonyl)ethanehydroximamide"
+1316,"Com_629_neg",NA,NA,NA,NA,NA,NA,"D-Threose"
+1317,"Com_6302_neg",NA,NA,NA,NA,NA,NA,"??-Estradiol"
+1318,"Com_6348_pos",NA,NA,NA,NA,NA,NA,"??-Propylaminopentiophenone"
+1319,"Com_6355_neg",NA,NA,NA,NA,NA,NA,"LPE 14:0"
+1320,"Com_6357_pos",NA,NA,NA,NA,NA,NA,"Simvastatin"
+1321,"Com_6358_pos",NA,NA,NA,NA,NA,NA,"5-[4-(4-methoxyphenoxy)phenyl]-1H-pyrazole"
+1322,"Com_6367_pos",NA,NA,NA,NA,NA,NA,"L-(-)-alpha-Amino-epsilon-Caprolactam"
+1323,"Com_6368_pos",NA,NA,NA,NA,NA,NA,"TAG (13:1-14:3-14:3)"
+1324,"Com_6379_pos",NA,NA,NA,NA,NA,NA,"N-(2,3-dihydro-1H-inden-2-yl)-4-hydroxybutanamide"
+1325,"Com_6392_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/20:5)"
+1326,"Com_6395_pos",NA,NA,NA,NA,NA,NA,"4-heptyl-3-methyl-1H-pyrazol-5-ol"
+1327,"Com_6407_neg",NA,NA,NA,NA,NA,NA,"Dimetghyl 4-Hydroxyisophthalate"
+1328,"Com_6408_neg",NA,NA,NA,NA,NA,NA,"Ursodeoxycholic acid"
+1329,"Com_645_neg",NA,NA,NA,NA,NA,NA,"Geranylgeranyl pyrophosphate"
+1330,"Com_6455_pos",NA,NA,NA,NA,NA,NA,"Glycerol 1-hexadecanoate"
+1331,"Com_6488_neg",NA,NA,NA,NA,NA,NA,"Maltotriose"
+1332,"Com_6493_pos",NA,NA,NA,NA,NA,NA,"N-(3-methyl-1-phenyl-1H-pyrazol-5-yl)-2-morpholinoacetamide"
+1333,"Com_6497_neg",NA,NA,NA,NA,NA,NA,"Isopentenyl pyrophosphate"
+1334,"Com_6509_pos",NA,NA,NA,NA,NA,NA,"(5E)-7-methylidene-10-oxo-4-(propan-2-yl)undec-5-enoic acid"
+1335,"Com_6513_pos",NA,NA,NA,NA,NA,NA,"Boc-beta-cyano-L-alanine"
+1336,"Com_6521_neg",NA,NA,NA,NA,NA,NA,"4,5-Dicaffeoylquinic acid"
+1337,"Com_6544_pos",NA,NA,NA,NA,NA,NA,"2-[(1-benzothiophen-3-ylmethyl)amino]-1-phenylethan-1-ol"
+1338,"Com_6555_neg",NA,NA,NA,NA,NA,NA,"GDP"
+1339,"Com_656_pos",NA,NA,NA,NA,NA,NA,"Nialamide"
+1340,"Com_6568_neg",NA,NA,NA,NA,NA,NA,"N1-[1-(3-isopropenylphenyl)-1-methylethyl]-3-oxobutanamide"
+1341,"Com_6574_neg",NA,NA,NA,NA,NA,NA,"Palmitoyl ethanolamide"
+1342,"Com_658_pos",NA,NA,NA,NA,NA,NA,"(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid"
+1343,"Com_6591_pos",NA,NA,NA,NA,NA,NA,"D-Galactosamine"
+1344,"Com_6601_pos",NA,NA,NA,NA,NA,NA,"16-Glucuronide-estriol"
+1345,"Com_6604_pos",NA,NA,NA,NA,NA,NA,"2-[2-(2-pyridyloxy)ethoxy]pyridine"
+1346,"Com_6609_pos",NA,NA,NA,NA,NA,NA,"L-694,247"
+1347,"Com_661_pos",NA,NA,NA,NA,NA,NA,"Uracil"
+1348,"Com_6613_pos",NA,NA,NA,NA,NA,NA,"2-[3-(4-pyridyl)-1H-1,2,4-triazol-5-yl]pyridine"
+1349,"Com_6638_neg",NA,NA,NA,NA,NA,NA,"Flavin mononucleotide (FMN)"
+1350,"Com_6645_pos",NA,NA,NA,NA,NA,NA,"cyclohexyl[4-(2-methoxyphenyl)piperidino]methanone"
+1351,"Com_665_neg",NA,NA,NA,NA,NA,NA,"Terephthalic acid"
+1352,"Com_6657_pos",NA,NA,NA,NA,NA,NA,"RPK"
+1353,"Com_6666_pos",NA,NA,NA,NA,NA,NA,"alpha-Keto-gamma-(methylthio)butyric acid"
+1354,"Com_6668_neg",NA,NA,NA,NA,NA,NA,"PA (4:0/25:0)"
+1355,"Com_667_pos",NA,NA,NA,NA,NA,NA,"(??)15-HETE"
+1356,"Com_6685_pos",NA,NA,NA,NA,NA,NA,"3-Hydroxylidocaine"
+1357,"Com_6689_pos",NA,NA,NA,NA,NA,NA,"Quercitrin"
+1358,"Com_6692_neg",NA,NA,NA,NA,NA,NA,"Citrulline"
+1359,"Com_6694_neg",NA,NA,NA,NA,NA,NA,"N-formylglycine"
+1360,"Com_6695_pos",NA,NA,NA,NA,NA,NA,"N-[1-(4-methoxy-2-oxo-2H-pyran-6-yl)-2-methylbutyl]acetamide"
+1361,"Com_6710_neg",NA,NA,NA,NA,NA,NA,"PG (5:0/8:0)"
+1362,"Com_6714_pos",NA,NA,NA,NA,NA,NA,"DAG (4:0/15:1)"
+1363,"Com_6718_pos",NA,NA,NA,NA,NA,NA,"2-methoxy-4-{3-[(4-methylbenzoyl)amino]butyl}phenyl 4-methylbenzoate"
+1364,"Com_676_neg",NA,NA,NA,NA,NA,NA,"Carboxyibuprofen"
+1365,"Com_6760_pos",NA,NA,NA,NA,NA,NA,"Deoxycorticosterone"
+1366,"Com_6763_neg",NA,NA,NA,NA,NA,NA,"MGDG (2:0/14:1)"
+1367,"Com_6780_pos",NA,NA,NA,NA,NA,NA,"SM (d14:0/13:1)"
+1368,"Com_6784_pos",NA,NA,NA,NA,NA,NA,"3-(4-hydroxy-3-methoxyphenyl)propanoic acid"
+1369,"Com_6789_neg",NA,NA,NA,NA,NA,NA,"16-(Hexopyranosyloxy)-7-hydroxy-8,9-epoxypimaran-18-oic acid"
+1370,"Com_6794_pos",NA,NA,NA,NA,NA,NA,"Testosterone undecanoate"
+1371,"Com_6796_neg",NA,NA,NA,NA,NA,NA,"4-Hydroxy-6-methyl-2-pyrone"
+1372,"Com_6797_pos",NA,NA,NA,NA,NA,NA,"5-(2-chlorophenyl)-3-morpholinoisothiazole-4-carbonitrile"
+1373,"Com_68_pos",NA,NA,NA,NA,NA,NA,"13,14-Dihydro-15-keto Prostaglandin A2"
+1374,"Com_6830_neg",NA,NA,NA,NA,NA,NA,"D-Sedoheptulose 7-phosphate"
+1375,"Com_6871_pos",NA,NA,NA,NA,NA,NA,"2-[(3S)-1-(4-Chlorobenzyl)-3-pyrrolidinyl]-1-methyl-1H-benzimidazole"
+1376,"Com_6875_pos",NA,NA,NA,NA,NA,NA,"4-Methylumbelliferone hydrate"
+1377,"Com_688_neg",NA,NA,NA,NA,NA,NA,"FAHFA (10:0/9:0)"
+1378,"Com_6887_pos",NA,NA,NA,NA,NA,NA,"4-methoxy-6-[(E)-2-phenylethenyl]-2H-pyran-2-one"
+1379,"Com_6890_neg",NA,NA,NA,NA,NA,NA,"Panose"
+1380,"Com_6895_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxy-6-Aminopurine"
+1381,"Com_6897_pos",NA,NA,NA,NA,NA,NA,"2-(allylthio)-4,5-diphenyl-1H-imidazole"
+1382,"Com_691_pos",NA,NA,NA,NA,NA,NA,"5-Methyluridine"
+1383,"Com_6911_neg",NA,NA,NA,NA,NA,NA,"Xanthohumol"
+1384,"Com_6920_neg",NA,NA,NA,NA,NA,NA,"Citraconic acid"
+1385,"Com_6976_pos",NA,NA,NA,NA,NA,NA,"3-(4-nitrophenyl)[1,2,3]triazolo[1,5-a]quinazolin-5-amine"
+1386,"Com_7_pos",NA,NA,NA,NA,NA,NA,"Fenpropimorph"
+1387,"Com_7001_pos",NA,NA,NA,NA,NA,NA,"6??-Hydroxy budesonide"
+1388,"Com_7004_pos",NA,NA,NA,NA,NA,NA,"N1-(2,3-dihydro-1,4-benzodioxin-2-ylmethyl)-2,2-dimethylpropanamide"
+1389,"Com_7006_pos",NA,NA,NA,NA,NA,NA,"QLH"
+1390,"Com_7011_pos",NA,NA,NA,NA,NA,NA,"N1-(2,3-dihydro-1,4-benzodioxin-6-yl)acetamide"
+1391,"Com_7023_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/22:5)"
+1392,"Com_7025_pos",NA,NA,NA,NA,NA,NA,"5-fluoro AKB48 N-(4-hydroxypentyl) metabolite"
+1393,"Com_7038_pos",NA,NA,NA,NA,NA,NA,"ethyl 3-oxo-3-(1H-pyrazol-5-ylamino)propanoate"
+1394,"Com_704_neg",NA,NA,NA,NA,NA,NA,"Esculin"
+1395,"Com_7040_pos",NA,NA,NA,NA,NA,NA,"3-Cyano-L-alanine"
+1396,"Com_7057_pos",NA,NA,NA,NA,NA,NA,"Withanolide A"
+1397,"Com_7081_pos",NA,NA,NA,NA,NA,NA,"Zeatin-7-N-glucoside"
+1398,"Com_7086_pos",NA,NA,NA,NA,NA,NA,"(??)8-HEPE"
+1399,"Com_710_pos",NA,NA,NA,NA,NA,NA,"2'-Deoxyguanosine"
+1400,"Com_712_neg",NA,NA,NA,NA,NA,NA,"15-OxoEDE"
+1401,"Com_7143_pos",NA,NA,NA,NA,NA,NA,"Epicatechin"
+1402,"Com_7153_neg",NA,NA,NA,NA,NA,NA,"N2-Methylguanosine"
+1403,"Com_716_pos",NA,NA,NA,NA,NA,NA,"Choline"
+1404,"Com_7169_neg",NA,NA,NA,NA,NA,NA,"DGDG (14:0/16:2)"
+1405,"Com_7170_pos",NA,NA,NA,NA,NA,NA,"LPC 16:2"
+1406,"Com_7181_pos",NA,NA,NA,NA,NA,NA,"3-chloro-4-methylquinolin-2-ol"
+1407,"Com_7196_pos",NA,NA,NA,NA,NA,NA,"Methoxamine"
+1408,"Com_720_pos",NA,NA,NA,NA,NA,NA,"Monoolein"
+1409,"Com_7202_pos",NA,NA,NA,NA,NA,NA,"5-[(E)-2-(3,5-dihydroxyphenyl)ethenyl]-2-methoxybenzene-1,3-diol"
+1410,"Com_7207_neg",NA,NA,NA,NA,NA,NA,"Thymidine 5'-monophosphate"
+1411,"Com_7208_pos",NA,NA,NA,NA,NA,NA,"Metronidazole-OH"
+1412,"Com_7210_pos",NA,NA,NA,NA,NA,NA,"4-(2,3-dihydrobenzo[b]furan-5-yl)pyrimidine-2-thiol"
+1413,"Com_725_pos",NA,NA,NA,NA,NA,NA,"15-Acetyldeoxynivalenol"
+1414,"Com_7250_pos",NA,NA,NA,NA,NA,NA,"Enrofloxacin"
+1415,"Com_7252_neg",NA,NA,NA,NA,NA,NA,"SM (d14:1/14:1)"
+1416,"Com_7271_pos",NA,NA,NA,NA,NA,NA,"8,8-dimethyl-2H,8H-pyrano[3,2-g]chromen-2-one"
+1417,"Com_7275_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/18:3)"
+1418,"Com_7275_pos",NA,NA,NA,NA,NA,NA,"Feruloyl Putrescine"
+1419,"Com_7280_neg",NA,NA,NA,NA,NA,NA,"PG (2:0/2:0)"
+1420,"Com_7282_pos",NA,NA,NA,NA,NA,NA,"PE (4:0/16:4)"
+1421,"Com_7295_neg",NA,NA,NA,NA,NA,NA,"Orotidine"
+1422,"Com_7300_neg",NA,NA,NA,NA,NA,NA,"Piceatannol"
+1423,"Com_733_neg",NA,NA,NA,NA,NA,NA,"8-iso-15-keto Prostaglandin E2"
+1424,"Com_7348_pos",NA,NA,NA,NA,NA,NA,"Tramadol N-Oxide"
+1425,"Com_7365_pos",NA,NA,NA,NA,NA,NA,"Latanoprost"
+1426,"Com_738_neg",NA,NA,NA,NA,NA,NA,"MGDG (14:1/18:3)"
+1427,"Com_7434_neg",NA,NA,NA,NA,NA,NA,"MGDG (9:0/9:0)"
+1428,"Com_745_neg",NA,NA,NA,NA,NA,NA,"PA (7:0/22:6)"
+1429,"Com_7458_pos",NA,NA,NA,NA,NA,NA,"4-(methylthio)-6-phenyl-2-(3-pyridyl)pyrimidine-5-carbonitrile"
+1430,"Com_7474_neg",NA,NA,NA,NA,NA,NA,"Thromboxane B3"
+1431,"Com_7483_pos",NA,NA,NA,NA,NA,NA,"6-Ketoprostaglandin F1??"
+1432,"Com_7490_pos",NA,NA,NA,NA,NA,NA,"7-hydroxy-3-(4-methoxyphenyl)-4H-chromen-4-one"
+1433,"Com_7502_neg",NA,NA,NA,NA,NA,NA,"Ornithine"
+1434,"Com_7531_pos",NA,NA,NA,NA,NA,NA,"Progesterone"
+1435,"Com_754_pos",NA,NA,NA,NA,NA,NA,"L-2-Aminoadipic acid"
+1436,"Com_7574_neg",NA,NA,NA,NA,NA,NA,"D-Sphingosine"
+1437,"Com_759_pos",NA,NA,NA,NA,NA,NA,"5,6-dimethoxy-2-(2-methoxyphenyl)-4H-chromen-4-one"
+1438,"Com_7617_neg",NA,NA,NA,NA,NA,NA,"Ethylmalonic acid"
+1439,"Com_7630_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/11:0)"
+1440,"Com_7641_pos",NA,NA,NA,NA,NA,NA,"Glu-Val-Phe"
+1441,"Com_7651_neg",NA,NA,NA,NA,NA,NA,"Loxoprofen"
+1442,"Com_766_neg",NA,NA,NA,NA,NA,NA,"Desthiobiotin"
+1443,"Com_766_pos",NA,NA,NA,NA,NA,NA,"N-(4-chlorophenyl)-N'-(2-phenoxyphenyl)urea"
+1444,"Com_7679_pos",NA,NA,NA,NA,NA,NA,"N,N-Diethylethanolamine"
+1445,"Com_768_neg",NA,NA,NA,NA,NA,NA,"15(S)-HpETE"
+1446,"Com_7691_pos",NA,NA,NA,NA,NA,NA,"DPK"
+1447,"Com_7699_pos",NA,NA,NA,NA,NA,NA,"DL-3-Aminoisobutyric acid"
+1448,"Com_7704_neg",NA,NA,NA,NA,NA,NA,"Naltrindole"
+1449,"Com_7714_pos",NA,NA,NA,NA,NA,NA,"2-cyano-N-(3-oxo-1,3-dihydro-2-benzofuran-5-yl)benzenesulfonamide"
+1450,"Com_7718_neg",NA,NA,NA,NA,NA,NA,"O-Acetyl-L-homoserine"
+1451,"Com_7729_pos",NA,NA,NA,NA,NA,NA,"4-benzylidene-2-phenyltetrahydroisoxazole-3,5-dione"
+1452,"Com_7733_pos",NA,NA,NA,NA,NA,NA,"N-(cyclopropylmethyl)-N'-phenylurea"
+1453,"Com_7746_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin A3"
+1454,"Com_7778_neg",NA,NA,NA,NA,NA,NA,"15(R)-Prostaglandin E2"
+1455,"Com_7797_neg",NA,NA,NA,NA,NA,NA,"S-Lactoylglutathione"
+1456,"Com_7833_pos",NA,NA,NA,NA,NA,NA,"2-Phenylglycine"
+1457,"Com_7854_pos",NA,NA,NA,NA,NA,NA,"Linalool"
+1458,"Com_7866_pos",NA,NA,NA,NA,NA,NA,"(2E)-N-(4-acetamidobutyl)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enamide"
+1459,"Com_7871_pos",NA,NA,NA,NA,NA,NA,"??-Zearalanol"
+1460,"Com_7878_pos",NA,NA,NA,NA,NA,NA,"mesityl(piperidin-4-yl)methanone hydrochloride"
+1461,"Com_789_pos",NA,NA,NA,NA,NA,NA,"Prostaglandin K2"
+1462,"Com_79_neg",NA,NA,NA,NA,NA,NA,"Tetranor-12R-HETE"
+1463,"Com_7914_pos",NA,NA,NA,NA,NA,NA,"6-O-(2-Methylbutanoyl)-??-D-glucopyranosyl ??-D-glucopyranoside"
+1464,"Com_7927_neg",NA,NA,NA,NA,NA,NA,"13,14-Dihydro-15-keto Prostaglandin E2"
+1465,"Com_7934_neg",NA,NA,NA,NA,NA,NA,"Deoxycytidine"
+1466,"Com_7934_pos",NA,NA,NA,NA,NA,NA,"5-Methyl-2'-deoxycytidine"
+1467,"Com_7943_pos",NA,NA,NA,NA,NA,NA,"PE (16:0/16:1)"
+1468,"Com_7958_pos",NA,NA,NA,NA,NA,NA,"(2R)-2-[(2R,5S)-5-[(2S)-2-hydroxybutyl]oxolan-2-yl]propanoic acid"
+1469,"Com_7986_pos",NA,NA,NA,NA,NA,NA,"Linezolide"
+1470,"Com_80_pos",NA,NA,NA,NA,NA,NA,"D-(+)-Maltose"
+1471,"Com_8000_pos",NA,NA,NA,NA,NA,NA,"Citrinin"
+1472,"Com_8007_neg",NA,NA,NA,NA,NA,NA,"nor-6??-Oxycodol"
+1473,"Com_8019_pos",NA,NA,NA,NA,NA,NA,"PE (6:0/18:2)"
+1474,"Com_8025_neg",NA,NA,NA,NA,NA,NA,"N-Acetyl-L-phenylalanine"
+1475,"Com_8057_neg",NA,NA,NA,NA,NA,NA,"Homovanillic acid"
+1476,"Com_8070_pos",NA,NA,NA,NA,NA,NA,"4-Acetylbutyric acid"
+1477,"Com_808_pos",NA,NA,NA,NA,NA,NA,"KPH"
+1478,"Com_81_pos",NA,NA,NA,NA,NA,NA,"Guanine"
+1479,"Com_8103_pos",NA,NA,NA,NA,NA,NA,"LPE 15:1"
+1480,"Com_811_neg",NA,NA,NA,NA,NA,NA,"2-Hydroxymyristic acid"
+1481,"Com_811_pos",NA,NA,NA,NA,NA,NA,"QPH"
+1482,"Com_8118_pos",NA,NA,NA,NA,NA,NA,"13-HPODE"
+1483,"Com_8126_pos",NA,NA,NA,NA,NA,NA,"Tosufloxacin"
+1484,"Com_8129_pos",NA,NA,NA,NA,NA,NA,"2-Propylglutaric acid"
+1485,"Com_8137_pos",NA,NA,NA,NA,NA,NA,"2-(1-adamantyl)-1-morpholinoethan-1-one"
+1486,"Com_814_neg",NA,NA,NA,NA,NA,NA,"Prostaglandin H2"
+1487,"Com_8140_pos",NA,NA,NA,NA,NA,NA,"5??-Pregnan-3,20-dione"
+1488,"Com_8166_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/19:2)"
+1489,"Com_8169_pos",NA,NA,NA,NA,NA,NA,"Androsterone"
+1490,"Com_8176_neg",NA,NA,NA,NA,NA,NA,"FAHFA (2:0/20:2)"
+1491,"Com_8178_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/6:0)"
+1492,"Com_82_pos",NA,NA,NA,NA,NA,NA,"Octadecanedioic acid"
+1493,"Com_8201_pos",NA,NA,NA,NA,NA,NA,"2-furyl[4-(1H-indol-4-yl)piperazino]methanone"
+1494,"Com_8203_neg",NA,NA,NA,NA,NA,NA,"LPC 18:2"
+1495,"Com_8209_pos",NA,NA,NA,NA,NA,NA,"(2E)-3-phenyl-N-(2-phenylethyl)prop-2-enamide"
+1496,"Com_822_neg",NA,NA,NA,NA,NA,NA,"16-Hydroxyhexadecanoic acid"
+1497,"Com_8261_pos",NA,NA,NA,NA,NA,NA,"(1E)-5-hydroxy-1,7-diphenylhept-1-en-3-one"
+1498,"Com_8267_pos",NA,NA,NA,NA,NA,NA,"YLH"
+1499,"Com_8276_neg",NA,NA,NA,NA,NA,NA,"LPA 19:2"
+1500,"Com_8280_neg",NA,NA,NA,NA,NA,NA,"4-Butylresorcinol"
+1501,"Com_8285_pos",NA,NA,NA,NA,NA,NA,"Robinin"
+1502,"Com_8295_pos",NA,NA,NA,NA,NA,NA,"Anthranilic acid"
+1503,"Com_83_pos",NA,NA,NA,NA,NA,NA,"6,15-diketo-13,14-dihydro Prostaglandin F1??"
+1504,"Com_831_neg",NA,NA,NA,NA,NA,NA,"Methylsuccinic acid"
+1505,"Com_831_pos",NA,NA,NA,NA,NA,NA,"16-Heptadecyne-1,2,4-triol"
+1506,"Com_8335_pos",NA,NA,NA,NA,NA,NA,"All trans-Retinal"
+1507,"Com_8347_pos",NA,NA,NA,NA,NA,NA,"Catechin"
+1508,"Com_838_neg",NA,NA,NA,NA,NA,NA,"N-[2,5-bis(2,2,2-trifluoroethoxy)benzoyl]-N'-(4-methoxyphenyl)urea"
+1509,"Com_839_neg",NA,NA,NA,NA,NA,NA,"N-[4-(diethylamino)phenyl]-N'-phenylurea"
+1510,"Com_8394_neg",NA,NA,NA,NA,NA,NA,"DGDG (9:0/9:0)"
+1511,"Com_8397_neg",NA,NA,NA,NA,NA,NA,"PA (2:0/6:0)"
+1512,"Com_84_neg",NA,NA,NA,NA,NA,NA,"(??)12(13)-DiHOME"
+1513,"Com_8439_pos",NA,NA,NA,NA,NA,NA,"Zolpidem-d6"
+1514,"Com_8446_neg",NA,NA,NA,NA,NA,NA,"LPC 16:1"
+1515,"Com_847_pos",NA,NA,NA,NA,NA,NA,"6-Methylquinoline"
+1516,"Com_8474_pos",NA,NA,NA,NA,NA,NA,"LPC 24:4"
+1517,"Com_8509_pos",NA,NA,NA,NA,NA,NA,"PPK"
+1518,"Com_855_neg",NA,NA,NA,NA,NA,NA,"UDP-N-acetylglucosamine"
+1519,"Com_8552_neg",NA,NA,NA,NA,NA,NA,"Cyclo(glycyltryptophylprolylglycylvalylglycyl-??-hydroxytyrosyl)"
+1520,"Com_8553_neg",NA,NA,NA,NA,NA,NA,"Stearic acid"
+1521,"Com_856_pos",NA,NA,NA,NA,NA,NA,"Sucrose"
+1522,"Com_8564_pos",NA,NA,NA,NA,NA,NA,"Pyroglutamic acid"
+1523,"Com_857_pos",NA,NA,NA,NA,NA,NA,"(5Z)-3-aminonon-5-enoic acid"
+1524,"Com_8571_pos",NA,NA,NA,NA,NA,NA,"(2E,4E)-N-(2-methylpropyl)deca-2,4-dienamide"
+1525,"Com_8577_neg",NA,NA,NA,NA,NA,NA,"PC (9:0/9:0)"
+1526,"Com_8578_pos",NA,NA,NA,NA,NA,NA,"BMP (3:0/20:0)"
+1527,"Com_860_neg",NA,NA,NA,NA,NA,NA,"Guanosine"
+1528,"Com_860_pos",NA,NA,NA,NA,NA,NA,"Dihexyl nonanedioate"
+1529,"Com_8601_pos",NA,NA,NA,NA,NA,NA,"2-Aminopimelic acid"
+1530,"Com_8609_pos",NA,NA,NA,NA,NA,NA,"SM (d14:2/14:1)"
+1531,"Com_8644_neg",NA,NA,NA,NA,NA,NA,"Adenosine 5'-monophosphate"
+1532,"Com_8659_pos",NA,NA,NA,NA,NA,NA,"Albendazole-2-aminosulfone"
+1533,"Com_8662_pos",NA,NA,NA,NA,NA,NA,"L-Dopa"
+1534,"Com_867_pos",NA,NA,NA,NA,NA,NA,"11-Dehydro thromboxane B2"
+1535,"Com_8674_neg",NA,NA,NA,NA,NA,NA,"LPE 18:1"
+1536,"Com_8686_pos",NA,NA,NA,NA,NA,NA,"5-Fluoro-2-[(3S)-1-(2-fluorobenzyl)-3-pyrrolidinyl]-1H-benzimidazole"
+1537,"Com_869_neg",NA,NA,NA,NA,NA,NA,"6??-Naloxol"
+1538,"Com_8692_pos",NA,NA,NA,NA,NA,NA,"2-piperidinobenzoic acid"
+1539,"Com_8697_pos",NA,NA,NA,NA,NA,NA,"5-trans-Prostaglandin E2"
+1540,"Com_8702_neg",NA,NA,NA,NA,NA,NA,"(5-L-Glutamyl)-L-Amino Acid"
+1541,"Com_8705_pos",NA,NA,NA,NA,NA,NA,"FQH"
+1542,"Com_8706_neg",NA,NA,NA,NA,NA,NA,"4-[2-(2-oxo-1-imidazolidinyl)ethyl]-1lambda~6~,4-thiazinane-1,1-dione"
+1543,"Com_8717_pos",NA,NA,NA,NA,NA,NA,"Cer-NS (d19:1/16:0)"
+1544,"Com_8724_pos",NA,NA,NA,NA,NA,NA,"methyl 2-(6-hydroxy-3-oxo-3H-xanthen-9-yl)benzoate"
+1545,"Com_874_neg",NA,NA,NA,NA,NA,NA,"Chlorogenic acid"
+1546,"Com_874_pos",NA,NA,NA,NA,NA,NA,"Nootkatone"
+1547,"Com_8752_pos",NA,NA,NA,NA,NA,NA,"5,7-dimethyl-2-phenylpyrazolo[1,5-a]pyrimidine"
+1548,"Com_8765_pos",NA,NA,NA,NA,NA,NA,"Kanamycin"
+1549,"Com_8780_neg",NA,NA,NA,NA,NA,NA,"Ala-Gln"
+1550,"Com_8809_pos",NA,NA,NA,NA,NA,NA,"Paracetamol"
+1551,"Com_8815_neg",NA,NA,NA,NA,NA,NA,"3-Methyladipic acid"
+1552,"Com_8850_neg",NA,NA,NA,NA,NA,NA,"Cer-BS (d21:2/30:1)"
+1553,"Com_8874_neg",NA,NA,NA,NA,NA,NA,"(+/-)-CP 47,497-C7-Hydroxy metabolite"
+1554,"Com_89_neg",NA,NA,NA,NA,NA,NA,"(??)9-HpODE"
+1555,"Com_8901_pos",NA,NA,NA,NA,NA,NA,"4-butyl-4-(hydroxymethyl)-1,2-diphenylpyrazolidine-3,5-dione"
+1556,"Com_895_pos",NA,NA,NA,NA,NA,NA,"N-(9-oxodecyl)acetamide"
+1557,"Com_8963_neg",NA,NA,NA,NA,NA,NA,"LPE 17:1"
+1558,"Com_8966_pos",NA,NA,NA,NA,NA,NA,"4-methyl-2-oxo-8-propyl-2H-chromen-7-yl (dimethylamino)methanethioate"
+1559,"Com_8971_pos",NA,NA,NA,NA,NA,NA,"N-cyclohexyl-6,7-dimethoxyquinazolin-4-amine"
+1560,"Com_8981_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/16:0)"
+1561,"Com_9014_neg",NA,NA,NA,NA,NA,NA,"Aflatoxin G2"
+1562,"Com_9058_pos",NA,NA,NA,NA,NA,NA,"12-epi Leukotriene B4"
+1563,"Com_9064_neg",NA,NA,NA,NA,NA,NA,"13,14-dihydro-15-keto-PGD2"
+1564,"Com_9075_pos",NA,NA,NA,NA,NA,NA,"Lysopg 18:1"
+1565,"Com_9087_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/13:1)"
+1566,"Com_912_pos",NA,NA,NA,NA,NA,NA,"Diaminopimelic acid"
+1567,"Com_9121_pos",NA,NA,NA,NA,NA,NA,"SM (d14:1/19:1)"
+1568,"Com_9122_neg",NA,NA,NA,NA,NA,NA,"PI (2:0/11:0)"
+1569,"Com_9132_pos",NA,NA,NA,NA,NA,NA,"2-(2,5-dimethyl-3-thienyl)-2,3,4,5-tetrahydro-1,5-benzothiazepin-4-one"
+1570,"Com_9148_neg",NA,NA,NA,NA,NA,NA,"alpha-Ketoglutaric acid"
+1571,"Com_916_neg",NA,NA,NA,NA,NA,NA,"1a,1b-Dihomo prostaglandin F2??"
+1572,"Com_918_neg",NA,NA,NA,NA,NA,NA,"P-Toluenesulfonic acid"
+1573,"Com_9192_pos",NA,NA,NA,NA,NA,NA,"Veratramine"
+1574,"Com_9225_neg",NA,NA,NA,NA,NA,NA,"(??)8(9)-DiHET"
+1575,"Com_924_pos",NA,NA,NA,NA,NA,NA,"3-Methoxybenzaldehyde"
+1576,"Com_9240_neg",NA,NA,NA,NA,NA,NA,"LPC 15:0"
+1577,"Com_9258_neg",NA,NA,NA,NA,NA,NA,"DL-Tryptophan"
+1578,"Com_9292_pos",NA,NA,NA,NA,NA,NA,"Arachidonoyl amide"
+1579,"Com_9293_pos",NA,NA,NA,NA,NA,NA,"(2S)-2-(2-hydroxypropan-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one"
+1580,"Com_9298_neg",NA,NA,NA,NA,NA,NA,"PA (7:0/8:0)"
+1581,"Com_9299_neg",NA,NA,NA,NA,NA,NA,"3-Isopropylmalic acid"
+1582,"Com_932_neg",NA,NA,NA,NA,NA,NA,"Elaidic acid"
+1583,"Com_9320_pos",NA,NA,NA,NA,NA,NA,"15-Deoxy-??12,14-prostaglandin J2-2-glycerol ester"
+1584,"Com_9327_pos",NA,NA,NA,NA,NA,NA,"Senecionine"
+1585,"Com_9333_neg",NA,NA,NA,NA,NA,NA,"FAHFA (4:0/17:2)"
+1586,"Com_9339_pos",NA,NA,NA,NA,NA,NA,"D-Phenylalanine"
+1587,"Com_935_neg",NA,NA,NA,NA,NA,NA,"beta-Estradiol 17-Acetate"
+1588,"Com_936_pos",NA,NA,NA,NA,NA,NA,"Prolylglycine"
+1589,"Com_9363_neg",NA,NA,NA,NA,NA,NA,"DGDG (2:0/16:2)"
+1590,"Com_9381_pos",NA,NA,NA,NA,NA,NA,"N-??-L-Acetyl-arginine"
+1591,"Com_9385_pos",NA,NA,NA,NA,NA,NA,"6-methyl-5-nitroquinoline"
+1592,"Com_940_pos",NA,NA,NA,NA,NA,NA,"??-Lapachone"
+1593,"Com_9411_pos",NA,NA,NA,NA,NA,NA,"7-{[(2E)-3,7-dimethylocta-2,6-dien-1-yl]oxy}-2H-chromen-2-one"
+1594,"Com_9452_neg",NA,NA,NA,NA,NA,NA,"PMeOH (16:2-16:4)"
+1595,"Com_9453_neg",NA,NA,NA,NA,NA,NA,"5beta-Androstane-3,17-dione"
+1596,"Com_9464_pos",NA,NA,NA,NA,NA,NA,"4-[4-(1-phenyl-1H-1,2,4-triazol-5-yl)-1,3-thiazol-2-yl]pyridine"
+1597,"Com_9472_pos",NA,NA,NA,NA,NA,NA,"Amitriptyline-d3"
+1598,"Com_9498_pos",NA,NA,NA,NA,NA,NA,"4'-Methoxyacetophenone"
+1599,"Com_9512_pos",NA,NA,NA,NA,NA,NA,"Tyrosylalanine"
+1600,"Com_9513_pos",NA,NA,NA,NA,NA,NA,"ethyl 4-amino-2-[(3-nitro-2-pyridyl)thio]pyrimidine-5-carboxylate"
+1601,"Com_9517_neg",NA,NA,NA,NA,NA,NA,"LPC 19:1"
+1602,"Com_9522_pos",NA,NA,NA,NA,NA,NA,"N,5-diphenyl-1,3,4-oxadiazole-2-carboxamide"
+1603,"Com_9535_neg",NA,NA,NA,NA,NA,NA,"3',5,7-Trihydroxy-4'-methoxyflavanone"
+1604,"Com_9537_neg",NA,NA,NA,NA,NA,NA,"8Z,11Z,14Z-Eicosatrienoic acid"
+1605,"Com_9542_pos",NA,NA,NA,NA,NA,NA,"4-(2,3-dihydro-1H-inden-5-yl)-6-(trifluoromethyl)pyrimidin-2-amine"
+1606,"Com_9550_pos",NA,NA,NA,NA,NA,NA,"LDGTS 17:2"
+1607,"Com_9552_pos",NA,NA,NA,NA,NA,NA,"2-morpholino-1-phenyl-1-ethanol"
+1608,"Com_9580_pos",NA,NA,NA,NA,NA,NA,"UR-144 N-(5-Chloropentyl) analog"
+1609,"Com_96_neg",NA,NA,NA,NA,NA,NA,"2-Furoylglycine"
+1610,"Com_9612_pos",NA,NA,NA,NA,NA,NA,"HPK"
+1611,"Com_9625_pos",NA,NA,NA,NA,NA,NA,"N1-{4-[2-cyano-2-(4-nitrophenyl)vinyl]phenyl}acetamide"
+1612,"Com_9629_pos",NA,NA,NA,NA,NA,NA,"3,5-Dimethoxybenzoic acid"
+1613,"Com_963_pos",NA,NA,NA,NA,NA,NA,"Pantothenic acid"
+1614,"Com_964_neg",NA,NA,NA,NA,NA,NA,"Asp-Phe methyl ester"
+1615,"Com_9640_neg",NA,NA,NA,NA,NA,NA,"cis,cis-Muconic acid"
+1616,"Com_966_pos",NA,NA,NA,NA,NA,NA,"L(-)-Carnitine"
+1617,"Com_969_neg",NA,NA,NA,NA,NA,NA,"2-(3,4-dimethoxyphenyl)ethanamine"
+1618,"Com_971_pos",NA,NA,NA,NA,NA,NA,"16(R)-HETE"
+1619,"Com_9725_pos",NA,NA,NA,NA,NA,NA,"Homogentisic Acid"
+1620,"Com_9756_neg",NA,NA,NA,NA,NA,NA,"1-(4-Methoxyphenyl)-2-propanone"
+1621,"Com_9758_neg",NA,NA,NA,NA,NA,NA,"PE (18:2e/2:0)"
+1622,"Com_9778_neg",NA,NA,NA,NA,NA,NA,"LPC 18:1"
+1623,"Com_9787_pos",NA,NA,NA,NA,NA,NA,"2-methyl-2,3,4,5-tetrahydro-1,5-benzoxazepin-4-one"
+1624,"Com_98_pos",NA,NA,NA,NA,NA,NA,"Palmitoleic Acid"
+1625,"Com_981_neg",NA,NA,NA,NA,NA,NA,"Sebacic acid"
+1626,"Com_981_pos",NA,NA,NA,NA,NA,NA,"Ritalinic acid"
+1627,"Com_9844_pos",NA,NA,NA,NA,NA,NA,"(??)5(6)-DiHET"
+1628,"Com_9846_neg",NA,NA,NA,NA,NA,NA,"7-(4-methylpiperazino)pyrimido[4,5-d]pyrimidine-2,4(1H,3H)-dithione"
+1629,"Com_9857_neg",NA,NA,NA,NA,NA,NA,"3-(2,4-difluoroanilino)-2-(2-thienylsulfonyl)acrylonitrile"
+1630,"Com_9876_pos",NA,NA,NA,NA,NA,NA,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl) alanine"
+1631,"Com_9898_pos",NA,NA,NA,NA,NA,NA,"Diosgenin"
+1632,"Com_99_neg",NA,NA,NA,NA,NA,NA,"trans-10-Heptadecenoic acid"
+1633,"Com_9902_pos",NA,NA,NA,NA,NA,NA,"N,N'-bis(2,6-diisopropylphenyl)carbodiimide"
+1634,"Com_9915_pos",NA,NA,NA,NA,NA,NA,"NNK"
+1635,"Com_9923_neg",NA,NA,NA,NA,NA,NA,"Methyl beta-D-galactopyranoside"
+1636,"Com_9948_pos",NA,NA,NA,NA,NA,NA,"Isobutyryl carnitine"
+1637,"Com_9970_neg",NA,NA,NA,NA,NA,NA,"MGDG (6:0/13:1)"
+1638,"Com_9983_neg",NA,NA,NA,NA,NA,NA,"Lipoxin B4"
+1639,"Com_9989_pos",NA,NA,NA,NA,NA,NA,"1,5-Anhydro-2-O-(6-O-benzoyl-??-L-galactopyranosyl)-D-glucitol"
+1640,"Zotu10","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1641,"Zotu100","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured Caulobacterales bacterium",NA
+1642,"Zotu1006","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1643,"Zotu1007","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1644,"Zotu1009","Latescibacteria","Latescibacteria","Latescibacterales","Latescibacteraceae","metagenome",NA,NA
+1645,"Zotu1010","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Micromonospora",NA,NA
+1646,"Zotu1014","Proteobacteria","Alphaproteobacteria","Rhizobiales","Methyloligellaceae","uncultured","alpha proteobacterium LS7-MT",NA
+1647,"Zotu1015","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","Pir4 lineage",NA,NA
+1648,"Zotu102","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1649,"Zotu1020","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae",NA,NA,NA
+1650,"Zotu1036","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter","uncultured Holophaga sp.",NA
+1651,"Zotu1038","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+1652,"Zotu1039","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp.",NA
+1653,"Zotu1043","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","mle1-7","uncultured Burkholderiales bacterium",NA
+1654,"Zotu1045","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,NA
+1655,"Zotu1047","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter",NA,NA
+1656,"Zotu1048","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","AKYG587","uncultured planctomycete",NA
+1657,"Zotu1049","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter",NA,NA
+1658,"Zotu1052","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","Azospirillum sp. T2-YC6788",NA
+1659,"Zotu1053","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","uncultured prokaryote",NA
+1660,"Zotu1054","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1661,"Zotu1057","Cyanobacteria","Oxyphotobacteria","Nostocales","Nostocaceae","Nostoc PCC-7107","Nostoc spongiaeforme NDUPC007",NA
+1662,"Zotu1059","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1663,"Zotu106","Planctomycetes","Phycisphaerae","Tepidisphaerales",NA,NA,NA,NA
+1664,"Zotu1066","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+1665,"Zotu1067","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","bacterium Ellin517",NA,NA
+1666,"Zotu107","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1667,"Zotu1074","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Blastocatella sp.",NA
+1668,"Zotu1076","Chloroflexi","KD4-96",NA,NA,NA,NA,NA
+1669,"Zotu1078",NA,NA,NA,NA,NA,NA,NA
+1670,"Zotu108","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3",NA
+1671,"Zotu1082","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84","uncultured Acidobacteria bacterium",NA,NA
+1672,"Zotu1083","Acidobacteria","Subgroup 6","uncultured beta proteobacterium",NA,NA,NA,NA
+1673,"Zotu1086","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Luteimonas",NA,NA
+1674,"Zotu1088","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae",NA,NA,NA
+1675,"Zotu109","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+1676,"Zotu1090","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,NA
+1677,"Zotu1091","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetales bacterium",NA,NA
+1678,"Zotu1094","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","mle1-7","uncultured Burkholderiales bacterium",NA
+1679,"Zotu1097","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","uncultured delta proteobacterium",NA,NA
+1680,"Zotu1099","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Kouleothrix",NA,NA
+1681,"Zotu110","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1682,"Zotu1105","Proteobacteria","Alphaproteobacteria",NA,NA,NA,NA,NA
+1683,"Zotu1108","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1684,"Zotu111","Cyanobacteria","Oxyphotobacteria","Oxyphotobacteria Incertae Sedis","Unknown Family","EcFYyy-200",NA,NA
+1685,"Zotu1112","Chloroflexi","Dehalococcoidia","S085",NA,NA,NA,NA
+1686,"Zotu1114","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter",NA,NA
+1687,"Zotu1115","Proteobacteria","Deltaproteobacteria","Myxococcales","bacteriap25","uncultured Myxococcales bacterium",NA,NA
+1688,"Zotu113","Acidobacteria","Blastocatellia (Subgroup 4)","44889","uncultivated soil bacterium clone S111",NA,NA,NA
+1689,"Zotu1131","Firmicutes","Bacilli","Bacillales","Alicyclobacillaceae","Tumebacillus",NA,NA
+1690,"Zotu1133","Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp.",NA
+1691,"Zotu1138","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+1692,"Zotu1139","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+1693,"Zotu1148","Firmicutes","Bacilli","Bacillales","Alicyclobacillaceae","Tumebacillus","uncultured Alicyclobacillus sp.",NA
+1694,"Zotu115","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured soil bacterium",NA,NA
+1695,"Zotu1153","Proteobacteria","Alphaproteobacteria","Micropepsales","Micropepsaceae",NA,NA,NA
+1696,"Zotu1154","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","mle1-7","uncultured Burkholderiales bacterium",NA
+1697,"Zotu1159","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","Hyphomicrobium",NA,NA
+1698,"Zotu116","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultivated soil bacterium clone C105",NA
+1699,"Zotu1161","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","mle1-7","uncultured Burkholderiales bacterium",NA
+1700,"Zotu1167","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured Caulobacterales bacterium",NA
+1701,"Zotu1170","Chloroflexi",NA,NA,NA,NA,NA,NA
+1702,"Zotu1171","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1703,"Zotu1176","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1","uncultured Nitrosomonadales bacterium",NA
+1704,"Zotu118","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","Planctomycetales bacterium Ellin7224",NA,NA
+1705,"Zotu1180",NA,NA,NA,NA,NA,NA,NA
+1706,"Zotu1182","Acidobacteria","Subgroup 5",NA,NA,NA,NA,NA
+1707,"Zotu1193","Acidobacteria","Subgroup 17",NA,NA,NA,NA,NA
+1708,"Zotu1194","Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp.",NA
+1709,"Zotu1195",NA,NA,NA,NA,NA,NA,NA
+1710,"Zotu1198","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+1711,"Zotu1199","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+1712,"Zotu12","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Ensifer",NA,NA
+1713,"Zotu1207","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+1714,"Zotu121","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1715,"Zotu1212","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1716,"Zotu1213","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","LD29","bacterium enrichment culture clone heteroC45_4W",NA
+1717,"Zotu122","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1718,"Zotu1222","Chloroflexi","TK10",NA,NA,NA,NA,NA
+1719,"Zotu1226","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1720,"Zotu123","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1721,"Zotu1232","Chloroflexi","Ktedonobacteria","Ktedonobacterales","JG30-KF-AS9",NA,NA,NA
+1722,"Zotu1234","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Gemmatimonas sp. WX54",NA
+1723,"Zotu1235","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured eubacterium WD283",NA,NA
+1724,"Zotu1237","Cyanobacteria","Oxyphotobacteria","Nostocales","Nostocaceae",NA,NA,NA
+1725,"Zotu124","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1726,"Zotu1251","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1727,"Zotu1254","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","uncultured bacterium DA038",NA,NA
+1728,"Zotu1255","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","uncultured prokaryote",NA
+1729,"Zotu1258","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1730,"Zotu126","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","Nitrospira","uncultured soil bacterium",NA
+1731,"Zotu1264","Acidobacteria","Subgroup 5",NA,NA,NA,NA,NA
+1732,"Zotu127","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","JGI 0001001-H03","uncultured bacterium 164",NA
+1733,"Zotu1273","Actinobacteria","Thermoleophilia","Gaiellales","Gaiellaceae","Gaiella","uncultured Conexibacteraceae bacterium",NA
+1734,"Zotu12744","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1735,"Zotu12772","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+1736,"Zotu1278","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+1737,"Zotu1279","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured Gaiella sp.",NA,NA
+1738,"Zotu128","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ID0634",NA
+1739,"Zotu1283","Elusimicrobia","Lineage IIb","uncultured soil bacterium",NA,NA,NA,NA
+1740,"Zotu1286","Acidobacteria","Blastocatellia (Subgroup 4)","44889","uncultivated soil bacterium clone S111",NA,NA,NA
+1741,"Zotu1293","Acidobacteria","Holophagae","Subgroup 7",NA,NA,NA,NA
+1742,"Zotu1294","Proteobacteria","Alphaproteobacteria",NA,NA,NA,NA,NA
+1743,"Zotu13","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3",NA
+1744,"Zotu130","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1745,"Zotu1301","Armatimonadetes","Fimbriimonadia","Fimbriimonadales",NA,NA,NA,NA
+1746,"Zotu1303","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae",NA,NA,NA
+1747,"Zotu13038","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1748,"Zotu1307","Latescibacteria","metagenome",NA,NA,NA,NA,NA
+1749,"Zotu1309","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","A21b","uncultured delta proteobacterium",NA,NA
+1750,"Zotu1311","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae",NA,NA,NA
+1751,"Zotu1314","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1752,"Zotu1316","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","planctomycete WWH14",NA,NA
+1753,"Zotu1322","Proteobacteria","Alphaproteobacteria","Rhizobiales","KF-JG30-B3",NA,NA,NA
+1754,"Zotu1324","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured bacterium",NA,NA
+1755,"Zotu1337","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured Bacteroidetes bacterium",NA,NA
+1756,"Zotu134","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp.",NA
+1757,"Zotu13412","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+1758,"Zotu1342","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","Ellin6067","uncultured Burkholderia sp.",NA
+1759,"Zotu1344","Bacteroidetes","Bacteroidia","Flavobacteriales","NS9 marine group",NA,NA,NA
+1760,"Zotu135","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1761,"Zotu1350","Actinobacteria","Thermoleophilia","Gaiellales","uncultured","uncultured Firmicutes bacterium",NA,NA
+1762,"Zotu1353","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","bacterium Ellin7504",NA
+1763,"Zotu1359","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+1764,"Zotu136","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA,NA
+1765,"Zotu1368","Chloroflexi","Anaerolineae","uncultured Bellilinea sp.",NA,NA,NA,NA
+1766,"Zotu137","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","Azospirillum sp. T2-YC6788",NA
+1767,"Zotu1370","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1768,"Zotu1375","Proteobacteria","Alphaproteobacteria","Rhizobiales","KF-JG30-B3","uncultured Phyllobacteriaceae bacterium",NA,NA
+1769,"Zotu1378","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","Flavisolibacter sp. LCS15",NA
+1770,"Zotu138","Chloroflexi","KD4-96",NA,NA,NA,NA,NA
+1771,"Zotu1383","Bacteroidetes","Bacteroidia","Cytophagales","Microscillaceae","uncultured",NA,NA
+1772,"Zotu1384","Acidobacteria","Holophagae","Subgroup 7","uncultured Desulfovirga sp.",NA,NA,NA
+1773,"Zotu1385","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Thermomonas",NA,NA
+1774,"Zotu139","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+1775,"Zotu1392","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+1776,"Zotu1398","Actinobacteria","Acidimicrobiia","IMCC26256","bacterium enrichment culture clone auto222_4W",NA,NA,NA
+1777,"Zotu14","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1778,"Zotu1406","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales",NA,NA,NA,NA
+1779,"Zotu1408","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter",NA,NA
+1780,"Zotu1416","Patescibacteria","Saccharimonadia","Saccharimonadales",NA,NA,NA,NA
+1781,"Zotu1417","Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp.",NA
+1782,"Zotu143","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Acidobacteria bacterium 13_2_20CM_56_17",NA
+1783,"Zotu1440","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1784,"Zotu146","Proteobacteria","Gammaproteobacteria","Gammaproteobacteria Incertae Sedis","Unknown Family","Acidibacter","Punica granatum (pomegranate)",NA
+1785,"Zotu14642","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","JGI 0001001-H03","uncultured bacterium 164",NA
+1786,"Zotu1465","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae","Fimbriiglobus","Gemmata sp. Br1-2",NA
+1787,"Zotu1478","Latescibacteria","uncultured soil bacterium",NA,NA,NA,NA,NA
+1788,"Zotu14864","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+1789,"Zotu150","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Pseudoxanthomonas",NA,NA
+1790,"Zotu1504","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","bacterium BAB-2943",NA
+1791,"Zotu151","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1792,"Zotu1510","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+1793,"Zotu1525","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Hirschia","uncultured Rhizobiaceae bacterium",NA
+1794,"Zotu15258","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1795,"Zotu154","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured sludge bacterium S14",NA,NA
+1796,"Zotu1540","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Gemmatimonadetes bacterium WWH5",NA
+1797,"Zotu1547","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured bacterium PHOS-HE51",NA,NA
+1798,"Zotu156","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Kitasatospora",NA,NA
+1799,"Zotu1560","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1800,"Zotu157","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,NA
+1801,"Zotu1575","Proteobacteria","Deltaproteobacteria","Myxococcales","Vulgatibacteraceae","Vulgatibacter","uncultured Hyalangium sp.",NA
+1802,"Zotu1577","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae",NA,NA,NA
+1803,"Zotu15827","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Acidobacteriales bacterium",NA
+1804,"Zotu1591","Rokubacteria","NC10","Rokubacteriales","uncultured soil bacterium",NA,NA,NA
+1805,"Zotu1597","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae",NA,NA,NA
+1806,"Zotu160","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Hamadaea",NA,NA
+1807,"Zotu1607","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1808,"Zotu1613","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1809,"Zotu162","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter","uncultured Holophaga sp.",NA
+1810,"Zotu16362","Firmicutes","Bacilli","Bacillales","Bacillaceae",NA,NA,NA
+1811,"Zotu1647","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,NA
+1812,"Zotu165","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1813,"Zotu1650","Gemmatimonadetes","S0134 terrestrial group","uncultured Gemmatimonadales bacterium",NA,NA,NA,NA
+1814,"Zotu1653","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+1815,"Zotu166","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter","uncultured Luteolibacter sp.",NA
+1816,"Zotu167","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+1817,"Zotu168","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Blastocatella sp.",NA
+1818,"Zotu1684","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae",NA,NA,NA
+1819,"Zotu16847","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1820,"Zotu1689","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,NA
+1821,"Zotu1697","Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp.",NA
+1822,"Zotu170","Chloroflexi","Anaerolineae","SBR1031","A4b",NA,NA,NA
+1823,"Zotu17061","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1824,"Zotu1707","Chloroflexi","KD4-96","uncultured Longilinea sp.",NA,NA,NA,NA
+1825,"Zotu17093","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1826,"Zotu171","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp.",NA
+1827,"Zotu1714","Chloroflexi","Ktedonobacteria","Ktedonobacterales","JG30-KF-AS9",NA,NA,NA
+1828,"Zotu172","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1829,"Zotu1720","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1830,"Zotu173","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiales Incertae Sedis","Nordella","Nordella oligomobilis",NA
+1831,"Zotu174","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1832,"Zotu175","Planctomycetes","Phycisphaerae","Tepidisphaerales",NA,NA,NA,NA
+1833,"Zotu1752","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","Planctomycetales bacterium Ellin7224",NA,NA
+1834,"Zotu1755","Planctomycetes","OM190",NA,NA,NA,NA,NA
+1835,"Zotu1757","Bacteroidetes","Ignavibacteria","SJA-28","uncultured bacterium PHOS-HC15",NA,NA,NA
+1836,"Zotu17692","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1837,"Zotu17715","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Ferruginibacter","uncultured Niastella sp.",NA
+1838,"Zotu17733","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1839,"Zotu178","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","Blastocatella","uncultured Terriglobus sp.",NA
+1840,"Zotu1781","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Cohnella",NA,NA
+1841,"Zotu1787","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae",NA,NA,NA
+1842,"Zotu1790","Acidobacteria","Subgroup 5","uncultured bacterium 17F9",NA,NA,NA,NA
+1843,"Zotu1792","Acidobacteria","Subgroup 25","uncultured soil bacterium",NA,NA,NA,NA
+1844,"Zotu18","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1845,"Zotu18074","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+1846,"Zotu181","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Phenylobacterium",NA,NA
+1847,"Zotu1811","Acidobacteria","Subgroup 17","uncultured bacterium 293",NA,NA,NA,NA
+1848,"Zotu1813","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","uncultured Blastocatella sp.",NA
+1849,"Zotu182","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetales bacterium",NA,NA
+1850,"Zotu183","Planctomycetes","Phycisphaerae","Tepidisphaerales",NA,NA,NA,NA
+1851,"Zotu1830","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+1852,"Zotu1832","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Acidobacteria bacterium 13_2_20CM_56_17",NA
+1853,"Zotu184","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae",NA,NA,NA
+1854,"Zotu1841","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1855,"Zotu185","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1856,"Zotu1854","Acidobacteria","Holophagae","Subgroup 7","uncultured Desulfuromonadales bacterium",NA,NA,NA
+1857,"Zotu186","Acidobacteria","Acidobacteriia","Subgroup 13","uncultured Solibacterales bacterium",NA,NA,NA
+1858,"Zotu18638","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1859,"Zotu187","Cyanobacteria","Oxyphotobacteria","Nostocales","Coleofasciculaceae","Microcoleus Es-Yyy1400","Microcoleus paludosus Es_Yyy1400",NA
+1860,"Zotu188","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1861,"Zotu1880","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1862,"Zotu1887","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,NA
+1863,"Zotu19","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1864,"Zotu190","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+1865,"Zotu19051","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1866,"Zotu191","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1867,"Zotu1914","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","uncultured","uncultured Catellatospora sp.",NA
+1868,"Zotu193","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+1869,"Zotu19315","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1870,"Zotu1937","Bacteroidetes","Bacteroidia","Cytophagales",NA,NA,NA,NA
+1871,"Zotu196","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured Caldilineales bacterium",NA,NA
+1872,"Zotu1968","Acidobacteria","Subgroup 6","unidentified",NA,NA,NA,NA
+1873,"Zotu1969","Chloroflexi","Anaerolineae","uncultured Bellilinea sp.",NA,NA,NA,NA
+1874,"Zotu198","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured",NA,NA
+1875,"Zotu1981","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1",NA,NA
+1876,"Zotu1984","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1877,"Zotu199","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+1878,"Zotu1991","Chloroflexi","TK10","uncultured beta proteobacterium",NA,NA,NA,NA
+1879,"Zotu1996","Acidobacteria","Subgroup 6","uncultured bacterium DA023",NA,NA,NA,NA
+1880,"Zotu2","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA,NA
+1881,"Zotu200","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1882,"Zotu2007","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1883,"Zotu201","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1884,"Zotu20297","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+1885,"Zotu2035","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter",NA,NA
+1886,"Zotu2043",NA,NA,NA,NA,NA,NA,NA
+1887,"Zotu2065","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+1888,"Zotu20723","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas","Terrimonas sp. M1-33108",NA
+1889,"Zotu209","Chloroflexi","Ktedonobacteria","C0119","uncultured soil bacterium",NA,NA,NA
+1890,"Zotu2100","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1891,"Zotu2109","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","Acidobacteria bacterium Ac_16_C4",NA
+1892,"Zotu211","Actinobacteria","Actinobacteria","Propionibacteriales","Nocardioidaceae","Kribbella",NA,NA
+1893,"Zotu2110","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1894,"Zotu212","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","Tellurimicrobium","Tellurimicrobium multivorans",NA
+1895,"Zotu213","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1896,"Zotu214","Acidobacteria","Blastocatellia (Subgroup 4)","44889","metagenome",NA,NA,NA
+1897,"Zotu2146","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","bacterium Ellin5102",NA
+1898,"Zotu218","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1899,"Zotu2206","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1900,"Zotu2235","Chloroflexi","Ktedonobacteria","Ktedonobacterales","JG30-KF-AS9","uncultured bacterium",NA,NA
+1901,"Zotu224","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1902,"Zotu225","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1903,"Zotu2273","Acidobacteria","Subgroup 17",NA,NA,NA,NA,NA
+1904,"Zotu228","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter",NA,NA
+1905,"Zotu229","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+1906,"Zotu23","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+1907,"Zotu231","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1908,"Zotu232","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)",NA,NA,NA
+1909,"Zotu233","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","uncultured subdivision 3 bacterium",NA,NA
+1910,"Zotu234","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+1911,"Zotu235","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flaviaesturariibacter","uncultured soil bacterium",NA
+1912,"Zotu236","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+1913,"Zotu237","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,NA
+1914,"Zotu238","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter","uncultured Spartobacteria bacterium",NA
+1915,"Zotu239","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+1916,"Zotu24","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1917,"Zotu242","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+1918,"Zotu244","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. Z2-YC6855",NA
+1919,"Zotu245","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+1920,"Zotu247","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41","Acidobacteria bacterium WWH8",NA
+1921,"Zotu248","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1922,"Zotu249","Proteobacteria","Gammaproteobacteria","Gammaproteobacteria Incertae Sedis","Unknown Family","Acidibacter","Punica granatum (pomegranate)",NA
+1923,"Zotu250","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured Caulobacterales bacterium",NA
+1924,"Zotu251","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+1925,"Zotu252","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+1926,"Zotu2528","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus",NA,NA
+1927,"Zotu254","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","Planctomycetales bacterium Ellin7224",NA,NA
+1928,"Zotu256","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","bacterium Ellin517",NA,NA
+1929,"Zotu2567","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter","uncultured Holophaga sp.",NA
+1930,"Zotu257","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Bradyrhizobium",NA,NA
+1931,"Zotu2579","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Rhodanobacteraceae",NA,NA,NA
+1932,"Zotu258","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter","uncultured Luteolibacter sp.",NA
+1933,"Zotu26","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",NA,NA
+1934,"Zotu260","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+1935,"Zotu261","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","uncultured Sphingomonadales bacterium",NA
+1936,"Zotu2624","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","SM1A02","metagenome",NA
+1937,"Zotu263","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Kouleothrix","uncultured Chloroflexus sp.",NA
+1938,"Zotu265","Proteobacteria","Alphaproteobacteria","Rhizobiales","Devosiaceae","Devosia",NA,NA
+1939,"Zotu267","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","Ellin6067","uncultured Burkholderia sp.",NA
+1940,"Zotu268","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1941,"Zotu269","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1942,"Zotu27","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1943,"Zotu270","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","AKYG587","uncultured planctomycete",NA
+1944,"Zotu2701","Latescibacteria",NA,NA,NA,NA,NA,NA
+1945,"Zotu271","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+1946,"Zotu272","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+1947,"Zotu2725","Planctomycetes","OM190","uncultured Crater Lake bacterium CL500-15",NA,NA,NA,NA
+1948,"Zotu2730","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1949,"Zotu274","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia",NA,NA
+1950,"Zotu276","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+1951,"Zotu277","Chloroflexi","Anaerolineae","Anaerolineales","Anaerolineaceae",NA,NA,NA
+1952,"Zotu278","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1953,"Zotu280","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+1954,"Zotu2800","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1955,"Zotu281","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+1956,"Zotu283","Proteobacteria","Alphaproteobacteria","Rhizobiales","Hyphomicrobiaceae","Pedomicrobium","uncultured Pedomicrobium sp.",NA
+1957,"Zotu287","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1958,"Zotu29","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+1959,"Zotu290","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+1960,"Zotu292","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1",NA,NA
+1961,"Zotu296","Firmicutes","Bacilli","Bacillales","Alicyclobacillaceae","Tumebacillus","uncultured Alicyclobacillaceae bacterium",NA
+1962,"Zotu298","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+1963,"Zotu299","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured",NA,NA
+1964,"Zotu301","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured",NA,NA
+1965,"Zotu304","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured bacterium PHOS-HE51",NA,NA
+1966,"Zotu307","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1967,"Zotu308","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1968,"Zotu309","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1969,"Zotu310","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1970,"Zotu311","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetales bacterium",NA,NA
+1971,"Zotu314","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","bacterium Ellin6505",NA
+1972,"Zotu3150","Latescibacteria",NA,NA,NA,NA,NA,NA
+1973,"Zotu318","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+1974,"Zotu319","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured",NA,NA
+1975,"Zotu32","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+1976,"Zotu322","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+1977,"Zotu325","Chloroflexi","Anaerolineae","SBR1031","A4b",NA,NA,NA
+1978,"Zotu326","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1979,"Zotu330","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+1980,"Zotu332","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1981,"Zotu333","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp.",NA
+1982,"Zotu334","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1983,"Zotu335","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+1984,"Zotu336","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1985,"Zotu338","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+1986,"Zotu3400","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+1987,"Zotu341","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+1988,"Zotu342","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+1989,"Zotu343","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1",NA,NA
+1990,"Zotu3449","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+1991,"Zotu345","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+1992,"Zotu346",NA,NA,NA,NA,NA,NA,NA
+1993,"Zotu3468","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. LP8",NA
+1994,"Zotu347","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","uncultured","Ambiguous_taxa",NA
+1995,"Zotu351","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys",NA,NA
+1996,"Zotu3512","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+1997,"Zotu352","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","AKYG587","uncultured planctomycete",NA
+1998,"Zotu355",NA,NA,NA,NA,NA,NA,NA
+1999,"Zotu357","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter","uncultured Spartobacteria bacterium",NA
+2000,"Zotu3596","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2001,"Zotu36","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","JGI 0001001-H03","uncultured bacterium 164",NA
+2002,"Zotu361","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3",NA
+2003,"Zotu362","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia",NA,NA
+2004,"Zotu363","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","bacterium Ellin5102",NA
+2005,"Zotu364","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1",NA,NA
+2006,"Zotu367","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84","uncultured Acidobacteria bacterium",NA,NA
+2007,"Zotu37","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+2008,"Zotu370","Bacteroidetes","Ignavibacteria","OPB56","uncultured bacterium KF-JG30-B11",NA,NA,NA
+2009,"Zotu371","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+2010,"Zotu372","Proteobacteria","Deltaproteobacteria","Myxococcales","Haliangiaceae","Haliangium",NA,NA
+2011,"Zotu373","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2012,"Zotu375","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetaceae bacterium",NA,NA
+2013,"Zotu376","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+2014,"Zotu377","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","uncultured","uncultured Chloroflexaceae bacterium",NA
+2015,"Zotu378","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2016,"Zotu38","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+2017,"Zotu381","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2018,"Zotu382","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured sludge bacterium S14",NA,NA
+2019,"Zotu385","Actinobacteria","Thermoleophilia","Gaiellales","Gaiellaceae","Gaiella","actinobacterium WWH12",NA
+2020,"Zotu3853","Chloroflexi","Ktedonobacteria","Ktedonobacterales","JG30-KF-AS9","uncultured bacterium",NA,NA
+2021,"Zotu388","Chloroflexi","Ktedonobacteria","C0119","uncultured candidate division SAM bacterium",NA,NA,NA
+2022,"Zotu389","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","bacterium Ellin5102",NA
+2023,"Zotu393","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2024,"Zotu395","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2025,"Zotu396","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2026,"Zotu398","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae",NA,NA,NA
+2027,"Zotu399","Planctomycetes","Phycisphaerae","Tepidisphaerales",NA,NA,NA,NA
+2028,"Zotu405","Actinobacteria","Actinobacteria","Pseudonocardiales","Pseudonocardiaceae",NA,NA,NA
+2029,"Zotu406","Actinobacteria","Actinobacteria","Micrococcales","Intrasporangiaceae",NA,NA,NA
+2030,"Zotu408","Acidobacteria","Blastocatellia (Subgroup 4)","44889","metagenome",NA,NA,NA
+2031,"Zotu410",NA,NA,NA,NA,NA,NA,NA
+2032,"Zotu411","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured Caldilineales bacterium",NA,NA
+2033,"Zotu412","Patescibacteria","Berkelbacteria","uncultured bacterium",NA,NA,NA,NA
+2034,"Zotu414","Bacteroidetes","Bacteroidia","Cytophagales","Microscillaceae","uncultured","uncultured Cytophagia bacterium",NA
+2035,"Zotu415","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+2036,"Zotu416","Chloroflexi","Chloroflexia","Chloroflexales","Chloroflexaceae",NA,NA,NA
+2037,"Zotu418","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter",NA,NA
+2038,"Zotu419","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas","Gemmatimonadetes bacterium Ellin7146",NA
+2039,"Zotu420","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter",NA,NA
+2040,"Zotu421","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2041,"Zotu422","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+2042,"Zotu425","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae",NA,NA,NA
+2043,"Zotu429","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+2044,"Zotu4298","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus",NA,NA
+2045,"Zotu431","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+2046,"Zotu432","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia",NA,NA
+2047,"Zotu437","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+2048,"Zotu438","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","bacterium Ellin6505",NA
+2049,"Zotu439","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","Ambiguous_taxa",NA,NA
+2050,"Zotu44","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Bradyrhizobium",NA,NA
+2051,"Zotu441","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured bacterium PHOS-HE51",NA,NA
+2052,"Zotu443","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2053,"Zotu445","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1",NA,NA
+2054,"Zotu446","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","bacterium Ellin5102",NA
+2055,"Zotu447","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae",NA,NA,NA
+2056,"Zotu4478","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","OLB17",NA,NA
+2057,"Zotu448","Bacteroidetes","Bacteroidia","Sphingobacteriales",NA,NA,NA,NA
+2058,"Zotu451","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter",NA,NA
+2059,"Zotu452","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2060,"Zotu453","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2061,"Zotu455","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+2062,"Zotu456","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured bacterium",NA,NA
+2063,"Zotu457","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+2064,"Zotu458","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","TRA3-20",NA,NA,NA
+2065,"Zotu459","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","Planctomycetales bacterium Ellin7224",NA,NA
+2066,"Zotu460","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+2067,"Zotu461","Chloroflexi","Anaerolineae","Caldilineales","Caldilineaceae","uncultured bacterium",NA,NA
+2068,"Zotu462","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1",NA,NA
+2069,"Zotu4632","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2070,"Zotu464","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured","uncultured Granulicella sp.",NA
+2071,"Zotu465","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Brevibacillus",NA,NA
+2072,"Zotu467","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. Z2-YC6855",NA
+2073,"Zotu468","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+2074,"Zotu471","Armatimonadetes","Chthonomonadetes","Chthonomonadales",NA,NA,NA,NA
+2075,"Zotu472","Armatimonadetes","Fimbriimonadia","Fimbriimonadales","Fimbriimonadaceae","uncultured Armatimonadetes bacterium",NA,NA
+2076,"Zotu473","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2077,"Zotu475","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+2078,"Zotu476","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","SWB02","uncultured Caulobacterales bacterium",NA
+2079,"Zotu479","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+2080,"Zotu48","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavitalea","Flavitalea gansuensis",NA
+2081,"Zotu481","Proteobacteria","Alphaproteobacteria","Rhizobiales","KF-JG30-B3","uncultured organism",NA,NA
+2082,"Zotu483","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2083,"Zotu487","Acidobacteria","Subgroup 5",NA,NA,NA,NA,NA
+2084,"Zotu489","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2085,"Zotu492","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured sludge bacterium S14",NA,NA
+2086,"Zotu493","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2087,"Zotu494","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured",NA,NA
+2088,"Zotu495","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2089,"Zotu497",NA,NA,NA,NA,NA,NA,NA
+2090,"Zotu5","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2091,"Zotu501","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter",NA,NA
+2092,"Zotu504","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+2093,"Zotu506","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured Caldilineales bacterium",NA,NA
+2094,"Zotu509","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+2095,"Zotu51","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+2096,"Zotu510","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2097,"Zotu512","Acidobacteria","Blastocatellia (Subgroup 4)",NA,NA,NA,NA,NA
+2098,"Zotu514","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","uncultured organism",NA
+2099,"Zotu52","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","planctomycete WWH14",NA,NA
+2100,"Zotu520","Acidobacteria","Subgroup 6","uncultured bacterium 259",NA,NA,NA,NA
+2101,"Zotu522","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured sludge bacterium S14",NA,NA
+2102,"Zotu524",NA,NA,NA,NA,NA,NA,NA
+2103,"Zotu525","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Hamadaea",NA,NA
+2104,"Zotu527",NA,NA,NA,NA,NA,NA,NA
+2105,"Zotu529","Chloroflexi",NA,NA,NA,NA,NA,NA
+2106,"Zotu53","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2107,"Zotu530","Bacteroidetes","Bacteroidia","Chitinophagales","Saprospiraceae","Phaeodactylibacter","uncultured Haliscomenobacter sp.",NA
+2108,"Zotu534","Chloroflexi","Ktedonobacteria","Ktedonobacterales","JG30-KF-AS9","uncultured bacterium",NA,NA
+2109,"Zotu535","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","Pir4 lineage",NA,NA
+2110,"Zotu537","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","Aridibacter",NA,NA
+2111,"Zotu539","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2112,"Zotu54","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+2113,"Zotu540","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2114,"Zotu542","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2115,"Zotu543","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","bacterium Ellin6505",NA
+2116,"Zotu545","Proteobacteria","Gammaproteobacteria","CCD24",NA,NA,NA,NA
+2117,"Zotu548","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","uncultured Acetobacteraceae bacterium",NA
+2118,"Zotu549","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae",NA,NA,NA
+2119,"Zotu55","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2120,"Zotu551","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2121,"Zotu553","Chloroflexi","Chloroflexia","Chloroflexales","Chloroflexaceae",NA,NA,NA
+2122,"Zotu554","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2123,"Zotu555","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter","uncultured Holophaga sp.",NA
+2124,"Zotu556","Armatimonadetes","Fimbriimonadia","Fimbriimonadales","Fimbriimonadaceae","uncultured Armatimonadetes bacterium",NA,NA
+2125,"Zotu559","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2126,"Zotu56","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+2127,"Zotu561","Proteobacteria","Gammaproteobacteria","Gammaproteobacteria Incertae Sedis","Unknown Family","Acidibacter",NA,NA
+2128,"Zotu564","Proteobacteria","Alphaproteobacteria","uncultured","uncultured Acetobacteraceae bacterium",NA,NA,NA
+2129,"Zotu571","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured eubacterium WD283",NA,NA
+2130,"Zotu572","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","OLB17","uncultured Acidobacteria bacterium",NA
+2131,"Zotu574","Proteobacteria","Alphaproteobacteria","Caulobacterales","Caulobacteraceae","Phenylobacterium",NA,NA
+2132,"Zotu576","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2133,"Zotu582","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Luedemannella","Luedemannella sp. 119-1-07",NA
+2134,"Zotu585","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured eubacterium WD283",NA,NA
+2135,"Zotu59","Proteobacteria","Alphaproteobacteria","Micropepsales","Micropepsaceae","uncultured",NA,NA
+2136,"Zotu591","Firmicutes","Bacilli","Bacillales",NA,NA,NA,NA
+2137,"Zotu592","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured bacterium",NA,NA
+2138,"Zotu593","Acidobacteria","Blastocatellia (Subgroup 4)","44889","uncultivated soil bacterium clone S111",NA,NA,NA
+2139,"Zotu594",NA,NA,NA,NA,NA,NA,NA
+2140,"Zotu595","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2141,"Zotu597","Planctomycetes","Phycisphaerae","Tepidisphaerales","Tepidisphaeraceae","uncultured planctomycete",NA,NA
+2142,"Zotu60","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3",NA
+2143,"Zotu600","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2144,"Zotu601","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,NA
+2145,"Zotu607","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Nitrosomonadaceae","MND1","uncultured proteobacterium",NA
+2146,"Zotu608","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","UTBCD1",NA,NA
+2147,"Zotu609",NA,NA,NA,NA,NA,NA,NA
+2148,"Zotu61","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2149,"Zotu610","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2150,"Zotu611","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","Flavisolibacter sp. LCS15",NA
+2151,"Zotu6119","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2152,"Zotu613","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2153,"Zotu619","Nitrospirae","Nitrospira","Nitrospirales","Nitrospiraceae","Nitrospira","uncultured organism",NA
+2154,"Zotu621","Proteobacteria","Alphaproteobacteria","Reyranellales","Reyranellaceae","Reyranella",NA,NA
+2155,"Zotu622","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae","Gemmata","Gemmata-like str. CJuql4",NA
+2156,"Zotu627","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Terrimonas",NA,NA
+2157,"Zotu628","Proteobacteria","Deltaproteobacteria","Myxococcales",NA,NA,NA,NA
+2158,"Zotu63","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+2159,"Zotu630","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+2160,"Zotu633","Latescibacteria","uncultured soil bacterium",NA,NA,NA,NA,NA
+2161,"Zotu634","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2162,"Zotu637","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2163,"Zotu638","Planctomycetes","Phycisphaerae","Tepidisphaerales","CPla-3 termite group","metagenome",NA,NA
+2164,"Zotu639","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)",NA,NA,NA
+2165,"Zotu641","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured sludge bacterium S14",NA,NA
+2166,"Zotu649","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+2167,"Zotu65","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Micromonospora",NA,NA
+2168,"Zotu653","Cyanobacteria","Oxyphotobacteria","Oxyphotobacteria Incertae Sedis","Unknown Family","EcFYyy-200",NA,NA
+2169,"Zotu657","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","uncultured","uncultured Chloroflexaceae bacterium",NA
+2170,"Zotu660","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Rhodoplanes",NA,NA
+2171,"Zotu661","Proteobacteria","Gammaproteobacteria","Diplorickettsiales","Diplorickettsiaceae","Aquicella",NA,NA
+2172,"Zotu662","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,NA
+2173,"Zotu665","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Rhodanobacteraceae","Rudaea",NA,NA
+2174,"Zotu666","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Acidobacteria bacterium 13_2_20CM_56_17",NA
+2175,"Zotu667","Chloroflexi","Chloroflexia","Chloroflexales","Roseiflexaceae","Kouleothrix",NA,NA
+2176,"Zotu668","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+2177,"Zotu669","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,NA
+2178,"Zotu670","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured eubacterium WD283",NA,NA
+2179,"Zotu675","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2180,"Zotu678","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+2181,"Zotu68","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured","uncultured Terrimonas sp.",NA
+2182,"Zotu680","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae","Gemmata",NA,NA
+2183,"Zotu682","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae","Catellatospora",NA,NA
+2184,"Zotu683","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+2185,"Zotu684","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiales Incertae Sedis","Nordella","Nordella oligomobilis",NA
+2186,"Zotu69","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2187,"Zotu692","Acidobacteria","Acidobacteriia","Subgroup 2",NA,NA,NA,NA
+2188,"Zotu693","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetales bacterium",NA,NA
+2189,"Zotu695","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae","Gemmata","Gemmata-like str. CJuql4",NA
+2190,"Zotu696","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured Planctomycetaceae bacterium",NA,NA
+2191,"Zotu698","Verrucomicrobia","Verrucomicrobiae","Opitutales","Opitutaceae",NA,NA,NA
+2192,"Zotu70","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+2193,"Zotu700","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiales Incertae Sedis","Bauldia","uncultured proteobacterium",NA
+2194,"Zotu701","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2195,"Zotu703","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2196,"Zotu705","Armatimonadetes","Fimbriimonadia","Fimbriimonadales","Fimbriimonadaceae",NA,NA,NA
+2197,"Zotu707","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1","uncultured prokaryote",NA
+2198,"Zotu709","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","bacterium Ellin517",NA,NA
+2199,"Zotu710","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces",NA,NA
+2200,"Zotu711","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+2201,"Zotu714","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","uncultured",NA,NA
+2202,"Zotu715","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","Pirellula","uncultured Pasteuria sp.",NA
+2203,"Zotu717","Acidobacteria","Acidobacteriia","Subgroup 2","uncultured Acidobacteriaceae bacterium",NA,NA,NA
+2204,"Zotu719",NA,NA,NA,NA,NA,NA,NA
+2205,"Zotu720","Chloroflexi","Anaerolineae","SBR1031","A4b","uncultured bacterium",NA,NA
+2206,"Zotu721","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+2207,"Zotu726","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+2208,"Zotu727","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+2209,"Zotu73","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,NA
+2210,"Zotu732","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Niastella","Niastella gongjuensis",NA
+2211,"Zotu734","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)",NA,NA,NA
+2212,"Zotu740","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+2213,"Zotu742","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2214,"Zotu749","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+2215,"Zotu751","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2216,"Zotu752","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","uncultured","uncultured sludge bacterium A8",NA
+2217,"Zotu753","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group",NA,NA,NA
+2218,"Zotu754","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+2219,"Zotu759","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+2220,"Zotu76","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2221,"Zotu762","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","uncultured","uncultured Acidobacteriales bacterium",NA
+2222,"Zotu764","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","uncultured",NA,NA
+2223,"Zotu765","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","Tellurimicrobium","Tellurimicrobium multivorans",NA
+2224,"Zotu770","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae",NA,NA,NA
+2225,"Zotu774","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter",NA,NA
+2226,"Zotu775","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2227,"Zotu777","Proteobacteria","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","SWB02","uncultured Caulobacterales bacterium",NA
+2228,"Zotu780","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+2229,"Zotu785","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","Gemmatimonas",NA,NA
+2230,"Zotu786",NA,NA,NA,NA,NA,NA,NA
+2231,"Zotu787","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+2232,"Zotu788","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus",NA,NA
+2233,"Zotu790","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae",NA,NA,NA
+2234,"Zotu791","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2235,"Zotu795","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae",NA,NA,NA
+2236,"Zotu798","Latescibacteria",NA,NA,NA,NA,NA,NA
+2237,"Zotu8","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae","Burkholderia-Caballeronia-Paraburkholderia",NA,NA
+2238,"Zotu80","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","Blastocatella","uncultured Terriglobus sp.",NA
+2239,"Zotu802","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2240,"Zotu803","Acidobacteria","Subgroup 6","uncultured Holophagae bacterium",NA,NA,NA,NA
+2241,"Zotu804","Acidobacteria","Blastocatellia (Subgroup 4)","Pyrinomonadales","Pyrinomonadaceae","RB41",NA,NA
+2242,"Zotu806","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter","Lysobacter rhizophilus",NA
+2243,"Zotu807",NA,NA,NA,NA,NA,NA,NA
+2244,"Zotu808","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Acidobacteria bacterium 13_2_20CM_56_17",NA
+2245,"Zotu809","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+2246,"Zotu81","Proteobacteria","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Mesorhizobium",NA,NA
+2247,"Zotu810","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+2248,"Zotu812","Planctomycetes","Phycisphaerae","Phycisphaerales","Phycisphaeraceae","uncultured",NA,NA
+2249,"Zotu814","Latescibacteria","uncultured soil bacterium",NA,NA,NA,NA,NA
+2250,"Zotu815","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1",NA,NA
+2251,"Zotu818","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+2252,"Zotu820","Actinobacteria","Acidimicrobiia","IMCC26256",NA,NA,NA,NA
+2253,"Zotu821","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ID0634",NA
+2254,"Zotu822","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured bacterium",NA,NA,NA
+2255,"Zotu823","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","uncultured proteobacterium",NA
+2256,"Zotu824","Chloroflexi","Anaerolineae","uncultured Bellilinea sp.",NA,NA,NA,NA
+2257,"Zotu827","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae",NA,NA,NA
+2258,"Zotu828","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured soil bacterium",NA,NA
+2259,"Zotu83","Armatimonadetes","Fimbriimonadia","Fimbriimonadales","Fimbriimonadaceae","Armatimonadetes bacterium 55-13",NA,NA
+2260,"Zotu830","Proteobacteria","Alphaproteobacteria","Dongiales","Dongiaceae","Dongia","uncultured Rhodospirillales bacterium",NA
+2261,"Zotu831","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","bacterium Ellin7529",NA,NA
+2262,"Zotu832","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter",NA,NA
+2263,"Zotu833","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,NA
+2264,"Zotu836","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Bryobacter","uncultured Holophaga sp.",NA
+2265,"Zotu839","Patescibacteria","Saccharimonadia","Saccharimonadales",NA,NA,NA,NA
+2266,"Zotu8394","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae",NA,NA,NA
+2267,"Zotu84","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2268,"Zotu840","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter","bacterium Ellin7504",NA
+2269,"Zotu841","Proteobacteria","Deltaproteobacteria",NA,NA,NA,NA,NA
+2270,"Zotu842","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","uncultured proteobacterium",NA
+2271,"Zotu846","Acidobacteria","Acidobacteriia","Acidobacteriales","Acidobacteriaceae (Subgroup 1)","uncultured",NA,NA
+2272,"Zotu847","Acidobacteria","Subgroup 6",NA,NA,NA,NA,NA
+2273,"Zotu848","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2274,"Zotu849","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+2275,"Zotu85","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2276,"Zotu857","Verrucomicrobia","Verrucomicrobiae","Pedosphaerales","Pedosphaeraceae","ADurb.Bin063-1",NA,NA
+2277,"Zotu859","Acidobacteria","Subgroup 6","uncultured bacterium DA023",NA,NA,NA,NA
+2278,"Zotu861","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae",NA,NA,NA
+2279,"Zotu865","Chloroflexi","Anaerolineae","SBR1031","uncultured Gemmatimonadetes bacterium",NA,NA,NA
+2280,"Zotu866","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2281,"Zotu867",NA,NA,NA,NA,NA,NA,NA
+2282,"Zotu869","Proteobacteria","Alphaproteobacteria","Rhizobiales","KF-JG30-B3","uncultured bacterium KF-JG30-B3",NA,NA
+2283,"Zotu872","Bacteroidetes","Bacteroidia","Sphingobacteriales","AKYH767","uncultured Bacteroidetes bacterium",NA,NA
+2284,"Zotu874","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","A21b",NA,NA,NA
+2285,"Zotu876","Acidobacteria","Subgroup 6","uncultured bacterium 259",NA,NA,NA,NA
+2286,"Zotu878","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA
+2287,"Zotu88","Rokubacteria","NC10","Rokubacteriales","uncultured soil bacterium",NA,NA,NA
+2288,"Zotu883","Patescibacteria","Saccharimonadia","Saccharimonadales",NA,NA,NA,NA
+2289,"Zotu888","Proteobacteria","Gammaproteobacteria","Steroidobacterales","Steroidobacteraceae",NA,NA,NA
+2290,"Zotu889","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae",NA,NA,NA
+2291,"Zotu89","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flaviaesturariibacter","uncultured soil bacterium",NA
+2292,"Zotu8916","Acidobacteria","Blastocatellia (Subgroup 4)","Blastocatellales","Blastocatellaceae","JGI 0001001-H03","uncultured bacterium 164",NA
+2293,"Zotu892","Acidobacteria","Thermoanaerobaculia","Thermoanaerobaculales","Thermoanaerobaculaceae","Subgroup 10","uncultured Holophaga sp.",NA
+2294,"Zotu894","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Candidatus Udaeobacter",NA,NA
+2295,"Zotu895","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured","uncultured delta proteobacterium",NA,NA
+2296,"Zotu896","Planctomycetes","Phycisphaerae","Tepidisphaerales","CPla-3 termite group","uncultured soil bacterium PBS-22",NA,NA
+2297,"Zotu897","Actinobacteria","Actinobacteria","Micromonosporales","Micromonosporaceae",NA,NA,NA
+2298,"Zotu9","Bacteroidetes","Bacteroidia","Flavobacteriales","Weeksellaceae","Chryseobacterium",NA,NA
+2299,"Zotu90","Planctomycetes","Phycisphaerae","Tepidisphaerales","WD2101 soil group","uncultured eubacterium WD283",NA,NA
+2300,"Zotu902","Acidobacteria","Acidobacteriia","Acidobacteriales",NA,NA,NA,NA
+2301,"Zotu904","Acidobacteria","Acidobacteriia","Subgroup 2","metagenome",NA,NA,NA
+2302,"Zotu907","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2303,"Zotu91","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2304,"Zotu910","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured","Acidobacteria bacterium 13_2_20CM_56_17",NA
+2305,"Zotu911","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","Burkholderiaceae",NA,NA,NA
+2306,"Zotu913","Chloroflexi","TK10",NA,NA,NA,NA,NA
+2307,"Zotu917","Acidobacteria","Subgroup 5","uncultured Holophaga sp.",NA,NA,NA,NA
+2308,"Zotu919","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","uncultured",NA,NA
+2309,"Zotu92","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2310,"Zotu924","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84",NA,NA,NA
+2311,"Zotu927","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavisolibacter","uncultured Sphingobacteriia bacterium",NA
+2312,"Zotu928","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","uncultured",NA,NA
+2313,"Zotu930","Bacteroidetes","Bacteroidia","Sphingobacteriales",NA,NA,NA,NA
+2314,"Zotu9319","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2315,"Zotu934","Proteobacteria","Alphaproteobacteria","Rhizobiales","Xanthobacteraceae","Pseudolabrys","uncultured Caulobacterales bacterium",NA
+2316,"Zotu935","Gemmatimonadetes","S0134 terrestrial group","uncultured Gemmatimonadales bacterium",NA,NA,NA,NA
+2317,"Zotu937","Gemmatimonadetes","Gemmatimonadetes","Gemmatimonadales","Gemmatimonadaceae","uncultured",NA,NA
+2318,"Zotu938","Acidobacteria","Acidobacteriia","Acidobacteriales","uncultured",NA,NA,NA
+2319,"Zotu94","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2320,"Zotu940","Acidobacteria","Blastocatellia (Subgroup 4)",NA,NA,NA,NA,NA
+2321,"Zotu941","Planctomycetes","Planctomycetacia","Pirellulales","Pirellulaceae","Pirellula",NA,NA
+2322,"Zotu943","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae",NA,NA,NA
+2323,"Zotu946","Acidobacteria","Acidobacteriia","Solibacterales","Solibacteraceae (Subgroup 3)","Candidatus Solibacter",NA,NA
+2324,"Zotu95","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2325,"Zotu957","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Lysobacter",NA,NA
+2326,"Zotu96","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus",NA,NA
+2327,"Zotu961","Bacteroidetes","Bacteroidia","Cytophagales","Microscillaceae","Chryseolinea","uncultured Flexibacter sp.",NA
+2328,"Zotu962","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. ZY-3",NA
+2329,"Zotu965","Firmicutes","Bacilli","Bacillales","Bacillaceae","Geobacillus",NA,NA
+2330,"Zotu967","Planctomycetes","Planctomycetacia","Gemmatales","Gemmataceae",NA,NA,NA
+2331,"Zotu972","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas",NA,NA
+2332,"Zotu974","Firmicutes","Bacilli","Bacillales","Bacillaceae","Geobacillus",NA,NA
+2333,"Zotu976","Proteobacteria","Gammaproteobacteria","Betaproteobacteriales","SC-I-84","uncultured Acidobacteria bacterium",NA,NA
+2334,"Zotu979","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus",NA,NA
+2335,"Zotu985","Bacteroidetes","Bacteroidia","Chitinophagales","Chitinophagaceae","Flavitalea","uncultured Terrimonas sp.",NA
+2336,"Zotu988","Proteobacteria","Gammaproteobacteria","KI89A clade","uncultured organism",NA,NA,NA
+2337,"Zotu994","Verrucomicrobia","Verrucomicrobiae","Chthoniobacterales","Chthoniobacteraceae","Chthoniobacter",NA,NA
+2338,"Zotu995","Actinobacteria","Actinobacteria","Streptomycetales","Streptomycetaceae","Streptomyces",NA,NA

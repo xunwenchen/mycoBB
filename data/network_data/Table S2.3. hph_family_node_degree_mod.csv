@@ -1,0 +1,257 @@
+Family,Accum_node_deg,Treatment
+A21b,5,M
+A4b,35,M
+Acetobacteraceae,2,M
+Acidobacteriaceae (Subgroup 1),21,M
+Acidothermaceae,1,M
+AKYH767,10,M
+Alicyclobacillaceae,51,M
+Ambiguous_taxa,3,M
+Anaerolineaceae,8,M
+Archangiaceae,3,M
+Bacillaceae,173,M
+bacteriap25,2,M
+bacterium enrichment culture clone auto222_4W,0,M
+Beijerinckiaceae,3,M
+BIrii41,0,M
+Blastocatellaceae,33,M
+Burkholderiaceae,27,M
+Caldilineaceae,3,M
+Caulobacteraceae,2,M
+Chitinophagaceae,112,M
+Chloroflexaceae,1,M
+Chthoniobacteraceae,42,M
+Chthonomonadaceae,1,M
+Clostridiaceae 1,3,M
+CPla-3 termite group,9,M
+cvE6,1,M
+Desulfarculaceae,8,M
+Devosiaceae,1,M
+Diplorickettsiaceae,4,M
+Dongiaceae,5,M
+Enterobacteriaceae,1,M
+Fimbriimonadaceae,16,M
+Gaiellaceae,2,M
+Gemmataceae,13,M
+Gemmatimonadaceae,57,M
+groundwater metagenome,0,M
+Haliangiaceae,7,M
+Hymenobacteraceae,0,M
+Hyphomicrobiaceae,4,M
+Hyphomonadaceae,2,M
+Iamiaceae,0,M
+Ilumatobacteraceae,0,M
+Intrasporangiaceae,11,M
+JG30-KF-AS9,13,M
+JG30-KF-CM45,0,M
+KF-JG30-B3,2,M
+Ktedonobacteraceae,7,M
+Latescibacteraceae,0,M
+Leptolyngbyaceae,0,M
+metagenome,3,M
+Methyloligellaceae,3,M
+Microbacteriaceae,1,M
+Micrococcaceae,4,M
+Micromonosporaceae,12,M
+Micropepsaceae,11,M
+Microscillaceae,14,M
+mle1-27,1,M
+Mycobacteriaceae,1,M
+Nannocystaceae,4,M
+Nitrosomonadaceae,19,M
+Nitrospiraceae,8,M
+Nocardioidaceae,11,M
+Nostocaceae,0,M
+NS9 marine group,0,M
+Opitutaceae,4,M
+Paenibacillaceae,64,M
+Paracaedibacteraceae,0,M
+Parachlamydiaceae,1,M
+Pedosphaeraceae,32,M
+Phaselicystidaceae,4,M
+Phycisphaeraceae,7,M
+Pirellulaceae,27,M
+Planococcaceae,0,M
+Polyangiaceae,3,M
+Pseudoalteromonadaceae,0,M
+Pseudomonadaceae,2,M
+Pseudonocardiaceae,4,M
+Pyrinomonadaceae,42,M
+Reyranellaceae,7,M
+Rhizobiaceae,15,M
+Rhizobiales Incertae Sedis,4,M
+Rhodanobacteraceae,5,M
+Rhodocyclaceae,0,M
+Roseiflexaceae,4,M
+Rubinisphaeraceae,2,M
+Rubritaleaceae,2,M
+Sandaracinaceae,0,M
+Saprospiraceae,8,M
+SC-I-84,22,M
+Simkaniaceae,3,M
+Solibacteraceae (Subgroup 3),30,M
+Solirubrobacteraceae,0,M
+Sphingomonadaceae,66,M
+Steroidobacteraceae,13,M
+Streptomycetaceae,6,M
+Streptosporangiaceae,2,M
+Tepidisphaeraceae,0,M
+Thermoactinomycetaceae,2,M
+Thermoanaerobaculaceae,4,M
+TRA3-20,5,M
+uncultivated soil bacterium clone S111,5,M
+uncultured,33,M
+uncultured Acetobacteraceae bacterium,0,M
+uncultured Acidobacteriaceae bacterium,1,M
+uncultured Acidothermaceae bacterium,1,M
+uncultured bacterium,3,M
+uncultured bacterium KF-JG30-B11,2,M
+uncultured bacterium PHOS-HC15,0,M
+uncultured candidate division SAM bacterium,1,M
+uncultured Desulfovirga sp.,1,M
+uncultured Desulfuromonadales bacterium,0,M
+uncultured Epsilonproteobacteria bacterium,5,M
+uncultured Ferrimicrobium sp.,0,M
+uncultured Gemmatimonadetes bacterium,15,M
+uncultured Holophaga sp.,0,M
+uncultured organism,8,M
+uncultured planctomycete,3,M
+uncultured prokaryote,1,M
+uncultured soil bacterium,13,M
+uncultured Solibacterales bacterium,0,M
+Unknown Family,7,M
+Verrucomicrobiaceae,1,M
+Vulgatibacteraceae,0,M
+WD2101 soil group,137,M
+Weeksellaceae,0,M
+Xanthobacteraceae,29,M
+Xanthomonadaceae,11,M
+NA,307,M
+A21b,7,M+Cd
+A4b,80,M+Cd
+Acetobacteraceae,0,M+Cd
+Acidobacteriaceae (Subgroup 1),30,M+Cd
+Acidothermaceae,5,M+Cd
+AKYH767,15,M+Cd
+Alicyclobacillaceae,68,M+Cd
+Ambiguous_taxa,2,M+Cd
+Anaerolineaceae,13,M+Cd
+Archangiaceae,0,M+Cd
+Bacillaceae,243,M+Cd
+bacteriap25,2,M+Cd
+bacterium enrichment culture clone auto222_4W,3,M+Cd
+Beijerinckiaceae,7,M+Cd
+BIrii41,4,M+Cd
+Blastocatellaceae,83,M+Cd
+Burkholderiaceae,106,M+Cd
+Caldilineaceae,7,M+Cd
+Caulobacteraceae,12,M+Cd
+Chitinophagaceae,241,M+Cd
+Chloroflexaceae,1,M+Cd
+Chthoniobacteraceae,43,M+Cd
+Chthonomonadaceae,8,M+Cd
+Clostridiaceae 1,3,M+Cd
+CPla-3 termite group,10,M+Cd
+cvE6,0,M+Cd
+Desulfarculaceae,10,M+Cd
+Devosiaceae,5,M+Cd
+Diplorickettsiaceae,3,M+Cd
+Dongiaceae,10,M+Cd
+Enterobacteriaceae,6,M+Cd
+Fimbriimonadaceae,15,M+Cd
+Gaiellaceae,3,M+Cd
+Gemmataceae,40,M+Cd
+Gemmatimonadaceae,87,M+Cd
+groundwater metagenome,5,M+Cd
+Haliangiaceae,21,M+Cd
+Hymenobacteraceae,1,M+Cd
+Hyphomicrobiaceae,6,M+Cd
+Hyphomonadaceae,11,M+Cd
+Iamiaceae,3,M+Cd
+Ilumatobacteraceae,4,M+Cd
+Intrasporangiaceae,8,M+Cd
+JG30-KF-AS9,12,M+Cd
+JG30-KF-CM45,1,M+Cd
+KF-JG30-B3,8,M+Cd
+Ktedonobacteraceae,0,M+Cd
+Latescibacteraceae,4,M+Cd
+Leptolyngbyaceae,1,M+Cd
+metagenome,16,M+Cd
+Methyloligellaceae,4,M+Cd
+Microbacteriaceae,1,M+Cd
+Micrococcaceae,1,M+Cd
+Micromonosporaceae,46,M+Cd
+Micropepsaceae,8,M+Cd
+Microscillaceae,3,M+Cd
+mle1-27,0,M+Cd
+Mycobacteriaceae,0,M+Cd
+Nannocystaceae,1,M+Cd
+Nitrosomonadaceae,47,M+Cd
+Nitrospiraceae,11,M+Cd
+Nocardioidaceae,8,M+Cd
+Nostocaceae,1,M+Cd
+NS9 marine group,1,M+Cd
+Opitutaceae,4,M+Cd
+Paenibacillaceae,98,M+Cd
+Paracaedibacteraceae,2,M+Cd
+Parachlamydiaceae,2,M+Cd
+Pedosphaeraceae,113,M+Cd
+Phaselicystidaceae,4,M+Cd
+Phycisphaeraceae,32,M+Cd
+Pirellulaceae,51,M+Cd
+Planococcaceae,10,M+Cd
+Polyangiaceae,10,M+Cd
+Pseudoalteromonadaceae,6,M+Cd
+Pseudomonadaceae,0,M+Cd
+Pseudonocardiaceae,0,M+Cd
+Pyrinomonadaceae,97,M+Cd
+Reyranellaceae,5,M+Cd
+Rhizobiaceae,10,M+Cd
+Rhizobiales Incertae Sedis,9,M+Cd
+Rhodanobacteraceae,16,M+Cd
+Rhodocyclaceae,3,M+Cd
+Roseiflexaceae,12,M+Cd
+Rubinisphaeraceae,0,M+Cd
+Rubritaleaceae,0,M+Cd
+Sandaracinaceae,2,M+Cd
+Saprospiraceae,16,M+Cd
+SC-I-84,21,M+Cd
+Simkaniaceae,0,M+Cd
+Solibacteraceae (Subgroup 3),51,M+Cd
+Solirubrobacteraceae,1,M+Cd
+Sphingomonadaceae,102,M+Cd
+Steroidobacteraceae,11,M+Cd
+Streptomycetaceae,17,M+Cd
+Streptosporangiaceae,0,M+Cd
+Tepidisphaeraceae,2,M+Cd
+Thermoactinomycetaceae,1,M+Cd
+Thermoanaerobaculaceae,1,M+Cd
+TRA3-20,13,M+Cd
+uncultivated soil bacterium clone S111,16,M+Cd
+uncultured,93,M+Cd
+uncultured Acetobacteraceae bacterium,4,M+Cd
+uncultured Acidobacteriaceae bacterium,1,M+Cd
+uncultured Acidothermaceae bacterium,0,M+Cd
+uncultured bacterium,4,M+Cd
+uncultured bacterium KF-JG30-B11,2,M+Cd
+uncultured bacterium PHOS-HC15,2,M+Cd
+uncultured candidate division SAM bacterium,3,M+Cd
+uncultured Desulfovirga sp.,3,M+Cd
+uncultured Desulfuromonadales bacterium,6,M+Cd
+uncultured Epsilonproteobacteria bacterium,4,M+Cd
+uncultured Ferrimicrobium sp.,3,M+Cd
+uncultured Gemmatimonadetes bacterium,38,M+Cd
+uncultured Holophaga sp.,6,M+Cd
+uncultured organism,6,M+Cd
+uncultured planctomycete,5,M+Cd
+uncultured prokaryote,2,M+Cd
+uncultured soil bacterium,15,M+Cd
+uncultured Solibacterales bacterium,2,M+Cd
+Unknown Family,17,M+Cd
+Verrucomicrobiaceae,1,M+Cd
+Vulgatibacteraceae,5,M+Cd
+WD2101 soil group,189,M+Cd
+Weeksellaceae,1,M+Cd
+Xanthobacteraceae,72,M+Cd
+Xanthomonadaceae,31,M+Cd
+NA,510,M+Cd
