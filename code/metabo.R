@@ -136,25 +136,20 @@ metabo_df_for_PCoA <- subset(metabo_df0, select = c(3:34))
                                       'Cd', 'Cd', 'Cd', 'Cd'))
      metabo_bc_pcoa_df_trt$trt <- factor(metabo_bc_pcoa_df_trt$trt,
                                          levels = c('Ctrl', 'Cd', 'M', 'M+Cd'))
-     
+
+# Extract the loading scores of the first two axes
+loadings_rhz <- eigenvals(metabo_bc_pcoa)[1:2]*100
+loadings_rhz
+
 p1 <- ggplot(metabo_bc_pcoa_df_trt, aes(x=pcoa1, y=pcoa2, 
                                        color = trt, shape = trt)) +
        geom_point(size = 2) +
-       labs(x = "PC1(52.62%)",
-            y = "PC2 (47.38%)", 
+  labs(x = paste0("PC1 (", round(loadings_rhz[1], 1), "%)"),
+       y = paste0("PC2 (", round(loadings_rhz[2], 1), "%)"), 
             title = "Rhizosphere") +
-  theme(legend.position = 'none')
+  theme(legend.position = 'none')+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))
  
-round((metabo_bc_pcoa$values)*100, 1) # use this to find % explained  
-
-# Extract the loading scores of the first two axes
-loadings <- eigenvals(metabo_bc_pcoa)[1:2]
-
-# Print the loading score of the first two axes
-print(paste0("Loading score of axis 1: ", round(loadings[1]/sum(loadings)*100,2), "%"))
-print(paste0("Loading score of axis 2: ", round(loadings[2]/sum(loadings)*100,2), "%"))
-     
-     
 # ~~~~ metabo PCoA - hyphosphere ----
      
 metabo_df_for_PCoA_hps <- subset(metabo_df0, select = c(35:66))
@@ -176,25 +171,20 @@ metabo_bc_pcoa_df_hps_trt <- cbind(metabo_bc_pcoa_df_hps,
 metabo_bc_pcoa_df_hps_trt$trt <- factor(metabo_bc_pcoa_df_hps_trt$trt,
                                     levels = c('Ctrl', 'Cd', 'M', 'M+Cd'))
 
+# Extract the loading scores of the first two axes
+loadings_hps <- eigenvals(metabo_bc_pcoa_hps)[1:2]
+loadings_hps
+
 p2 <- ggplot(metabo_bc_pcoa_df_hps_trt, aes(x=pcoa1, y=pcoa2, 
                                   color = trt, shape = trt)) +
   geom_point(size = 2) +
-  labs(x = "PC1 (75.34%)",
-       y = "PC2 (24.66%)", 
+  labs(x = paste0("PC1 (", round(loadings_hps[1], 1), "%)"),
+       y = paste0("PC2 (", round(loadings_hps[2], 1), "%)"),
        title = "Hyphosphere") +
   theme(legend.position = c(0.84, 0.65),
         legend.title = element_blank(),
-        legend.box.background = element_rect(colour = "black"))
-
- 
-round((metabo_bc_pcoa_hps$values)*100, 1) # use this to find % explained
-
-# Extract the loading scores of the first two axes
-loadings <- eigenvals(metabo_bc_pcoa_hps)[1:2]
-
-# Print the loading score of the first two axes
-print(paste0("Loading score of axis 1: ", round(loadings[1]/sum(loadings)*100,2), "%"))
-print(paste0("Loading score of axis 2: ", round(loadings[2]/sum(loadings)*100,2), "%"))
+        legend.box.background = element_rect(colour = "black"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))
 
 # ~~~~ Extended Data Fig. 3. The PCoA of metabolome B-C dist ----
 p_metab_pcoa <- ggarrange(p1, p2,

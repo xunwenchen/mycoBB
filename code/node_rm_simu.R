@@ -1662,7 +1662,8 @@ p_simu_rhs <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="weighted" & rmsimu_rs$compar
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Rhizosphere (weighted)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
@@ -1677,7 +1678,8 @@ p_simu_hps <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="weighted" & rmsimu_rs$compar
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Hyphosphere (weighted)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
@@ -1689,7 +1691,8 @@ p_simu_bs <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="weighted" & rmsimu_rs$compart
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Bulk soil (weighted)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme(legend.title = element_blank(),
@@ -1705,7 +1708,7 @@ p_simu_hp <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="weighted" & rmsimu_rs$compart
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Hyphae (weighted)")+
-  scale_color_manual(values = c("#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
@@ -1732,7 +1735,8 @@ p_simu_rhs_uw <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="unweighted" & rmsimu_rs$c
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Rhizosphere (u.w.)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
@@ -1747,7 +1751,8 @@ p_simu_hps_uw <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="unweighted" & rmsimu_rs$c
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Hyphosphere (u.w.)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
@@ -1759,7 +1764,8 @@ p_simu_bs_uw <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="unweighted" & rmsimu_rs$co
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Bulk soil (u.w.)")+
-  scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  # scale_color_manual(values = c("#dfc27d","#a6611a", "#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#bababa","#404040", "#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme(legend.title = element_blank(),
@@ -1775,7 +1781,7 @@ p_simu_hp_uw <- ggplot(rmsimu_rs[rmsimu_rs$weighted=="unweighted" & rmsimu_rs$co
                       ymax = remain.mean + remain.sd),
                   size=0.05)+
   ggtitle("Hyphae (u.w.)")+
-  scale_color_manual(values = c("#80cdc1", "#018571"))+
+  scale_color_manual(values = c("#f4a582", "#ca0020"))+
   xlab("Ratio of node removed")+
   ylab("Ratio of node remained")+
   theme_bw()+
