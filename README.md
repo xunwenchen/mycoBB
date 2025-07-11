@@ -2,7 +2,7 @@
 
 # Exploring bacteria-bacteria interactions in mycorrhizal hyphosphere under abiotic stress
 
-Run in the following order
+Run in the following order. Note that the figure IDs may not match the figure order in the manuscript (MS) as order in the MS has been changed for coherence purpose. The figure IDs here will be updated once the MS is accepted for publication. 
 
 1\. bact_prep.R (Fig. 1)
 
