@@ -6,25 +6,120 @@ plant_data <- read_xlsx('data/plant_data.xlsx')
 plant_data$group <- factor(plant_data$group, levels = c('Ctrl', 'Cd', 'M', 'M+Cd'))
 # plant_data$group <- factor(plant_data$group, levels = c('Ctrl', 'M', 'M+Cd', 'Cd'))
 
+# remove outliers of different parts of shoot cd conc. and calculate the mean and sd of shoot cd conc. for each sample
+plant_data_mut <- plant_data %>%
+  mutate(across(
+    c(IN1_cd, IN2_cd, IN3_cd, IN4_cd, PN_cd, N1_cd, N2_cd, N3_cd, N4_cd),
+    remove_outliers
+  )) %>%
+  mutate(
+    # row-wise mean
+    sht_cd = rowMeans(
+      across(c(IN1_cd, IN2_cd, IN3_cd, IN4_cd, PN_cd, N1_cd, N2_cd, N3_cd, N4_cd)),
+      na.rm = TRUE
+    # ),
+    # # row-wise standard deviation
+    # sht_cd_sd = apply(
+    #   across(c(IN1_cd, IN2_cd, IN3_cd, IN4_cd, PN_cd, N1_cd, N2_cd, N3_cd, N4_cd)),
+    #   1, sd, na.rm = TRUE
+   ))
+
+
+###########################
+
+# t-tests (M vs. M+Cd)
+t.test(rt_cd ~ group, data = plant_data_mut %>% 
+         subset(group %in% c('Cd', 'M+Cd')))
+
+t.test(sht_cd ~ group, data = plant_data_mut %>% 
+         subset(group %in% c('Cd', 'M+Cd')))
+
+t.test(grain_cd ~ group, data = plant_data_mut %>% 
+         subset(group %in% c('Cd', 'M+Cd')))
+
+p_rt_cd <- plant_data_mut %>% 
+  subset(group %in% c('Cd', 'M+Cd')) %>% 
+  plot_box(x = group, y = rt_cd)+
+  geom_jitter(alpha = 0.4, width = 0.1)+
+  
+  xlab('Treatment')+
+  ylab('Root Cd conc. (mg/kg)')+
+  stat_compare_means(comparisons = list(c("Cd", "M+Cd")), 
+                     method = "t.test", label = "p.signif",
+                     label.y = max(plant_data_mut$rt_cd, na.rm = TRUE) * 1.05)+
+  ylim(15, 55)
+
+p_sht_cd <- plant_data_mut %>%
+  subset(group %in% c('Cd', 'M+Cd')) %>% 
+  plot_box(x = group, y = sht_cd)+
+  geom_jitter(alpha = 0.4, width = 0.1)+
+  xlab('Treatment')+
+  ylab('Shoot Cd conc. (mg/kg)')+
+  stat_compare_means(comparisons = list(c("Cd", "M+Cd")), 
+                     method = "t.test", label = "p.signif",
+                     label.y = max(plant_data_mut$sht_cd, na.rm = TRUE) * 1.05)+
+  ylim(6, 20)
+
+p_grain_cd <- plant_data_mut %>%
+  subset(group %in% c('Cd', 'M+Cd')) %>%
+  plot_box(x = group, y = grain_cd)+
+  geom_jitter(alpha = 0.4, width = 0.1)+
+  xlab('Treatment')+
+  ylab('Grain Cd conc. (mg/kg)')+
+  stat_compare_means(comparisons = list(c("Cd", "M+Cd")), 
+                     method = "t.test", label = "p.signif",
+                     label.y = max(plant_data_mut$grain_cd, na.rm = TRUE) * 1.05)+
+  ylim(1.5, 3)
+
+p_cd_summ <- ggarrange(p_rt_cd, p_sht_cd, p_grain_cd,
+          # labels = c('a', 'b', 'c'),
+          nrow = 1, ncol = 3)
+
+p_cd_summ
+
+
+
 #################################################
 
 # Plant traits, AMF colonization ----
 # use own function(s) to plot
-p1 <- plot_box(plant_data, group, colonization_rate, HM)+
+p1 <- plot_box(plant_data, group, colonization_rate)+
   xlab('Treatment')+
-  ylab('Colonization rate (%)')+geom_jitter(alpha = 0.4)
-
+  ylab('AM colonization rate (%)')+geom_jitter(alpha = 0.4, width = 0.1)+
+  # annotate Ctrl, Cd, M, M+Cd and y = 45% as c, c, a, b
+  annotate("text", y = 48, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("c", "c", "a", "b"))
+  
 p2 <- plot_box(plant_data, group, plant_height)+
   xlab('Treatment')+
-  ylab('Plant height (cm)')+geom_jitter(alpha = 0.4)
+  ylab('Plant height (cm)')+geom_jitter(alpha = 0.4, width = 0.1)+
+  annotate("text", y = 116, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("b", "b", "a", "a"))
 
 p3 <- plot_box(plant_data, group, sht_dry_mass)+
   xlab('Treatment')+
-  ylab('Shoot dry mass (g/pot)')+geom_jitter(alpha = 0.4)
+  ylab('Shoot dry mass (g/pot)')+geom_jitter(alpha = 0.4, width = 0.1)+
+  annotate("text", y = 52, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("a", "ab", "a", "b"))
 
 p4 <- plot_box(plant_data, group, grain_dry_mass)+
   xlab('Treatment')+
-  ylab('Grain yield (g/pot DW)')+geom_jitter(alpha = 0.4)
+  ylab('Grain yield (g/pot)')+geom_jitter(alpha = 0.4, width = 0.1)+
+  annotate("text", y = 17.5, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("ab", "b", "a", "a"))
+
+# ~~~~~~ Fig. AM col, shoot dry mass, grain dry mass, and p_cd_summ ----
+plant_trait_plot2 <- ggarrange(p1, p3, p4, p_cd_summ,
+          labels = c("a", "b", "c", "d"),
+          ncol = 2, nrow = 2)
+plant_trait_plot2
+# save plot
+save <- TRUE
+if(save){
+ggsave('out/plant_trait_plot2.pdf', plot = plant_trait_plot2, width = 88*2.1, height = 66*2, units = "mm")
+ggsave('out/plant_trait_plot2.jpg', plot = plant_trait_plot2, width = 88*2.1, height = 66*2, units = "mm")
+}
+
 
 # ~~~~~~ Fig. S2. AM fungal colonization rate and plant biomass ----
 
@@ -193,7 +288,9 @@ soil_data_rzs <- soil_data %>%
   subset(compartment == 'Rhizosphere')
 anova_rzs_EP <- aov(EP~group2, data = soil_data_rzs)
 summary(anova_rzs_EP)
-HSD.test(anova_rzs_EP, 'group2', console=TRUE)
+
+TukeyHSD(anova_rzs_EP)
+HSD.test(anova_rzs_EP, 'group2', console=T)
 
 # EP groups
 # Cd   185.8287      a
@@ -263,6 +360,19 @@ HSD.test(anova_bulk_EP, 'group2', console=TRUE)
 #        w = 88*2, h = 66*2, units = 'mm')
 # ggsave('out/soil_EP.jpg',
 #        w = 88*2, h = 66*2, units = 'mm')
+
+# ~~~ soil pH ----
+
+p_pH <- soil_data %>%
+  subset(group2 %in% c('Cd', 'M+Cd')) %>%
+  #subset(compartment %in% 'Rhizosphere') %>% 
+  plot_box(x = group2, y = pH)+
+  geom_jitter(alpha = 0.4, width = 0.1)+
+  xlab('Treatment')+
+  ylab('Soil pH')+
+  facet_wrap(~compartment)+
+  stat_compare_means(comparisons = list(c("Cd", "M+Cd")), 
+                     method = "t.test", label = "p.signif")
 
 
 # Plant traits ----

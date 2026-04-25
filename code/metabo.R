@@ -643,6 +643,59 @@ write.csv(zotu_COR_com_hps_M_Cd_node,"data/metabo_data/zotu_COR_com_hps_M_Cd_nod
 
 write.csv(zotu_COR_com_hps_M_Cd_edge,"data/metabo_data/zotu_COR_com_hps_M_Cd_edge.csv", row.names = FALSE)
 
+# Based on DESeq2 results, we can also select differentially abundant ASVs and then construct the bacteria-metabo network by only using those ASVs. 
+
+# subset Hyphosphere - M+Cd samples from the phyloseq object
+pl_hps_M_Cd <- subset_samples(pl_un_rarefied, Compartment == 'Hyphosphere' & Group == 'M+Cd')
+# Confirm "Family" is one of the ranks
+rank_names(pl_hps_M_Cd)
+# Define the 18 families you want to keep
+target_families <- c("Microbacteriaceae", 
+                     "Corynebacteriaceae", "Propionibacteriaceae",
+                     "Streptomycetaceae", "Staphylococcaceae", 
+                     "Streptococcaceae", "Lactobacillaceae", 
+                     "Bacillaceae", "BIrii41", "Haliangiaceae",
+                     "Enterobacteriaceae", "Pseudomonadaceae", 
+                     "Caulobacteraceae", "Burkholderiaceae", 
+                     "Sphingomonadaceae", "Devosiaceae",
+                     "Rhizobiaceae", "Muribaculaceae")
+length(target_families)
+
+# Subset at the Family level
+hps_subset_family <- subset_taxa(pl_hps_M_Cd, Family %in% target_families)
+
+# Check how many taxa remain
+ntaxa(hps_subset_family)
+
+# Inspect taxonomy table
+tax_table(hps_subset_family)
+
+# glom at the Family level
+hps_subset_family_glom <- tax_glom(hps_subset_family, taxrank = "Family")
+
+
+hps_subset_family_glom_df <- as.data.frame(otu_table(hps_subset_family_glom))
+
+# correlation with
+zotu_18_families_COR_com_hps_Cd_edge <- metabo_otu_cor_p_tab(hps_subset_family_glom_df, metabo_df, 59, 66, 0.01, 0.8)
+
+#assign family names to the next to the Source column in the edge file using info from phyloseq object and also assign compound names next to the Target column using info from metabo_df. Not construct_node_file() function.
+zotu_18_families_COR_com_hps_Cd_edge$Source_Family <- sapply(zotu_18_families_COR_com_hps_Cd_edge$Source, function(x) {
+  if (grepl("Zotu", x)) {
+    family_name <- tax_table(hps_subset_family_glom)[x, "Family"]
+    return(family_name)
+  } else {
+    return(NA)
+  }
+})
+
+zotu_18_families_COR_com_hps_Cd_edge <- zotu_18_families_COR_com_hps_Cd_edge %>%
+  left_join(metabo_df[, c("com_id", "com_name")], 
+            by = c("Target" = "com_id"))
+
+
+View(zotu_18_families_COR_com_hps_Cd_edge)
+
 
 
 

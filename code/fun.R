@@ -1,12 +1,24 @@
+# Define a helper function to remove outliers (using IQR rule)
+remove_outliers <- function(x) {
+  q1 <- quantile(x, 0.25, na.rm = TRUE)
+  q3 <- quantile(x, 0.75, na.rm = TRUE)
+  iqr <- q3 - q1
+  lower <- q1 - 1.5 * iqr
+  upper <- q3 + 1.5 * iqr
+  x[x < lower | x > upper | x < 0] <- NA   # mark outliers as NA
+  return(x)
+}
+
 plot_box <- function(df, x, y, z){
   ggplot2::theme_set(theme_bw())
   
-  plot <- ggplot2::ggplot(df, aes(x = {{x}}, y = {{y}}), fill = {{z}})+
-    geom_boxplot()+
+  plot <- ggplot2::ggplot(df, aes(x = {{x}}, y = {{y}}, fill = {{z}}))+
+    geom_boxplot(outlier.shape = NA)+
+    theme(panel.grid = element_blank())  
     # geom_jitter(alpha = 0.5, width = 0.2)+
-    stat_summary(fun=mean, geom="point", 
-                 shape=20, size=3, color="indianred")
-  
+    # stat_summary(fun=mean, geom="point", 
+    #              shape=20, size=3, color="indianred")
+    # remove outliers
   return(plot)
 }
 
@@ -477,7 +489,7 @@ metabo_otu_cor_p_tab <- function(df_otu, df_metabo, which_sample, to_which_sampl
   # construct R and P value tables
   library(Hmisc)
   # cor_p_mt is a very large file
-  cor_p_mt <- rcorr(as.matrix(df7), as.matrix(metabo_df6), type = 'spearman')
+  cor_p_mt <- rcorr(as.matrix(df7), as.matrix(metabo_df6), type = 'pearson')
   
   # flattern the tables using the function flat_mt() (own function)
   
