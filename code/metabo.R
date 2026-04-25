@@ -693,7 +693,7 @@ zotu_18_families_COR_com_hps_Cd_edge <- zotu_18_families_COR_com_hps_Cd_edge %>%
   left_join(metabo_df[, c("com_id", "com_name")], 
             by = c("Target" = "com_id"))
 
-
+# check what bacteria sig. correlate with what compounds
 View(zotu_18_families_COR_com_hps_Cd_edge)
 
 
