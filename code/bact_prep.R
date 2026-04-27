@@ -31,7 +31,7 @@ devtools::install_github("zdk123/SpiecEasi")
 
 
 
-my_packages <- c('readxl', 'phyloseq', 'ape', 'Biostrings', 'tidyverse', 'dplyr', 'pairwiseAdonis', 'reshape2', 'ggplot2', 'ggpubr', 'DESeq2', 'GGally', 'igraph', 'vegan', 'ecodist', 'agricolae', 'stats', 'writexl', 'dendextend', 'apeglm', 'pheatmap', 'GOplot','tibble', 'boot', 'chattr', 'SpiecEasi')
+my_packages <- c('readxl', 'phyloseq', 'ape', 'Biostrings', 'tidyverse', 'dplyr', 'pairwiseAdonis', 'reshape2', 'ggplot2', 'ggpubr', 'DESeq2', 'GGally', 'igraph', 'vegan', 'ecodist', 'agricolae', 'stats', 'writexl', 'dendextend', 'apeglm', 'pheatmap', 'GOplot','tibble', 'boot', 'chattr', 'SpiecEasi', 'viridis')
 
 install.packages(my_packages) # 'phyloseq', 'DESeq2', and 'pairwiseAdonis' may not be installed using this code. But it is fine as they have been installed above. my_packages is also used for library attaching as follows.
 

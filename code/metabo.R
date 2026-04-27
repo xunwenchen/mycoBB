@@ -366,7 +366,7 @@ ggplot(ft_df1_z_avg, aes(`O/C`, `H/C`))+
 
 # draw frames to indicate types of organic compounds such as 
 
-# ~~~~ Addtional Figure. V-K plot ----
+# ~~~~ Additional Figure. V-K plot ----
 ggplot(ft_df1_z_avg, aes(`O/C`, `H/C`))+
   geom_point(alpha = 0.3, size = 0.5)+
   xlim(-0.1, 1.2)+
@@ -388,9 +388,19 @@ ggsave('out/vk_plot.jpg',
        w = 88, h = 66, units = 'mm')
 }
 
+
+ggplot(ft_df1_z_avg, aes(x = hps_f_cd_avg_z)) +
+  geom_histogram(bins = 100, fill = "steelblue", color = "white") +
+  xlim(-0.1, 0.1)
+
+
+
 vk_p1 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_ck_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+                        ) +
   #scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -406,7 +416,10 @@ vk_p1 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_ck_avg_z`)) +
 
 vk_p2 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_cd_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   #scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -422,7 +435,10 @@ vk_p2 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_cd_avg_z`)) +
 
 vk_p3 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_f_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -438,7 +454,10 @@ vk_p3 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_f_avg_z`)) +
 
 vk_p4 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_f_cd_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        llimits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -452,13 +471,12 @@ vk_p4 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`rs_f_cd_avg_z`)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
   ggtitle('Rhizosphere (M+Cd)') 
 
-
-
-
-
 vk_p5 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_ck_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -474,7 +492,10 @@ vk_p5 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_ck_avg_z`)) +
 
 vk_p6 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_cd_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -490,7 +511,10 @@ vk_p6 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_cd_avg_z`)) +
 
 vk_p7 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_f_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "viridis",
+                        limits = c(-0.1, 0.1),
+                        #oob = scales::squish
+  ) +
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -506,7 +530,10 @@ vk_p7 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_f_avg_z`)) +
 
 vk_p8 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_f_cd_avg_z`)) +
   geom_point(alpha=0.6) +
-  scale_color_gradient(low = "blue", high = "red") +
+  scale_color_viridis_c(option = "D",   # or "C" for cividis
+                        limits = c(-0.1, 0.1),
+                        oob = custom_oob) +
+  scale_color_manual(values = c("black", "viridis", "red"))+
   # scale_size(range = c(1, 20)) +# Adjust the range based on your preference
   xlim(-0.1, 1.2)+
   ylim(0, 2.5)+
@@ -520,12 +547,14 @@ vk_p8 <- ggplot(ft_df1_z_avg, aes(x=`O/C`, y=`H/C`, color=`hps_f_cd_avg_z`)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
   ggtitle('Hyphosphere (M+Cd)') 
 
+
 # ~~~~ Additional Figure. V-K figure by rhiz and hypho, by group ----
 p_vk_g <- ggarrange(vk_p1, vk_p2, vk_p3, vk_p4,
           vk_p5, vk_p6, vk_p7, vk_p8,
           labels = c('a', 'b', 'c', 'd',
                      'e', 'f', 'g', 'h'),
           ncol = 4, nrow = 2, legend = "none")
+p_vk_g
 
 if(save){
   ggsave('out/vk_plot_by_cmpt_trt.pdf', plot = p_vk_g,
@@ -646,7 +675,7 @@ write.csv(zotu_COR_com_hps_M_Cd_edge,"data/metabo_data/zotu_COR_com_hps_M_Cd_edg
 # Based on DESeq2 results, we can also select differentially abundant ASVs and then construct the bacteria-metabo network by only using those ASVs. 
 
 # subset Hyphosphere - M+Cd samples from the phyloseq object
-pl_hps_M_Cd <- subset_samples(pl_un_rarefied, Compartment == 'Hyphosphere' & Group == 'M+Cd')
+pl_hps_M_Cd <- subset_samples(pl, Compartment == 'Hyphosphere' & Group == 'M+Cd')
 # Confirm "Family" is one of the ranks
 rank_names(pl_hps_M_Cd)
 # Define the 18 families you want to keep
@@ -660,6 +689,27 @@ target_families <- c("Microbacteriaceae",
                      "Sphingomonadaceae", "Devosiaceae",
                      "Rhizobiaceae", "Muribaculaceae")
 length(target_families)
+
+# Assign different colors to different families
+family_colors <- c("Microbacteriaceae" = "#1f77b4", 
+                   "Corynebacteriaceae" = "#ff7f0e", 
+                   "Propionibacteriaceae" = "#2ca02c",
+                   "Streptomycetaceae" = "#d62728", 
+                   "Staphylococcaceae" = "#9467bd", 
+                   "Streptococcaceae" = "#8c564b", 
+                   "Lactobacillaceae" = "#e377c2", 
+                   "Bacillaceae" = "#7f7f7f", 
+                   "BIrii41" = "#bcbd22", 
+                   "Haliangiaceae" = "#17becf",
+                   "Enterobacteriaceae" = "#aec7e8", 
+                   "Pseudomonadaceae" = "#ffbb78", 
+                   "Caulobacteraceae" = "#98df8a", 
+                   "Burkholderiaceae" = "#ff9896", 
+                   "Sphingomonadaceae" = "#c5b0d5", 
+                   "Devosiaceae" = "#c49c94",
+                   "Rhizobiaceae" = "#f7b6d2", 
+                   "Muribaculaceae" = "#c7c7c7")
+
 
 # Subset at the Family level
 hps_subset_family <- subset_taxa(pl_hps_M_Cd, Family %in% target_families)
@@ -677,7 +727,7 @@ hps_subset_family_glom <- tax_glom(hps_subset_family, taxrank = "Family")
 hps_subset_family_glom_df <- as.data.frame(otu_table(hps_subset_family_glom))
 
 # correlation with
-zotu_18_families_COR_com_hps_Cd_edge <- metabo_otu_cor_p_tab(hps_subset_family_glom_df, metabo_df, 59, 66, 0.01, 0.8)
+zotu_18_families_COR_com_hps_Cd_edge <- metabo_otu_cor_p_tab(hps_subset_family_glom_df, metabo_df, 59, 66, 0.05, 0.6)
 
 #assign family names to the next to the Source column in the edge file using info from phyloseq object and also assign compound names next to the Target column using info from metabo_df. Not construct_node_file() function.
 zotu_18_families_COR_com_hps_Cd_edge$Source_Family <- sapply(zotu_18_families_COR_com_hps_Cd_edge$Source, function(x) {
@@ -690,11 +740,60 @@ zotu_18_families_COR_com_hps_Cd_edge$Source_Family <- sapply(zotu_18_families_CO
 })
 
 zotu_18_families_COR_com_hps_Cd_edge <- zotu_18_families_COR_com_hps_Cd_edge %>%
-  left_join(metabo_df[, c("com_id", "com_name")], 
+  left_join(metabo_df[, c("com_id", "com_name", 
+                          "mz", "C", "H", "O", 
+                          "HC_ratio", "OC_ratio")], 
             by = c("Target" = "com_id"))
+
+# Assign family colors to the edge file based on the family names
+zotu_18_families_COR_com_hps_Cd_edge$Family_Color <- sapply(zotu_18_families_COR_com_hps_Cd_edge$Source_Family, function(family) {
+  if (!is.na(family) && family %in% names(family_colors)) {
+    return(family_colors[family])
+  } else {
+    return(NA) # or a default color for unknown families
+  }
+})
 
 # check what bacteria sig. correlate with what compounds
 View(zotu_18_families_COR_com_hps_Cd_edge)
+
+# V-K plot - show if certain bacteria fall in a range in the compound V-K plot. This can be used to show if certain bacteria correlate with more labile or recalcitrant compounds.
+zotu_18_families_COR_com_hps_Cd_edge %>%
+  subset(Source_Family %in% c(
+                              #"Microbacteriaceae", 
+                              #"Corynebacteriaceae", 
+                              #"Propionibacteriaceae",
+                              # "Streptomycetaceae"
+                              #"Staphylococcaceae", 
+                              #"Streptococcaceae",
+                              #"Lactobacillaceae", 
+                              #"Bacillaceae", 
+                              #"BIrii41", 
+                              #"Haliangiaceae",
+                              #"Enterobacteriaceae", 
+                              "Pseudomonadaceae"
+                              #"Caulobacteraceae", 
+                              # "Burkholderiaceae", 
+                              #"Sphingomonadaceae",
+                              #"Devosiaceae",
+                              #"Rhizobiaceae", 
+                              #"Muribaculaceae"
+                              )) %>%
+ggplot(aes(x=OC_ratio, y=HC_ratio, color = Source_Family)) +
+  geom_point(alpha=0.6) +
+  # scale_color_gradient(low = "blue", high = "red") +
+  #scale_size(range = c(1, 20)) +# Adjust the range based on your preference
+  xlim(-0.1, 1.2)+
+  ylim(0, 2.5)+
+  geom_rect(aes(xmin = 0, xmax = 0.2, ymin = 1.5, ymax = 2.3), alpha = 0, color = "black", linetype='dotted', linewidth = 0.2)+
+  geom_rect(aes(xmin = 0.2, xmax = 0.52, ymin = 1.5, ymax = 2.2), alpha = 0, color = "black",  linetype='dotted', linewidth = 0.2)+
+  geom_rect(aes(xmin = 0.52, xmax = 0.7, ymin = 1.5, ymax = 2.3), alpha = 0, color = "black",  linetype='dotted', linewidth = 0.2)+
+  geom_rect(aes(xmin = 0.7, xmax = 1.1, ymin = 1.5, ymax = 2.4), alpha = 0, color = "black",  linetype='dotted',  linewidth = 0.2)+
+  geom_rect(aes(xmin = 0, xmax = 0.25, ymin = 0.5, ymax = 1.25), alpha = 0, color = "black",  linetype='dotted', linewidth = 0.2)+
+  geom_rect(aes(xmin = 0.25, xmax = 0.67, ymin = 0.75, ymax = 1.5), alpha = 0, color = "black", linetype='dotted',  linewidth = 0.2)+
+  geom_rect(aes(xmin = 0.67, xmax = 0.97, ymin = 0.53, ymax = 1.5), alpha = 0, color = "black", linetype='dotted',  linewidth = 0.2)+
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+  ggtitle('Hyphosphere (M+Cd)') 
 
 
 

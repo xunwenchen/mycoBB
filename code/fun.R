@@ -489,7 +489,7 @@ metabo_otu_cor_p_tab <- function(df_otu, df_metabo, which_sample, to_which_sampl
   # construct R and P value tables
   library(Hmisc)
   # cor_p_mt is a very large file
-  cor_p_mt <- rcorr(as.matrix(df7), as.matrix(metabo_df6), type = 'pearson')
+  cor_p_mt <- rcorr(as.matrix(df7), as.matrix(metabo_df6), type = 'spearman')
   
   # flattern the tables using the function flat_mt() (own function)
   
@@ -1597,5 +1597,13 @@ ask_to_save <- function() {
   return(save)
 }
 
+
+custom_oob <- function(x, range = c(-0.1, 0.1)) {
+  dplyr::case_when(
+    x < range[1] ~ range[1],   # force to lower end
+    x > range[2] ~ range[2],   # force to upper end
+    TRUE ~ x
+  )
+}
 
 
