@@ -136,6 +136,138 @@ ggsave('out/Fig. S2. AM col rate and plant biomass.jpg', plot = plant_trait_plot
 rm(p1, p2, p3, p4)
 
 
+# bar chart with SD and ANOVA+Tukey letters ----
+# calculate mean and SD for colonization_rate, sht_dry_mass, grain_dry_mass, rt_cd, sht_cd, and grain_cd
+plant_data_mut_mean <- plant_data_mut %>% 
+  group_by(group) %>% 
+  summarise(
+    col_mean      = mean(colonization_rate, na.rm = TRUE),
+    col_sd        = sd(colonization_rate, na.rm = TRUE),
+    sht_ms_mean   = mean(sht_dry_mass, na.rm = TRUE),
+    sht_ms_sd     = sd(sht_dry_mass, na.rm = TRUE),
+    grain_ms_mean = mean(grain_dry_mass, na.rm = TRUE),
+    grain_ms_sd   = sd(grain_dry_mass, na.rm = TRUE),
+    rt_cd_mean    = mean(rt_cd, na.rm = TRUE),
+    rt_cd_sd      = sd(rt_cd, na.rm = TRUE),
+    sht_cd_mean   = mean(sht_cd, na.rm = TRUE),
+    sht_cd_sd     = sd(sht_cd, na.rm = TRUE),
+    grain_cd_mean = mean(grain_cd, na.rm = TRUE),
+    grain_cd_sd   = sd(grain_cd, na.rm = TRUE)
+  )
+
+# plot bar chart with SD and ANOVA+Tukey letters for colonization_rate, sht_dry_mass, grain_dry_mass,rt_Cc, sht_cd, and grain_cd ----
+p_col_bar <- ggplot(plant_data_mut_mean, aes(x = group, y = col_mean))+
+  geom_bar(stat = "identity", fill = 'lightgrey', color = 'black')+
+  geom_errorbar(aes(ymin = col_mean - col_sd, ymax = col_mean + col_sd), width = 0.2)+
+  xlab('Treatment')+
+  ylab('AM colonization rate (%)')+
+  annotate("text", y = 48, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("c", "c", "a", "b"))+
+  # remove grid
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+p_sht_ms_bar <- ggplot(plant_data_mut_mean, aes(x = group, y = sht_ms_mean))+
+  geom_bar(stat = "identity", fill = 'lightgrey', color = 'black')+
+  geom_errorbar(aes(ymin = sht_ms_mean - sht_ms_sd, ymax =
+                       sht_ms_mean + sht_ms_sd), width = 0.2)+
+  xlab('Treatment')+
+  ylab('Shoot dry mass (g/pot)')+
+  annotate("text", y = 52, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("a", "ab", "a", "b"))+
+  # remove grid
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+p_grain_ms_bar <- ggplot(plant_data_mut_mean, aes(x = group, y = grain_ms_mean))+
+  geom_bar(stat = "identity", fill = 'lightgrey', color = 'black')+
+  geom_errorbar(aes(ymin = grain_ms_mean - grain_ms_sd, ymax = grain_ms_mean + grain_ms_sd), width = 0.2)+ 
+  xlab('Treatment')+
+  ylab('Grain yield (g/pot)')+
+  annotate("text", y = 17.5, x = c("Ctrl", "Cd", "M", "M+Cd"), 
+           label = c("ab", "b", "a", "a"))+
+  # remove grid
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+# Barchart for rt_cd, sht_cd, and grain_cd, but use t.test. select only groups Cd and M+Cd for t.test, and annotate the p-value on the plot. If p > 0.05, annotate "ns" on the plot.
+ttest_res <- t.test(rt_cd ~ group,
+                    data = plant_data_mut %>% filter(group %in% c("Cd","M+Cd")))
+
+pval <- ttest_res$p.value
+sig_label <- ifelse(pval < 0.05, "*", "ns")
+
+p_rt_cd_bar <- ggplot(plant_data_mut_mean %>% filter(group %in% c("Cd","M+Cd")),
+       aes(x = group, y = rt_cd_mean)) +
+  geom_bar(stat = "identity", fill = 'lightgray', color = 'black') +
+  geom_errorbar(aes(ymin = rt_cd_mean - rt_cd_sd,
+                    ymax = rt_cd_mean + rt_cd_sd), width = 0.2) +
+  annotate("text", x = 1.5,
+           y = max(plant_data_mut_mean$rt_cd_mean + plant_data_mut_mean$rt_cd_sd) * 1.05,
+           label = sig_label) +
+  xlab("Treatment") +
+  ylab("Root Cd conc. (mg/kg)") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+
+# do the same for sht_cd
+ttest_res_sht <- t.test(sht_cd ~ group,
+                    data = plant_data_mut %>% filter(group %in% c("Cd","M+Cd")))
+pval_sht <- ttest_res_sht$p.value
+sig_label_sht <- ifelse(pval_sht < 0.05, "*", "ns")
+p_sht_cd_bar <- ggplot(plant_data_mut_mean %>% filter(group %in% c("Cd","M+Cd")),
+       aes(x = group, y = sht_cd_mean)) +
+  geom_bar(stat = "identity", fill = 'lightgrey', color = 'black') +
+  geom_errorbar(aes(ymin = sht_cd_mean - sht_cd_sd,
+                    ymax = sht_cd_mean + sht_cd_sd), width = 0.2) +
+  annotate("text", x = 1.5,
+           y = max(plant_data_mut_mean$sht_cd_mean + plant_data_mut_mean$sht_cd_sd) * 1.05,
+           label = sig_label_sht) +
+  xlab("Treatment") +
+  ylab("Shoot Cd conc. (mg/kg)") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+# do the same for grain_cd
+ttest_res_grain <- t.test(grain_cd ~ group,
+                    data = plant_data_mut %>% filter(group %in% c("Cd","M+Cd")))
+pval_grain <- ttest_res_grain$p.value
+sig_label_grain <- ifelse(pval_grain < 0.05, "*", "ns")
+p_grain_cd_bar <- ggplot(plant_data_mut_mean %>% filter(group %in% c("Cd","M+Cd")),
+       aes(x = group, y = grain_cd_mean)) +
+  geom_bar(stat = "identity", fill = 'lightgrey', color = 'black') +
+  geom_errorbar(aes(ymin = grain_cd_mean - grain_cd_sd,
+                    ymax = grain_cd_mean + grain_cd_sd), width = 0.2) +
+  annotate("text", x = 1.5,
+           y = max(plant_data_mut_mean$grain_cd_mean + plant_data_mut_mean$grain_cd_sd) * 1.05,
+           label = sig_label_grain) +
+  xlab("Treatment") +
+  ylab("Grain Cd conc. (mg/kg)") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())
+
+# arrange the bar plots
+p_cd_bar <- ggarrange(p_rt_cd_bar, p_sht_cd_bar, p_grain_cd_bar,
+          ncol = 3, nrow = 1)
+
+# arrange all bar plots
+plant_trait_bar_plot <- ggarrange(p_col_bar, p_sht_ms_bar, 
+                                  p_grain_ms_bar, p_cd_bar,
+          labels = c("a", "b", "c", "d"),
+          ncol = 2, nrow = 2)
+
+
+# save plot
+ggsave('out/plant_trait_bar_plot.pdf', plot = plant_trait_bar_plot, width = 88*2.1, height = 66*2, units = "mm")
+ggsave('out/plant_trait_bar_plot.jpg', plot = plant_trait_bar_plot, width = 88*2.1, height = 66*2, units = "mm")
+
 # Soil properties ----
 
 soil_data_no_bulk <- soil_data %>% subset(compartment != 'Bulk soil') 
